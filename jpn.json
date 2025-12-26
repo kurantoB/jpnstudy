@@ -1,0 +1,62 @@
+[
+  {
+    "category": "Basic Grammar / Advanced Topics",
+    "bank": [
+      {
+        "sentence": "今日は試験だ。\nジョンは？\nジョンは明日。",
+        "romaji": "KYOo wa SHIKEn da.\nJOn WA?\nJOn wa aSHITA.",
+        "section": "Introduction to Particles"
+      },
+      {
+        "sentence": "アリスは学生？\nううん、トムも学生じゃない。",
+        "romaji": "Arisu wa gaKUSEI?\nUun, TOmu mo gaKUSEI JA NAI.",
+        "section": "Introduction to Particles"
+      }
+    ]
+  },
+  {
+    "category": "Essential Grammar",
+    "bank": [
+      {
+        "sentence": "昨日、友達が遊びにきた。",
+        "romaji": "kiNOO, toMODACHI GA aSOBI NI KIta.",
+        "section": "Polite Form and Verb Stems"
+      },
+      {
+        "sentence": "先週に見た映画は、とても面白かったです。",
+        "romaji": "seNSHUU NI MIta eEGA WA, toTEMO oMOSHIROkatta desu.",
+        "section": "Polite Form and Verb Stems"
+      }
+    ]
+  },
+  {
+    "category": "Special Expressions",
+    "bank": [
+      {
+        "sentence": "全部食べさせた。",
+        "romaji": "ZEnbu taBESASEta.",
+        "section": "Causative and Passive Verbs"
+      },
+      {
+        "sentence": "先生が学生に宿題をたくさんさせた。",
+        "romaji": "seNSEe ga gaKUSEI NI shuKUDAI O taKUSAN saSEta.",
+        "section": "Causative and Passive Verbs"
+      }
+    ]
+  },
+  {
+    "category": "JLPT Grammar",
+    "bank": [
+      {
+        "sentence": "彼の家はゴミだらけだ。",
+        "romaji": "KAre no iE WA goMI DArake da.",
+        "section": "だらけ"
+      },
+      {
+        "sentence": "お医者さんのおかげで病気が治った。",
+        "romaji": "oISHASAN NO oKAGE DE byoOKI GA naOtta.",
+        "section": "おかげ"
+      }
+    ]
+  }
+]
