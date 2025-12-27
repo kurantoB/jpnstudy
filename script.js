@@ -1,23 +1,51 @@
-const STATUS_ID = 'status';
-const OUTPUT_ID = 'output';
 const SOURCE_URL = 'https://raw.githubusercontent.com/kurantoB/jpnstudy/refs/heads/master/jpn.json';
 
-const statusEl = document.getElementById(STATUS_ID);
-const outputEl = document.getElementById(OUTPUT_ID);
+const $status = $('#status');
+const $output = $('#output');
 
-async function loadJpnJson() {
-    try {
-        statusEl.textContent = 'Fetching JSON...';
-        const res = await fetch(SOURCE_URL, { cache: 'no-store' });
-        if (!res.ok) throw new Error(`HTTP ${res.status}`);
-        const data = await res.json();
-        outputEl.textContent = JSON.stringify(data, null, 2);
-        statusEl.textContent = 'Loaded';
-    } catch (err) {
-        statusEl.textContent = 'Failed to load JSON';
-        outputEl.textContent = String(err);
-        console.error(err);
-    }
+function loadJpnJson() {
+	$status.text('Fetching JSON...');
+	$.ajax({
+		url: SOURCE_URL,
+		dataType: 'json',
+		cache: false,
+		success(data) {
+			for (const outputChild of processData(data)) {
+				$output.append(outputChild);
+			}
+			$status.css('display', 'none');
+		},
+		error(jqXHR, textStatus, errorThrown) {
+			$status.text('Failed to load JSON');
+			$output.text(textStatus + (errorThrown ? ': ' + errorThrown : ''));
+			console.error(textStatus, errorThrown);
+		}
+	});
 }
 
-document.addEventListener('DOMContentLoaded', loadJpnJson);
+function processData(data) {
+	let result = [];
+	for (const entry of data) {
+		const $entryDiv = $('<div>');
+		result.push($entryDiv);
+		$entryDiv.append($('<h2>').text(entry.category));
+		const $bankContents = addFromBank(entry.bank);
+		$entryDiv.append($bankContents);
+	}
+	return result;
+}
+
+function addFromBank(bank) {
+	let $bankContents = $('<div>');
+	// get a random element from the bank array.
+	if (bank.length > 0) {
+		const randomIndex = Math.floor(Math.random() * bank.length);
+		const randomElement = bank[randomIndex];
+		$bankContents.append($('<h3>').text(randomElement.section));
+		$bankContents.append($('<p>').text(randomElement.romaji));
+		$bankContents.append($('<p>').text(randomElement.sentence));
+	}
+	return $bankContents;
+}
+
+$(document).ready(loadJpnJson);

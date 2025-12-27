@@ -3,13 +3,13 @@
     "category": "Basic Grammar / Advanced Topics",
     "bank": [
       {
-        "sentence": "今日は試験だ。\\nジョンは？\\nジョンは明日。",
-        "romaji": "KYOo wa SHIKEn da.\\nJOn WA?\\nJOn wa aSHITA.",
+        "sentence": "今日は試験だ。ジョンは？ジョンは明日。",
+        "romaji": "KYOo wa SHIKEn da. JOn WA? JOn wa aSHITA.",
         "section": "Introduction to Particles"
       },
       {
-        "sentence": "アリスは学生？\nううん、トムも学生じゃない。",
-        "romaji": "Arisu wa gaKUSEI?\nUun, TOmu mo gaKUSEI JA NAI.",
+        "sentence": "アリスは学生？ううん、トムも学生じゃない。",
+        "romaji": "Arisu wa gaKUSEI? Uun, TOmu mo gaKUSEI JA NAI.",
         "section": "Introduction to Particles"
       }
     ]
