@@ -3,8 +3,8 @@
     "category": "Basic Grammar / Advanced Topics",
     "bank": [
       {
-        "sentence": "今日は試験だ。\nジョンは？\nジョンは明日。",
-        "romaji": "KYOo wa SHIKEn da.\nJOn WA?\nJOn wa aSHITA.",
+        "sentence": "今日は試験だ。<br>ジョンは？<br>ジョンは明日。",
+        "romaji": "KYOo wa SHIKEn da.<br>JOn WA?<br>JOn wa aSHITA.",
         "section": "Introduction to Particles"
       },
       {
