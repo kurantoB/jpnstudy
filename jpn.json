@@ -9,8 +9,18 @@
       },
       {
         "sentence": "アリスは学生？ううん、トムも学生じゃない。",
-        "romaji": "Arisu wa gaKUSEI? Uun, TOmu mo gaKUSEI JA NAI.",
+        "romaji": "Arisu wa gaKUSEI? Uun, TOmu mo gaKUSEI JA NAi.",
         "section": "Introduction to Particles"
+      },
+      {
+        "sentence": "魚が好きなタイプは、野菜も好きだ。",
+        "romaji": "saKANA GA suKI na TAipu wa, yaSAI MO suKI da.",
+        "section": "Adjectives"
+      },
+      {
+        "sentence": "値段が高いレストランはあまり好きじゃない。",
+        "romaji": "neDAN GA taKAi REsutoran wa aMARI suKI ja NAi.",
+        "section": "Adjectives"
       }
     ]
   },
