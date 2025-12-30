@@ -19,7 +19,7 @@
       },
       {
         "sentence": "値段が高いレストランはあまり好きじゃない。",
-        "romaji": "neDAN GA taKAi REsutoran wa aMARI suKI ja NAi.",
+        "romaji": "neDAN GA taKAi REsutoran wa aMARI SUKI ja NAi.",
         "section": "Adjectives"
       },
       {
@@ -46,6 +46,191 @@
         "sentence": "どこで食べる？イタリアレストランではどう？",
         "romaji": "DOko de taBEru? iTARIAREsutoran de wa DOo?",
         "section": "Particles Used with Verbs"
+      },
+      {
+        "sentence": "誰が窓を開けた？",
+        "romaji": "DAre ga MAdo o aKETA?",
+        "section": "Transitive and Intransitive Verbs"
+      },
+      {
+        "sentence": "窓がどうして開いた？",
+        "romaji": "MAdo ga DOoshite aITA?",
+        "section": "Transitive and Intransitive Verbs"
+      },
+      {
+        "sentence": "部屋を出た。",
+        "romaji": "heYA o DEta.",
+        "section": "Transitive and Intransitive Verbs"
+      },
+      {
+        "sentence": "先週に医者だったボブは、仕事を辞めた。",
+        "romaji": "seNSHUU NI iSHA DAtta BObu wa, shiGOTO O yaMETA.",
+        "section": "Descriptive Subordinate Clauses and Sentence Order"
+      },
+      {
+        "sentence": "赤いズボンを買う友達はボブだ。",
+        "romaji": "aKAI ZUbon o kaU toMODACHI WA BObu da.",
+        "section": "Descriptive Subordinate Clauses and Sentence Order"
+      },
+      {
+        "sentence": "本と雑誌と葉書を買った。",
+        "romaji": "HOn to zaSSHI TO haGAKI O kaTTA.",
+        "section": "Noun-related Particles"
+      },
+      {
+        "sentence": "先生と会った。",
+        "romaji": "seNSEe to Atta.",
+        "section": "Noun-related Particles"
+      },
+      {
+        "sentence": "靴やシャツを買う。",
+        "romaji": "kuTSU YA SHAtsu o kaU.",
+        "section": "Noun-related Particles"
+      },
+      {
+        "sentence": "靴とかシャツを買う。",
+        "romaji": "kuTSU TOka SHAtsu o kaU.",
+        "section": "Noun-related Particles"
+      },
+      {
+        "sentence": "そのシャツは誰の？ボブのだ。",
+        "romaji": "soNO SHAtsu wa DAre no? BObu no da.",
+        "section": "Noun-related Particles"
+      },
+      {
+        "sentence": "授業に行くのを忘れた。",
+        "romaji": "JUgyoo ni iKU NO o waSURETA.",
+        "section": "Noun-related Particles"
+      },
+      {
+        "sentence": "授業に行くことを忘れた。",
+        "romaji": "JUgyoo ni iKU KOTO o waSURETA.",
+        "section": "Noun-related Particles"
+      },
+      {
+        "sentence": "静かなのが、アリスの部屋だ。",
+        "romaji": "SHIzuka na no ga, Arisu no heYA da.",
+        "section": "Noun-related Particles"
+      },
+      {
+        "sentence": "今は忙しいのだ。",
+        "romaji": "Ima wa iSOGASHIi no da.",
+        "section": "Noun-related Particles"
+      },
+      {
+        "sentence": "ジムなのだ。",
+        "romaji": "JImu na no da.",
+        "section": "Noun-related Particles"
+      },
+      {
+        "sentence": "その人が買うんじゃなかったの？ううん、先生が買うんだ。",
+        "romaji": "soNO HITO GA kaU N ja NAkatta no? Uun, seNSEe ga kaU N da.",
+        "section": "Noun-related Particles"
+      },
+      {
+        "sentence": "ボブの声は、結構大きい。",
+        "romaji": "BObu no KOe wa, KEkkoo oOKIi.",
+        "section": "Adverbs and Sentence-ending Particles"
+      },
+      {
+        "sentence": "この町は、最近大きく変わった。",
+        "romaji": "koNO MACHI wa, saIKIN OOKIku kaWATTA.",
+        "section": "Adverbs and Sentence-ending Particles"
+      },
+      {
+        "sentence": "図書館の中では、静かにする。",
+        "romaji": "toSHOkan no NAka de wa, SHIzuka ni suRU.",
+        "section": "Adverbs and Sentence-ending Particles"
+      },
+      {
+        "sentence": "おもしろい映画だったね。",
+        "romaji": "oMOSHIROi eEGA DAtta ne.",
+        "section": "Adverbs and Sentence-ending Particles"
+      },
+      {
+        "sentence": "時間がないよ。",
+        "romaji": "jiKAN GA NAi yo.",
+        "section": "Adverbs and Sentence-ending Particles"
+      },
+      {
+        "sentence": "ボブは、魚が好きなんだよね。",
+        "romaji": "BObu wa, saKANA GA suKI na n da yo ne.",
+        "section": "Adverbs and Sentence-ending Particles"
+      },
+      {
+        "sentence": "火を付け、",
+        "romaji": "HI o TSUke,",
+        "section": "Formal Expressions"
+      },
+      {
+        "sentence": "写真が数枚入っており、",
+        "romaji": "shaSHIN GA SUumai HAitteori,",
+        "section": "Formal Expressions"
+      },
+      {
+        "sentence": "彼は漫画マニアだから、これらをもう全部読んだはずだよ。",
+        "romaji": "KAre wa maNGA MAnia dakara, koREra o MOo ZEnbu YOnda haZU da yo.",
+        "section": "Things that Should be a Certain Way"
+      },
+      {
+        "sentence": "そう簡単に直せるはずがないよ。",
+        "romaji": "soO KANTAN NI naOSEru haZU GA NAi yo.",
+        "section": "Things that Should be a Certain Way"
+      },
+      {
+        "sentence": "何かを買う前に本当に必要かどうかをよく考えるべきだ。",
+        "romaji": "NAnika o kaU MAe ni hoNTOO NI hiTSUYOO KA DOo ka o YOku kaNGAEru BEki da.",
+        "section": "Things that Should be a Certain Way"
+      },
+      {
+        "sentence": "宿題が多すぎて、トイレに行く時間さえなかった。",
+        "romaji": "shuKUDAI GA OOSUgite, TOire ni iKU jiKAN SAE NAkatta.",
+        "section": "The Minimum Expectation"
+      },
+      {
+        "sentence": "お金さえあれば、何でも出来るよ。",
+        "romaji": "oKANE SAE Areba, naN DE MO deKIru yo.",
+        "section": "The Minimum Expectation"
+      },
+      {
+        "sentence": "ビタミンを食べさえすれば、健康が保証されますよ。",
+        "romaji": "biTAmin o TAbe sae suREba, kenKOO GA hoSHOO SAREMAsu yo.",
+        "section": "The Minimum Expectation"
+      },
+      {
+        "sentence": "漢字はおろか、ひらがなさえ読めないよ！",
+        "romaji": "kaNJI WA Oroka, hiRAGAna sae yoMEnai yo!",
+        "section": "The Minimum Expectation"
+      },
+      {
+        "sentence": "うちの子供はプールに入るのを理由もなく怖がる。",
+        "romaji": "uCHI NO koDOMO WA PUuru ni HAiru no o riYUU MO NAku koWAGAru.",
+        "section": "Showing Signs of Something"
+      },
+      {
+        "sentence": "家に帰ったら、すぐパソコンを使いたがる。",
+        "romaji": "iE ni KAettara, SUgu paSOKON O tsuKAITAGAru.",
+        "section": "Showing Signs of Something"
+      },
+      {
+        "sentence": "妻はルイヴィトンのバッグを欲しがっているんだけど、そんなもん、買えるわけないでしょう！",
+        "romaji": "TSUma wa ruIVIton no BAggu o hoSHIGAtte iRU N da kedo, sonNA mon, kaERU WAke NAi deshoo!",
+        "section": "Showing Signs of Something"
+      },
+      {
+        "sentence": "私は寒がり屋だから、ミネソタで暮らすのは辛かった。",
+        "romaji": "waTASHI WA saMUGAriya dakara, miNESOTA DE kuRASU NO wa tsuRAkatta.",
+        "section": "Showing Signs of Something"
+      },
+      {
+        "sentence": "「あんたと関係ない」と言わんばかりに彼女は彼を無視していた。",
+        "romaji": "Anta to kaNKEE NAi to iWAN BAkari ni KAnojo wa KAre o MUshi shite ita.",
+        "section": "Showing Signs of Something"
+      },
+      {
+        "sentence": "紅葉が始まり、すっかり秋めいた空気になってきた。",
+        "romaji": "koOYOO O haJIMARI, suKKAri aKIMEita KUuki ni NAtte kita.",
+        "section": "Showing Signs of Something"
       }
     ]
   },
@@ -74,7 +259,7 @@
       },
       {
         "sentence": "先生が学生に宿題をたくさんさせた。",
-        "romaji": "seNSEe ga gaKUSEI NI shuKUDAI O taKUSAN saSEta.",
+        "romaji": "seNSEe ga gaKUSEI NI shuKUDAI O taKUSAN SASETA.",
         "section": "Causative and Passive Verbs"
       }
     ]
