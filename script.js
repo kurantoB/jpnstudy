@@ -41,9 +41,9 @@ function addFromBank(bank) {
 	if (bank.length > 0) {
 		const randomIndex = Math.floor(Math.random() * bank.length);
 		const randomElement = bank[randomIndex];
-		$bankContents.append($('<h3>').text(randomElement.section));
 		$bankContents.append($('<p>').text(randomElement.romaji));
 		$bankContents.append($('<p>').text(randomElement.sentence));
+		$bankContents.append($('<h3>').text(randomElement.section));
 	}
 	return $bankContents;
 }

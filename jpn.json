@@ -9,7 +9,7 @@
       },
       {
         "sentence": "アリスは学生？ううん、トムも学生じゃない。",
-        "romaji": "Arisu wa gaKUSEI? Uun, TOmu mo gaKUSEI JA NAi.",
+        "romaji": "Arisu wa gaKUSEE? Uun, TOmu mo gaKUSEE JA NAi.",
         "section": "Introduction to Particles"
       },
       {
@@ -21,6 +21,31 @@
         "sentence": "値段が高いレストランはあまり好きじゃない。",
         "romaji": "neDAN GA taKAi REsutoran wa aMARI suKI ja NAi.",
         "section": "Adjectives"
+      },
+      {
+        "sentence": "メールアドレスを登録した。",
+        "romaji": "meERUAdoresu o tOOROKU SHITA.",
+        "section": "Particles Used with Verbs"
+      },
+      {
+        "sentence": "友達は、来年に日本に行く。",
+        "romaji": "toMODACHI WA, raINEN NI niHOn ni iKU.",
+        "section": "Particles Used with Verbs"
+      },
+      {
+        "sentence": "勝ちへ向かう。",
+        "romaji": "kaCHI e muKAU.",
+        "section": "Particles Used with Verbs"
+      },
+      {
+        "sentence": "何できた？バスできた。",
+        "romaji": "NAni de KIta? BAsu de KIta.",
+        "section": "Particles Used with Verbs"
+      },
+      {
+        "sentence": "どこで食べる？イタリアレストランではどう？",
+        "romaji": "DOko de taBEru? iTARIAREsutoran de wa DOo?",
+        "section": "Particles Used with Verbs"
       }
     ]
   },
