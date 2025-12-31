@@ -229,7 +229,7 @@
       },
       {
         "sentence": "紅葉が始まり、すっかり秋めいた空気になってきた。",
-        "romaji": "koOYOO O haJIMARI, suKKAri aKIMEita KUuki ni NAtte kita.",
+        "romaji": "koOYOO O haJIMARI, suKKAri aKIMEeta KUuki ni NAtte kita.",
         "section": "Showing Signs of Something"
       }
     ]
@@ -246,6 +246,91 @@
         "sentence": "先週に見た映画は、とても面白かったです。",
         "romaji": "seNSHUU NI MIta eEGA WA, toTEMO oMOSHIROkatta desu.",
         "section": "Polite Form and Verb Stems"
+      },
+      {
+        "sentence": "そうだと思います",
+        "romaji": "SOo da to oMOIMAsu.",
+        "section": "Polite Form and Verb Stems"
+      },
+      {
+        "sentence": "イタリア料理を食べに行きませんか。",
+        "romaji": "iTARIARYOori o TAbe ni iKIMASEn ka.",
+        "section": "The Question Marker"
+      },
+      {
+        "sentence": "こんなのを本当に食べる？",
+        "romaji": "koNNA NO o hoNTOO NI taBEru?",
+        "section": "The Question Marker"
+      },
+      {
+        "sentence": "先生が学校に行ったか教えない？",
+        "romaji": "seNSEe ga gaKKOO NI iTTA ka oSHIENAI?",
+        "section": "The Question Marker"
+      },
+      {
+        "sentence": "この中からどれかを選ぶの。",
+        "romaji": "koNO NAka kara DOre ka o eRAbu no.",
+        "section": "The Question Marker"
+      },
+      {
+        "sentence": "あの人は、本当に何でも食べる。",
+        "romaji": "koNO NAka kara DOre ka o eRAbu no.",
+        "section": "The Question Marker"
+      },
+      {
+        "sentence": "田中さんは、お金持ちで、かっこよくて、魅力的ですね。",
+        "romaji": "taNAKASAN WA, oKANEMOchi de, kaKKOYOkute, miRYOKUTEKI DEsu ne.",
+        "section": "Compound Sentences"
+      },
+      {
+        "sentence": "時間がありまして、映画を見ました。",
+        "romaji": "jiKAN GA aRIMAshite, eEGA O miMAshita.",
+        "section": "Compound Sentences"
+      },
+      {
+        "sentence": "時間がなかったからパーティーに行きませんでした。",
+        "romaji": "jiKAN GA NAkatta kara PAatii ni iKIMASEn deshita.",
+        "section": "Compound Sentences"
+      },
+      {
+        "sentence": "時間がなかったのでパーティーに行かなかった。",
+        "romaji": "jiKAN GA NAkatta node PAatii ni iKANAkatta.",
+        "section": "Compound Sentences"
+      },
+      {
+        "sentence": "ここは静かなので、とても穏やかです。",
+        "romaji": "koKO WA SHIzuka nano de, toTEMO ODAyaka desu.",
+        "section": "Compound Sentences"
+      },
+      {
+        "sentence": "なんで、友達に会う時間がない。",
+        "romaji": "NAn de, toMODACHI NI Au jiKAN GA NAi.",
+        "section": "Compound Sentences"
+      },
+      {
+        "sentence": "学生なのに、彼女は勉強しない。",
+        "romaji": "gaKUSEE NA no ni, KAnojo wa beNKYOO SHINAI.",
+        "section": "Compound Sentences"
+      },
+      {
+        "sentence": "今日は暇だけど、明日は忙しい。",
+        "romaji": "KYOo wa hiMA DA kedo, aSHITA wa iSOGASHIi.",
+        "section": "Compound Sentences"
+      },
+      {
+        "sentence": "デパートに行きましたが、いい物がたくさんありました。",
+        "romaji": "dePAato ni iKIMAshita ga, Ii moNO ga taKUSAN ARIMAshita.",
+        "section": "Compound Sentences"
+      },
+      {
+        "sentence": "どうして彼が好きなの？優しいし、かっこいいし、面白いから。",
+        "romaji": "DOoshite KAre ga suKI na no? yaSASHIi shi, kaKKOIi shi, oMOSHIROi kara.",
+        "section": "Compound Sentences"
+      },
+      {
+        "sentence": "映画を見たり、本を読んだりしなかった。",
+        "romaji": "eEGA O MItari, HOn o YOndari shiNAkatta.",
+        "section": "Compound Sentences"
       }
     ]
   },
@@ -259,7 +344,7 @@
       },
       {
         "sentence": "先生が学生に宿題をたくさんさせた。",
-        "romaji": "seNSEe ga gaKUSEI NI shuKUDAI O taKUSAN SASETA.",
+        "romaji": "seNSEe ga gaKUSEE NI shuKUDAI O taKUSAN SASETA.",
         "section": "Causative and Passive Verbs"
       }
     ]
