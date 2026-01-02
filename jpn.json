@@ -386,6 +386,66 @@
         "sentence": "そんなことはありえる。",
         "romaji": "sonNA KOTO wa aRIEru.",
         "section": "Potential Form"
+      },
+      {
+        "sentence": "私は有名な人になる。",
+        "romaji": "waTASHI WA yuUMEI NA HITO ni NAru.",
+        "section": "Using する and なる with the に Particle"
+      },
+      {
+        "sentence": "私は、ハンバーガーとサラダにします。",
+        "romaji": "waTASHI WA haNBAagaa TO SArada ni shiMAsu.",
+        "section": "Using する and なる with the に Particle"
+      },
+      {
+        "sentence": "勉強をたくさんしたから、頭がよくなった。",
+        "romaji": "beNKYOO O taKUSAN SHITA kara, aTAMA ga YOku NAtta.",
+        "section": "Using する and なる with the に Particle"
+      },
+      {
+        "sentence": "海外に行くことになった。",
+        "romaji": "KAigai ni iKU KOTO ni NAtta.",
+        "section": "Using する and なる with the に Particle"
+      },
+      {
+        "sentence": "毎日、肉を食べるようにする。",
+        "romaji": "MAinichi, niKU o taBEru you ni suRU.",
+        "section": "Using する and なる with the に Particle"
+      },
+      {
+        "sentence": "一年間練習したから、ピアノが弾けるようになった。",
+        "romaji": "iCHINEn kan reNSHUU SHITA kara, piANO GA hiKERU YOu ni NAtta.",
+        "section": "Using する and なる with the に Particle"
+      },
+      {
+        "sentence": "先生だと、きっと年上なんじゃないですか？",
+        "romaji": "seNSEe da to, kiTTO toSHIUE NAn jaNAi desu ka?",
+        "section": "Conditionals"
+      },
+      {
+        "sentence": "みんなが行くなら私も行く。",
+        "romaji": "miNNA ga iKU NAra waTASHI MO iKU.",
+        "section": "Conditionals"
+      },
+      {
+        "sentence": "食べなければ病気になるよ。",
+        "romaji": "taBENAkereba byoOKI NI NAru yo.",
+        "section": "Conditionals"
+      },
+      {
+        "sentence": "学生だったら、学生割引で買えます。",
+        "romaji": "gaKUSEE DAttara, gaKUSEEWAribiki de kaEMAsu.",
+        "section": "Conditionals"
+      },
+      {
+        "sentence": "家に帰ったら、誰もいなかった。",
+        "romaji": "iE ni KAettara, DAre mo iNAkatta.",
+        "section": "Conditionals"
+      },
+      {
+        "sentence": "もし時間がないなら、明日でもいいよ。",
+        "romaji": "MOshi jiKAN GA NAi nara, aSHITA DEmo Ii yo.",
+        "section": "Conditionals"
       }
     ]
   },
