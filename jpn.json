@@ -446,6 +446,101 @@
         "sentence": "もし時間がないなら、明日でもいいよ。",
         "romaji": "MOshi jiKAN GA NAi nara, aSHITA DEmo Ii yo.",
         "section": "Conditionals"
+      },
+      {
+        "sentence": "ここに入ってはいけません。",
+        "romaji": "koKO NI HAitte wa iKEMASEn.",
+        "section": "Expressing \"Must\" or \"Have to\""
+      },
+      {
+        "sentence": "それを食べてはだめ！",
+        "romaji": "soRE O TAbete wa daME!",
+        "section": "Expressing \"Must\" or \"Have to\""
+      },
+      {
+        "sentence": "夜、遅くまで電話してはならない。",
+        "romaji": "YOru, oSOKU made deNWA SHITE wa naRAnai.",
+        "section": "Expressing \"Must\" or \"Have to\""
+      },
+      {
+        "sentence": "宿題をしなくてはいけなかった。",
+        "romaji": "shuKUDAI O shiNAkute wa iKENAkatta.",
+        "section": "Expressing \"Must\" or \"Have to\""
+      },
+      {
+        "sentence": "毎日学校に行かないとだめです。",
+        "romaji": "MAinichi gaKKOO NI iKANAI to daME desu.",
+        "section": "Expressing \"Must\" or \"Have to\""
+      },
+      {
+        "sentence": "宿題をしなければだめだった。",
+        "romaji": "shuKUDAI O SHINAkereba daME datta.",
+        "section": "Expressing \"Must\" or \"Have to\""
+      },
+      {
+        "sentence": "勉強しなくちゃ。",
+        "romaji": "beNKYOO SHINAkucha.",
+        "section": "Expressing \"Must\" or \"Have to\""
+      },
+      {
+        "sentence": "ご飯を食べなきゃ。",
+        "romaji": "GOhan o taBEnakya.",
+        "section": "Expressing \"Must\" or \"Have to\""
+      },
+      {
+        "sentence": "学校に行かないと。",
+        "romaji": "gaKKOU NI iKANAI to.",
+        "section": "Expressing \"Must\" or \"Have to\""
+      },
+      {
+        "sentence": "ここに入っちゃだめだよ。",
+        "romaji": "koKO NI HAiccha daME da yo.",
+        "section": "Expressing \"Must\" or \"Have to\""
+      },
+      {
+        "sentence": "全部食べなくてもいいよ。",
+        "romaji": "ZEnbu taBEnakute mo Ii yo.",
+        "section": "Expressing \"Must\" or \"Have to\""
+      },
+      {
+        "sentence": "全部飲んでも大丈夫だよ。",
+        "romaji": "ZEnbu NOnde mo daIJOobu da yo.",
+        "section": "Expressing \"Must\" or \"Have to\""
+      },
+      {
+        "sentence": "もう帰っていい？",
+        "romaji": "MOo KAette Ii?",
+        "section": "Expressing \"Must\" or \"Have to\""
+      },
+      {
+        "sentence": "ずっと一緒にいたい。",
+        "romaji": "zuTTO ISSHO NI ITAI.",
+        "section": "Desire and Suggestions"
+      },
+      {
+        "sentence": "犬と遊びたいですか。",
+        "romaji": "iNU to aSOBITAI desu ka.",
+        "section": "Desire and Suggestions"
+      },
+      {
+        "sentence": "部屋をきれいにしてほしいのよ。",
+        "romaji": "heYA o KIree ni shiTE HOSHIi no yo.",
+        "section": "Desire and Suggestions"
+      },
+      {
+        "sentence": "明日は何を食べようか？",
+        "romaji": "aSHITA wa NAni o taBEYOo ka?",
+        "section": "Desire and Suggestions"
+      },
+      {
+        "sentence": "カレーを食べましょう。",
+        "romaji": "kaREE O taBEMASHOo.",
+        "section": "Desire and Suggestions"
+      },
+      {
+        "sentence": "たまにご両親と話せばどう？",
+        "romaji": "taMA NI goRYOoshin to haNAseba DOo?",
+        "section": "Desire and Suggestions"
       }
     ]
   },
