@@ -541,6 +541,251 @@
         "sentence": "たまにご両親と話せばどう？",
         "romaji": "taMA NI goRYOoshin to haNAseba DOo?",
         "section": "Desire and Suggestions"
+      },
+      {
+        "sentence": "「今日は授業がない」と先生から聞いたんだけど。",
+        "romaji": "KYOo wa JUgyoo ga NAi to seNSEe kara kiITAN da kedo.",
+        "section": "Acting on Subordinate Clauses"
+      },
+      {
+        "sentence": "「寒い」とアリスが田中に言った。",
+        "romaji": "saMUi to Arisu ga taNAKA NI iTTA.",
+        "section": "Acting on Subordinate Clauses"
+      },
+      {
+        "sentence": "これは、日本語で何と言いますか。",
+        "romaji": "koRE WA, niHOngo de NAn to iIMAsu ka.",
+        "section": "Acting on Subordinate Clauses"
+      },
+      {
+        "sentence": "今、どこに行こうかと考えている。",
+        "romaji": "Ima, DOko ni iKOo ka to kaNGAeteiru.",
+        "section": "Acting on Subordinate Clauses"
+      },
+      {
+        "sentence": "彼は、これは何だと言いましたか。",
+        "romaji": "KAre wa, koRE WA NAn da to iIMAshita ka.",
+        "section": "Acting on Subordinate Clauses"
+      },
+      {
+        "sentence": "何と言いましたか。",
+        "romaji": "NAn to iIMAshita ka.",
+        "section": "Acting on Subordinate Clauses"
+      },
+      {
+        "sentence": "今、時間がないって、本当？",
+        "romaji": "Ima, jiKAN GA NAi tte, hoNTOO?",
+        "section": "Acting on Subordinate Clauses"
+      },
+      {
+        "sentence": "アリスって、すごくいい人でしょ？",
+        "romaji": "Arisu tte, suGOku Ii hiTO desho?",
+        "section": "Acting on Subordinate Clauses"
+      },
+      {
+        "sentence": "「友達」は、英語で「friend」という意味です。",
+        "romaji": "toMODACHI WA, eIGO DE FUREndo toIU Imi desu.",
+        "section": "Acting on Subordinate Clauses"
+      },
+      {
+        "sentence": "独身だというのは、嘘だったの？",
+        "romaji": "doKUSHIN DA toIU no wa, Uso datta no?",
+        "section": "Defining and Describing"
+      },
+      {
+        "sentence": "そういう人と一緒に仕事をするのは、嫌だよね。",
+        "romaji": "sOOIU HITO to iSSHO NI shiGOTO O SURU no wa, iYA da yo ne.",
+        "section": "Defining and Describing"
+      },
+      {
+        "sentence": "というか、もう帰らないとだめですけど。",
+        "romaji": "toIU KA, MOo KAERANAI to daME desu kedo.",
+        "section": "Defining and Describing"
+      },
+      {
+        "sentence": "来年留学するというのは、智子のこと？",
+        "romaji": "raINEN ryuUGAKU SURU toIU no wa, TOmoko no koTO?",
+        "section": "Defining and Describing"
+      },
+      {
+        "sentence": "来年留学するって智子のこと？",
+        "romaji": "raINEN ryuUGAKU SURU tte TOmoko no koTO?",
+        "section": "Defining and Describing"
+      },
+      {
+        "sentence": "そうゆうことじゃないって！",
+        "romaji": "soUYUU KOTO ja NAi tte!",
+        "section": "Defining and Describing"
+      },
+      {
+        "sentence": "広島のお好み焼きを食べてみたい！",
+        "romaji": "hiROSHIMA NO oKONOMIYAKI O TAbetemiTAi!",
+        "section": "Trying or Attempting Something"
+      },
+      {
+        "sentence": "早く寝ようとしたけど、結局は徹夜した。",
+        "romaji": "HAyaku  neYOo to shiTA kedo, keKKYOKU wa teTSUYA SHITA",
+        "section": "Trying or Attempting Something"
+      },
+      {
+        "sentence": "毎日ジムに行こうと決めた。",
+        "romaji": "MAinichi JImu ni iKOo to kiMETA.",
+        "section": "Trying or Attempting Something"
+      },
+      {
+        "sentence": "これは先生にあげる。",
+        "romaji": "koRE WA seNSEe ni aGERU.",
+        "section": "Giving and Receiving"
+      },
+      {
+        "sentence": "車を買ってあげるよ。",
+        "romaji": "kuRUMA O kaTTE AGERU YO.",
+        "section": "Giving and Receiving"
+      },
+      {
+        "sentence": "学生がこれを先生にあげる。",
+        "romaji": "gaKUSEE GA koRE O seNSEe ni aGERU.",
+        "section": "Giving and Receiving"
+      },
+      {
+        "sentence": "犬に餌をやった？",
+        "romaji": "iNU ni eSA o yaTTA?",
+        "section": "Giving and Receiving"
+      },
+      {
+        "sentence": "これは、先生がくれた。",
+        "romaji": "koRE WA, seNSEe GA kuRETA.",
+        "section": "Giving and Receiving"
+      },
+      {
+        "sentence": "先生がこれを学生にくれる。",
+        "romaji": "seNSEe ga koRE O gaKUSEE NI kuRERU.",
+        "section": "Giving and Receiving"
+      },
+      {
+        "sentence": "私が友達にプレゼントをもらった。",
+        "romaji": "waTASHI GA toMODACHI NI puREzento o moRATTA.",
+        "section": "Giving and Receiving"
+      },
+      {
+        "sentence": "これは友達に買ってもらった。",
+        "romaji": "koRE WA toMODACHI NI kaTTE MORATTA.",
+        "section": "Giving and Receiving"
+      },
+      {
+        "sentence": "千円を貸してくれる？",
+        "romaji": "SEn en o kaSHITE KURERU?",
+        "section": "Giving and Receiving"
+      },
+      {
+        "sentence": "千円を貸してもらえる？",
+        "romaji": "SEn en o kaSHITE MORAERU?",
+        "section": "Giving and Receiving"
+      },
+      {
+        "sentence": "ちょっと静かにしてくれない？",
+        "romaji": "CHOtto SHIzuka ni shiTE KURENAI?",
+        "section": "Giving and Receiving"
+      },
+      {
+        "sentence": "漢字で書いてもらえませんか。",
+        "romaji": "kaNJI DE KAite moRAEMASEn ka.",
+        "section": "Giving and Receiving"
+      },
+      {
+        "sentence": "高い物を買わないでくれる？",
+        "romaji": "taKAi moNO o kaWANAI de kuRERU?",
+        "section": "Giving and Receiving"
+      },
+      {
+        "sentence": "それをください。",
+        "romaji": "soRE O kuDASAi.",
+        "section": "Making Requests"
+      },
+      {
+        "sentence": "漢字で書いてください。",
+        "romaji": "kaNJI DE KAite kuDASAi.",
+        "section": "Making Requests"
+      },
+      {
+        "sentence": "ここにこないでください。",
+        "romaji": "koKO NI KOnaide kuDASAi.",
+        "section": "Making Requests"
+      },
+      {
+        "sentence": "消しゴムを貸して。",
+        "romaji": "keSHIGOMU O kaSHITE",
+        "section": "Making Requests"
+      },
+      {
+        "sentence": "遠い所に行かないでくれ。",
+        "romaji": "toOI toKORO ni iKANAI de kuRE.",
+        "section": "Making Requests"
+      },
+      {
+        "sentence": "ここに名前を書いてちょうだい。",
+        "romaji": "koKO NI naMAE O KAite choODAI",
+        "section": "Making Requests"
+      },
+      {
+        "sentence": "よく聞きなさい！",
+        "romaji": "YOku kiKINASAi!",
+        "section": "Making Requests"
+      },
+      {
+        "sentence": "それでいいと思うなら、そうしなよ。",
+        "romaji": "soRE DE Ii to oMOo nara, soO SHINA yo.",
+        "section": "Making Requests"
+      },
+      {
+        "sentence": "好きにしろ。",
+        "romaji": "suKI ni shiRO.",
+        "section": "Making Requests"
+      },
+      {
+        "sentence": "変なことを言うな！",
+        "romaji": "HEn na koTO o iU na!",
+        "section": "Making Requests"
+      },
+      {
+        "sentence": "それは何？",
+        "romaji": "soRE WA NAni?",
+        "section": "Casual Patterns and Slang"
+      },
+      {
+        "sentence": "何それ？",
+        "romaji": "NAni soRE?",
+        "section": "Casual Patterns and Slang"
+      },
+      {
+        "sentence": "もう食べた？昨日買ったアイス。",
+        "romaji": "MOo TAbeta? kiNOO kaTTA Aisu.",
+        "section": "Casual Patterns and Slang"
+      },
+      {
+        "sentence": "ほら、やっぱりレポートを書かないとだめじゃん。",
+        "romaji": "HOra, yaPPAri rePOoto o kaKAnai to daME jan.",
+        "section": "Casual Patterns and Slang"
+      },
+      {
+        "sentence": "もう行くってば！",
+        "romaji": "MOo iKU tteBA!",
+        "section": "Casual Patterns and Slang"
+      },
+      {
+        "sentence": "あなたったら、いつも忘れるんだから。",
+        "romaji": "aNAta ttara, Itsumo waSURERUn da kara.",
+        "section": "Casual Patterns and Slang"
+      },
+      {
+        "sentence": "なんか食べる？",
+        "romaji": "NAn ka taBEru?",
+        "section": "Casual Patterns and Slang"
+      },
+      {
+        "sentence": "今日は、なんか忙しいみたいよ。",
+        "romaji": "KYOo wa, NAn ka iSOGASHIi MItai yo.",
+        "section": "Casual Patterns and Slang"
       }
     ]
   },
