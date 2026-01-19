@@ -801,6 +801,96 @@
         "sentence": "先生が学生に宿題をたくさんさせた。",
         "romaji": "seNSEe ga gaKUSEE NI shuKUDAI O taKUSAN SASETA.",
         "section": "Causative and Passive Verbs"
+      },
+      {
+        "sentence": "みんなに変だと言われます。",
+        "romaji": "miNNA ni HEn da to iWAREMAsu.",
+        "section": "Causative and Passive Verbs"
+      },
+      {
+        "sentence": "明日の会議に行かれるんですか？",
+        "romaji": "aSHITA no KAigi ni iKARERUn desu ka?",
+        "section": "Causative and Passive Verbs"
+      },
+      {
+        "sentence": "あいつに二時間も待たせられた。",
+        "romaji": "aITSU NI niJIkan mo maTASERARETA.",
+        "section": "Causative and Passive Verbs"
+      },
+      {
+        "sentence": "推薦状を書いてくださるんですか。",
+        "romaji": "suISENJOO O KAite kuDASArun desu ka.",
+        "section": "Honorific and Humble Forms"
+      },
+      {
+        "sentence": "私が書いたレポートを見ていただけますか。",
+        "romaji": "waTASHI GA KAita rePOoto o MIte iTADAKEMAsu ka.",
+        "section": "Honorific and Humble Forms"
+      },
+      {
+        "sentence": "こちらは、私の部屋でございます。",
+        "romaji": "koCHIRA WA, waTASHI NO heYA de goZAIMAsu.",
+        "section": "Honorific and Humble Forms"
+      },
+      {
+        "sentence": "先生はお見えになりますか。",
+        "romaji": "seNSEe wa oMIE NI naRIMAsu ka?",
+        "section": "Honorific and Humble Forms"
+      },
+      {
+        "sentence": "もうお帰りですか。",
+        "romaji": "MOo oKAERI DEsu ka.",
+        "section": "Honorific and Humble Forms"
+      },
+      {
+        "sentence": "店内でお召し上がりですか。",
+        "romaji": "TEnnai de oMESHIAGARI DEsu ka.",
+        "section": "Honorific and Humble Forms"
+      },
+      {
+        "sentence": "少々お待ちください。",
+        "romaji": "SHOoshoo oMACHIKUDASAi.",
+        "section": "Honorific and Humble Forms"
+      },
+      {
+        "sentence": "こちらにご覧下さい。",
+        "romaji": "koCHIRA NI goRAN KUDASAi.",
+        "section": "Honorific and Humble Forms"
+      },
+      {
+        "sentence": "よろしくお願いします。",
+        "romaji": "yoROSHIKU ONEGAISHIMAsu.",
+        "section": "Honorific and Humble Forms"
+      },
+      {
+        "sentence": "すみません、お待たせしました。",
+        "romaji": "suMIMASEn, oMATASE SHIMAshita",
+        "section": "Honorific and Humble Forms"
+      },
+      {
+        "sentence": "いらっしゃいませ",
+        "romaji": "iRASSHAIMAse",
+        "section": "Honorific and Humble Forms"
+      },
+      {
+        "sentence": "そのケーキを全部食べてしまった。",
+        "romaji": "soNO KEeki o ZEnbu TAbete shiMATTA.",
+        "section": "Unintended Actions"
+      },
+      {
+        "sentence": "もう帰っちゃっていい？",
+        "romaji": "MOo KAecchatte Ii?",
+        "section": "Unintended Actions"
+      },
+      {
+        "sentence": "ごめん、ついお前を呼んじまった。",
+        "romaji": "goMEN, TSUI oMAE O yoNJIMATTA.",
+        "section": "Unintended Actions"
+      },
+      {
+        "sentence": "宿題をやってしまいなさい。",
+        "romaji": "shuKUDAI O yaTTE SHIMAINASAi.",
+        "section": "Unintended Actions"
       }
     ]
   },
