@@ -891,6 +891,46 @@
         "sentence": "宿題をやってしまいなさい。",
         "romaji": "shuKUDAI O yaTTE SHIMAINASAi.",
         "section": "Unintended Actions"
+      },
+      {
+        "sentence": "徹夜して、宿題することはある。",
+        "romaji": "teTSUYA SHITE, shuKUDAI SURU KOTO wa Aru.",
+        "section": "Special Expressions with Generic Nouns"
+      },
+      {
+        "sentence": "日本の映画を観たことないの？",
+        "romaji": "niHOn no eIGA O MIta koto NAi no?",
+        "section": "Special Expressions with Generic Nouns"
+      },
+      {
+        "sentence": "今は授業が終ったところです。",
+        "romaji": "Ima wa JUgyoo ga oWATTA TOKORO desu.",
+        "section": "Special Expressions with Generic Nouns"
+      },
+      {
+        "sentence": "どうしてこなかったの？授業があったもん。",
+        "romaji": "DOoshite KOnakatta no? JUgyoo ga Atta mon.",
+        "section": "Special Expressions with Generic Nouns"
+      },
+      {
+        "sentence": "スミスさんは食堂に行ったかもしれません。",
+        "romaji": "suMIsusan wa shoKUDOO NI iTTA kamoshiREMASEn.",
+        "section": "Various Degrees of Certainty"
+      },
+      {
+        "sentence": "あなたは、学生さんでしょうか。",
+        "romaji": "aNAta wa, gaKUSEESAN DESHOO ka.",
+        "section": "Various Degrees of Certainty"
+      },
+      {
+        "sentence": "あっ！遅刻しちゃう！だから、時間がないって言ったでしょう！",
+        "romaji": "A! chiKOKU shiCHAU! DAkara, jiKAN GA NAi tte iTTA DESHOO!",
+        "section": "Various Degrees of Certainty"
+      },
+      {
+        "sentence": "もう家に帰るんだろう。そうよ。",
+        "romaji": "MOo iE ni KAerun daROO. SOo yo.",
+        "section": "Various Degrees of Certainty"
       }
     ]
   },
