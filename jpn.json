@@ -986,6 +986,86 @@
         "sentence": "このビルの高さは何ですか？",
         "romaji": "koNO BIru no TAkasa wa NAn desu ka?",
         "section": "Expressing Amounts"
+      },
+      {
+        "sentence": "ここには、誰もいないようだ。",
+        "romaji": "koKO NI wa, DAre mo iNAI YOo da.",
+        "section": "Similarity or Hearsay"
+      },
+      {
+        "sentence": "学生のようだ。",
+        "romaji": "gaKUSEE NO YOo da.",
+        "section": "Similarity or Hearsay"
+      },
+      {
+        "sentence": "ここは静かなようだ。",
+        "romaji": "koKO WA SHIzuka na YOo da.",
+        "section": "Similarity or Hearsay"
+      },
+      {
+        "sentence": "彼は学生のような雰囲気ですね。",
+        "romaji": "KAre wa gaKUSEE NO YOo na fuNIki desu ne.",
+        "section": "Similarity or Hearsay"
+      },
+      {
+        "sentence": "何も起こらなかったように言った。",
+        "romaji": "naNI MO oKORAnakatta yoo ni iTTA.",
+        "section": "Similarity or Hearsay"
+      },
+      {
+        "sentence": "制服を着ている姿をみると、学生みたいです。",
+        "romaji": "seEFUKU O kiTEIRU SUgata o MIru to, gaKUSEE MItai desu.",
+        "section": "Similarity or Hearsay"
+      },
+      {
+        "sentence": "このピザはお好み焼きみたいじゃない？",
+        "romaji": "koNO PIza wa oKONOMIYAKI MItai janai?",
+        "section": "Similarity or Hearsay"
+      },
+      {
+        "sentence": "このピザはお好み焼きのように見える。",
+        "romaji": "koNO PIza wa oKONOMIYAKI NO YOo ni miEru.",
+        "section": "Similarity or Hearsay"
+      },
+      {
+        "sentence": "この辺りにありそうだけどな。",
+        "romaji": "koNO Atari ni aRISOo da kedo na.",
+        "section": "Similarity or Hearsay"
+      },
+      {
+        "sentence": "この漬物はおいしそう！",
+        "romaji": "koNO TSUKEMONO WA oISHISOo!",
+        "section": "Similarity or Hearsay"
+      },
+      {
+        "sentence": "これはただの試合じゃなさそうだ。",
+        "romaji": "koRE WA TAda no shiAI JA naSASOo da.",
+        "section": "Similarity or Hearsay"
+      },
+      {
+        "sentence": "毎日会いに行ったそうです。",
+        "romaji": "MAinichi Ai ni iTTA SOo desu.",
+        "section": "Similarity or Hearsay"
+      },
+      {
+        "sentence": "今日、田中さんはこないの？だそうです。",
+        "romaji": "KYOo, taNAKASAN WA KOnai no? daSOo desu.",
+        "section": "Similarity or Hearsay"
+      },
+      {
+        "sentence": "あの人は何なの？美由紀さんの友達らしいですよ。",
+        "romaji": "aNO HITO wa NAn nano? miYUKISAN NO toMODACHI RASHIi desu yo.",
+        "section": "Similarity or Hearsay"
+      },
+      {
+        "sentence": "あの子は子供らしくない。",
+        "romaji": "aNO KO WA koDOMO RASHIkunai.",
+        "section": "Similarity or Hearsay"
+      },
+      {
+        "sentence": "みんなで、もう全部食べてしまったっぽいよ。",
+        "romaji": "miNNA de, MOo ZEnbu TAbete shiMATTA PPOi yo.",
+        "section": "Similarity or Hearsay"
       }
     ]
   },
