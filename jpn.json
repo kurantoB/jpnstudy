@@ -931,6 +931,61 @@
         "sentence": "もう家に帰るんだろう。そうよ。",
         "romaji": "MOo iE ni KAerun daROO. SOo yo.",
         "section": "Various Degrees of Certainty"
+      },
+      {
+        "sentence": "それだけは、食べないでください。",
+        "romaji": "soRE DAKE wa, taBEnaide kuDASAi.",
+        "section": "Expressing Amounts"
+      },
+      {
+        "sentence": "この乗車券は発売当日のみ有効です。",
+        "romaji": "koNO JOOSHAken wa haTSUBAI TOOjitsu NOmi yuUKOO DEsu.",
+        "section": "Expressing Amounts"
+      },
+      {
+        "sentence": "今日は忙しくて、朝ご飯しか食べられなかった。",
+        "romaji": "KYOo wa iSOGASHIkute, aSAGOhan shika taBERAREnakatta.",
+        "section": "Expressing Amounts"
+      },
+      {
+        "sentence": "こうなったら、逃げるしかない。",
+        "romaji": "koO NAttara, niGEru shika NAi.",
+        "section": "Expressing Amounts"
+      },
+      {
+        "sentence": "崇君は漫画ばっかり読んでてさ。かっこ悪い。",
+        "romaji": "taKASHIKUN WA maNGA baKKAri YOndete sa. kaKKOWARUi.",
+        "section": "Expressing Amounts"
+      },
+      {
+        "sentence": "直美ちゃんと遊ぶばっかりでしょう！",
+        "romaji": "naOMICHAN TO aSOBU baKKAri deSHOO!",
+        "section": "Expressing Amounts"
+      },
+      {
+        "sentence": "佐藤さんは料理が上手で、また食べ過ぎました。",
+        "romaji": "SAtoosan wa RYOori ga joOZU de, maTA taBESUGIMAshita.",
+        "section": "Expressing Amounts"
+      },
+      {
+        "sentence": "時間が足りなさすぎて、何もできなかった。",
+        "romaji": "jiKAN GA taRInaSASUgite, naNI MO deKInakatta.",
+        "section": "Expressing Amounts"
+      },
+      {
+        "sentence": "昨日、電話三回もしたよ！",
+        "romaji": "kiNOO, deNWA SANKAI MO SHITA YO!",
+        "section": "Expressing Amounts"
+      },
+      {
+        "sentence": "寝る時間がないほど忙しい。",
+        "romaji": "neRU JIkan ga NAi hodo iSOGASHIi.",
+        "section": "Expressing Amounts"
+      },
+      {
+        "sentence": "このビルの高さは何ですか？",
+        "romaji": "koNO BIru no TAkasa wa NAn desu ka?",
+        "section": "Expressing Amounts"
       }
     ]
   },
