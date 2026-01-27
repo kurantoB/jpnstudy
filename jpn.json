@@ -1066,6 +1066,86 @@
         "sentence": "みんなで、もう全部食べてしまったっぽいよ。",
         "romaji": "miNNA de, MOo ZEnbu TAbete shiMATTA PPOi yo.",
         "section": "Similarity or Hearsay"
+      },
+      {
+        "sentence": "鈴木さんの方が若い。",
+        "romaji": "suZUKISAN NO HOo ga waKAi.",
+        "section": "Using 方 and よる"
+      },
+      {
+        "sentence": "赤ちゃんは、静かな方が好き。",
+        "romaji": "Akachan wa, SHIzuka na HOo ga suKI.",
+        "section": "Using 方 and よる"
+      },
+      {
+        "sentence": "ゆっくり食べた方が健康にいいよ。",
+        "romaji": "yuKKUri TAbeta HOo ga kenKOO NI Ii yo.",
+        "section": "Using 方 and よる"
+      },
+      {
+        "sentence": "マトリックス・レボリューションを見ない方がいいよ。",
+        "romaji": "maTORIKKUSU REBORYUUshon o MInai hoo ga Ii yo.",
+        "section": "Using 方 and よる"
+      },
+      {
+        "sentence": "花より団子。",
+        "romaji": "haNA yori daNGO.",
+        "section": "Using 方 and よる"
+      },
+      {
+        "sentence": "ご飯の方が、パンよりおいしい。",
+        "romaji": "GOhan no HOo ga, PAn yori oISHIi.",
+        "section": "Using 方 and よる"
+      },
+      {
+        "sentence": "この仕事は誰よりも早くできます。",
+        "romaji": "koNO SHIGOTO WA DAre yori mo HAyaku deKIMAsu.",
+        "section": "Using 方 and よる"
+      },
+      {
+        "sentence": "漢字の書き方を教えてくれますか？",
+        "romaji": "kaNJI NO kaKIKAta o oSHIETE KUREMAsu ka?",
+        "section": "Using 方 and よる"
+      },
+      {
+        "sentence": "人によって話が違う。",
+        "romaji": "hiTO NI YOTTE haNASHI ga chiGAU.",
+        "section": "Using 方 and よる"
+      },
+      {
+        "sentence": "今日は飲みに行こうか？それは、裕子によるね。",
+        "romaji": "KYOo wa NOmi ni iKOo ka? soRE WA, YUuko ni yoru ne.",
+        "section": "Using 方 and よる"
+      },
+      {
+        "sentence": "天気予報によると、今日は雨だそうだ。",
+        "romaji": "teNKIYOhoo ni yoru to, KYOo wa Ame da SOo da.",
+        "section": "Using 方 and よる"
+      },
+      {
+        "sentence": "この字は読みにくい",
+        "romaji": "koNO JI wa yoMINIKUi",
+        "section": "Actions that are Easy or Hard"
+      },
+      {
+        "sentence": "カクテルはビールより飲みやすい。",
+        "romaji": "KAkuteru wa BIiru yori noMIYASUi.",
+        "section": "Actions that are Easy or Hard"
+      },
+      {
+        "sentence": "部屋が暗かったので、見にくかった。",
+        "romaji": "heYA ga kuRAkatta node, miniKUkatta.",
+        "section": "Actions that are Easy or Hard"
+      },
+      {
+        "sentence": "とても信じがたい話だが、本当に起こったらしい。",
+        "romaji": "toTEMO SHINJIGATAi haNASHI da ga, hoNTOO NI oKOtta raSHIi.",
+        "section": "Actions that are Easy or Hard"
+      },
+      {
+        "sentence": "待ち合わせは、分かりづらい場所にしないでね。",
+        "romaji": "maCHIAWASE WA, waKARIZURAi baSHO NI shiNAI de ne.",
+        "section": "Actions that are Easy or Hard"
       }
     ]
   },
