@@ -874,7 +874,7 @@
       },
       {
         "sentence": "そのケーキを全部食べてしまった。",
-        "romaji": "soNO KEeki o ZEnbu TAbete shiMATTA.",
+        "romaji": "soNO KEeki o ZEnbu TAbete shimatta.",
         "section": "Unintended Actions"
       },
       {
@@ -1064,7 +1064,7 @@
       },
       {
         "sentence": "みんなで、もう全部食べてしまったっぽいよ。",
-        "romaji": "miNNA de, MOo ZEnbu TAbete shiMATTA PPOi yo.",
+        "romaji": "miNNA de, MOo ZEnbu TAbete shimatta PPOi yo.",
         "section": "Similarity or Hearsay"
       },
       {
@@ -1146,6 +1146,36 @@
         "sentence": "待ち合わせは、分かりづらい場所にしないでね。",
         "romaji": "maCHIAWASE WA, waKARIZURAi baSHO NI shiNAI de ne.",
         "section": "Actions that are Easy or Hard"
+      },
+      {
+        "sentence": "何も食べないで寝ました。",
+        "romaji": "naNI MO taBEnai de deMAshita.",
+        "section": "More Negative Verbs"
+      },
+      {
+        "sentence": "先生と相談しないで、この授業を取ることは出来ない。",
+        "romaji": "seNSEe to soUDAN SHINAI de, koNO JUgyoo o TOru koto wa deKInai.",
+        "section": "More Negative Verbs"
+      },
+      {
+        "sentence": "彼は何も言わず、帰ってしまった。",
+        "romaji": "KAre wa naNI MO iWAZU, KAette shimatta.",
+        "section": "More Negative Verbs"
+      },
+      {
+        "sentence": "勉強せずに東大に入れると思わないな。",
+        "romaji": "beNKYOO SEzu ni toODAI NI haIREru to oMOWAnai na.",
+        "section": "More Negative Verbs"
+      },
+      {
+        "sentence": "そんなことはさせん！",
+        "romaji": "soNNA KOTO wa saSEN!",
+        "section": "More Negative Verbs"
+      },
+      {
+        "sentence": "皆、今日行くって、知らんかったよ。",
+        "romaji": "miNNA, KYOo ikU tte, shiRANkatta yo.",
+        "section": "More Negative Verbs"
       }
     ]
   },
