@@ -979,7 +979,7 @@
       },
       {
         "sentence": "寝る時間がないほど忙しい。",
-        "romaji": "neRU JIkan ga NAi hodo iSOGASHIi.",
+        "romaji": "NERU JIKAN GA NAi hoDO iSOGASHIi.",
         "section": "Expressing Amounts"
       },
       {
@@ -1176,6 +1176,91 @@
         "sentence": "皆、今日行くって、知らんかったよ。",
         "romaji": "miNNA, KYOo ikU tte, shiRANkatta yo.",
         "section": "More Negative Verbs"
+      },
+      {
+        "sentence": "いくら英語を勉強しても、うまくならないの。つまり、語学には、能力がないという訳か。失礼ね。",
+        "romaji": "Ikura eEGO O beNKYOO SHITE MO, Umaku naRAnai no. TSUmari, GOgaku ni wa, NOoryoku ga NAi to iU WAke ka. shiTSUree ne.",
+        "section": "Hypothesizing and Concluding"
+      },
+      {
+        "sentence": "広子の家に行ったことある？あるわけないでしょう。",
+        "romaji": "Hiroko no iE ni iTTA KOTO Aru? Aru wake NAi deSHOO.",
+        "section": "Hypothesizing and Concluding"
+      },
+      {
+        "sentence": "ここの試験に合格するのはわけない。",
+        "romaji": "koKO NO shiKEn ni goOKAKU SURU no wa WAke NAi.",
+        "section": "Hypothesizing and Concluding"
+      },
+      {
+        "sentence": "ここまできて、あきらめるわけにはいかない。",
+        "romaji": "koKO MAde KIte, aKIRAMEru WAke ni wa iKANAI.",
+        "section": "Hypothesizing and Concluding"
+      },
+      {
+        "sentence": "今から行くとしたら、９時に着くと思います。",
+        "romaji": "Ima kara iKU TO shiTAra, KUji ni TSUku to oMOIMAsu.",
+        "section": "Hypothesizing and Concluding"
+      },
+      {
+        "sentence": "観客として参加させてもらった。",
+        "romaji": "kaNKYAKU TO shiTE saNKA SASETE moRATTA.",
+        "section": "Hypothesizing and Concluding"
+      },
+      {
+        "sentence": "朝ご飯を食べたとしても、もう昼だからお腹が空いたでしょう。",
+        "romaji": "aSAGOhan o TAbeta to shiTE mo, MOo hiRU dakara oNAKA GA suITA DESHOO.",
+        "section": "Hypothesizing and Concluding"
+      },
+      {
+        "sentence": "すみません、今食べたばかりなので、お腹がいっぱいです。",
+        "romaji": "suMIMASEn, Ima TAbeta BAkari na node, oNAKA GA iPPAI DEsu.",
+        "section": "Time-specific Actions"
+      },
+      {
+        "sentence": "10キロを走ったばかりで、凄く疲れた。",
+        "romaji": "JUkkiro o haSHItta BAkari de, suGOku tsuKAreta.",
+        "section": "Time-specific Actions"
+      },
+      {
+        "sentence": "窓を開けたとたんに、猫が跳んでいった。",
+        "romaji": "MAdo o aKETA TOTAN NI, NEko ga toNDE ITTA.",
+        "section": "Time-specific Actions"
+      },
+      {
+        "sentence": "テレビを観ながら、宿題をする。",
+        "romaji": "TErebi o miNAgara, shuKUDAI O suRU.",
+        "section": "Time-specific Actions"
+      },
+      {
+        "sentence": "彼は、初心者ながらも、実力はプロと同じだ。",
+        "romaji": "KAre wa, shoSHINSHA NAgara mo, jiTSURYOKU WA PUro to oNAJI DA.",
+        "section": "Time-specific Actions"
+      },
+      {
+        "sentence": "アメリカにいた時はコーラを飲みまくっていた。",
+        "romaji": "aMERIKA NI iTA TOki wa KOora o noMI MAKUtteita.",
+        "section": "Time-specific Actions"
+      },
+      {
+        "sentence": "このままで宜しいですか？",
+        "romaji": "koNO MAMA de yoROSHIi desu ka?",
+        "section": "Expressing a Lack of Change"
+      },
+      {
+        "sentence": "半分しか食べてないままで捨てちゃダメ！",
+        "romaji": "haNBUN SHIka TAbetenai maMA de suTECHA daME!",
+        "section": "Expressing a Lack of Change"
+      },
+      {
+        "sentence": "テレビを付けっぱなしにしなければ眠れない人は、結構いる。",
+        "romaji": "TErebi o tsuKEPPANASHI NI shiNAkereba neMURENAI HITO wa, KEkkou iRU.",
+        "section": "Expressing a Lack of Change"
+      },
+      {
+        "sentence": "窓が開けっ放しだったので、蚊がいっぱい入った。",
+        "romaji": "MAdo ga aKEPPANASHI DAtta node, ka GA iPPAI HAitta.",
+        "section": "Expressing a Lack of Change"
       }
     ]
   },
