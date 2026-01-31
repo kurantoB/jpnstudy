@@ -9,12 +9,12 @@
       },
       {
         "sentence": "アリスは学生？ううん、トムも学生じゃない。",
-        "romaji": "Arisu wa gaKUSEE? Uun, TOmu mo gaKUSEE JA NAi.",
+        "romaji": "Arisu wa gaKUSEE? Uun, TOmu mo gaKUSEE ja NAi.",
         "section": "Introduction to Particles"
       },
       {
         "sentence": "魚が好きなタイプは、野菜も好きだ。",
-        "romaji": "saKANA GA suKI na TAipu wa, yaSAI MO suKI da.",
+        "romaji": "saKANA GA suKI na TAipu wa, yaSAI mo suKI da.",
         "section": "Adjectives"
       },
       {
@@ -24,12 +24,12 @@
       },
       {
         "sentence": "メールアドレスを登録した。",
-        "romaji": "meERUAdoresu o tOOROKU SHITA.",
+        "romaji": "meERUAdoresu o tOOROku shita.",
         "section": "Particles Used with Verbs"
       },
       {
         "sentence": "友達は、来年に日本に行く。",
-        "romaji": "toMODACHI WA, raINEN NI niHOn ni iKU.",
+        "romaji": "toMODACHI WA, raINEN NI niHOn ni iku.",
         "section": "Particles Used with Verbs"
       },
       {
@@ -64,7 +64,7 @@
       },
       {
         "sentence": "先週に医者だったボブは、仕事を辞めた。",
-        "romaji": "seNSHUU NI iSHA DAtta BObu wa, shiGOTO O yaMETA.",
+        "romaji": "seNSHUU NI iSHA DAtta BObu wa, shiGOTO O yaMEta.",
         "section": "Descriptive Subordinate Clauses and Sentence Order"
       },
       {
@@ -74,7 +74,7 @@
       },
       {
         "sentence": "本と雑誌と葉書を買った。",
-        "romaji": "HOn to zaSSHI TO haGAKI O kaTTA.",
+        "romaji": "HOn to zaSSHI TO haGAKI O katta.",
         "section": "Noun-related Particles"
       },
       {
@@ -84,12 +84,12 @@
       },
       {
         "sentence": "靴やシャツを買う。",
-        "romaji": "kuTSU YA SHAtsu o kaU.",
+        "romaji": "kuTSU ya SHAtsu o kau.",
         "section": "Noun-related Particles"
       },
       {
         "sentence": "靴とかシャツを買う。",
-        "romaji": "kuTSU TOka SHAtsu o kaU.",
+        "romaji": "kuTSU TOka SHAtsu o kau.",
         "section": "Noun-related Particles"
       },
       {
@@ -99,12 +99,12 @@
       },
       {
         "sentence": "授業に行くのを忘れた。",
-        "romaji": "JUgyoo ni iKU NO o waSURETA.",
+        "romaji": "JUgyoo ni iKU NO o waSUREta.",
         "section": "Noun-related Particles"
       },
       {
         "sentence": "授業に行くことを忘れた。",
-        "romaji": "JUgyoo ni iKU KOTO o waSURETA.",
+        "romaji": "JUgyoo ni iKU KOTO o waSUREta.",
         "section": "Noun-related Particles"
       },
       {
@@ -124,7 +124,7 @@
       },
       {
         "sentence": "その人が買うんじゃなかったの？ううん、先生が買うんだ。",
-        "romaji": "soNO HITO GA kaU N ja NAkatta no? Uun, seNSEe ga kaU N da.",
+        "romaji": "soNO HITO GA kaU N JANAkatta no? Uun, seNSEe ga kaU N da.",
         "section": "Noun-related Particles"
       },
       {
@@ -134,12 +134,12 @@
       },
       {
         "sentence": "この町は、最近大きく変わった。",
-        "romaji": "koNO MACHI wa, saIKIN OOKIku kaWATTA.",
+        "romaji": "koNO MACHI wa, saIKIN OOKIku kaWAtta.",
         "section": "Adverbs and Sentence-ending Particles"
       },
       {
         "sentence": "図書館の中では、静かにする。",
-        "romaji": "toSHOkan no NAka de wa, SHIzuka ni suRU.",
+        "romaji": "toSHOkan no NAka de wa, SHIzuka ni suru.",
         "section": "Adverbs and Sentence-ending Particles"
       },
       {
@@ -164,7 +164,7 @@
       },
       {
         "sentence": "写真が数枚入っており、",
-        "romaji": "shaSHIN GA SUumai HAitteori,",
+        "romaji": "shaSHIN GA SUUMAi HAitteori,",
         "section": "Formal Expressions"
       },
       {
@@ -184,17 +184,17 @@
       },
       {
         "sentence": "宿題が多すぎて、トイレに行く時間さえなかった。",
-        "romaji": "shuKUDAI GA OOSUgite, TOire ni iKU jiKAN SAE NAkatta.",
+        "romaji": "shuKUDAI GA OOSUgite, TOire ni iku jiKAN SAE NAkatta.",
         "section": "The Minimum Expectation"
       },
       {
         "sentence": "お金さえあれば、何でも出来るよ。",
-        "romaji": "oKANE SAE Areba, naN DE MO deKIru yo.",
+        "romaji": "oKANE SAE Areba, naN DE mo deKIru yo.",
         "section": "The Minimum Expectation"
       },
       {
         "sentence": "ビタミンを食べさえすれば、健康が保証されますよ。",
-        "romaji": "biTAmin o TAbe sae suREba, kenKOO GA hoSHOO SAREMAsu yo.",
+        "romaji": "biTAmin o TAbe sae suREba, keNKOO GA hoSHOO SAREMAsu yo.",
         "section": "The Minimum Expectation"
       },
       {
@@ -219,17 +219,17 @@
       },
       {
         "sentence": "私は寒がり屋だから、ミネソタで暮らすのは辛かった。",
-        "romaji": "waTASHI WA saMUGAriya dakara, miNESOTA DE kuRASU NO wa tsuRAkatta.",
+        "romaji": "waTASHI WA saMUGARIYA DAkara, miNESOTA DE kuRASU NO wa tsuRAkatta.",
         "section": "Showing Signs of Something"
       },
       {
         "sentence": "「あんたと関係ない」と言わんばかりに彼女は彼を無視していた。",
-        "romaji": "Anta to kaNKEE NAi to iWAN BAkari ni KAnojo wa KAre o MUshi shite ita.",
+        "romaji": "Anta to kaNKEE NAi to iWAN BAkari ni KAnojo wa KAre o MUshi shiteita.",
         "section": "Showing Signs of Something"
       },
       {
         "sentence": "紅葉が始まり、すっかり秋めいた空気になってきた。",
-        "romaji": "koOYOO O haJIMARI, suKKAri aKIMEeta KUuki ni NAtte kita.",
+        "romaji": "MOmiji ga haJIMARI, suKKAri AKIMEeta KUuki ni NAtte kita.",
         "section": "Showing Signs of Something"
       }
     ]
@@ -1276,6 +1276,291 @@
         "sentence": "お医者さんのおかげで病気が治った。",
         "romaji": "oISHASAN NO oKAGE DE byoOKI GA naOtta.",
         "section": "おかげ"
+      },
+      {
+        "sentence": "昨晩よく寝たおかげで授業中に寝なかった。",
+        "romaji": "",
+        "section": "おかげ"
+      },
+      {
+        "sentence": "あなたがエラーしたせいで、試合に負けてしまった。",
+        "romaji": "",
+        "section": "せいで"
+      },
+      {
+        "sentence": "歳のせいで腰が痛い。",
+        "romaji": "",
+        "section": "せいで"
+      },
+      {
+        "sentence": "オタクはアニメについてとても興味がある。",
+        "romaji": "",
+        "section": "について"
+      },
+      {
+        "sentence": "ハリーポッターに関してよく知っている。",
+        "romaji": "",
+        "section": "に関して"
+      },
+      {
+        "sentence": "いつもゲームばかりやっていて、子どもっぽいね。",
+        "romaji": "",
+        "section": "っぽい"
+      },
+      {
+        "sentence": "犯人が逃げないように、ちゃんと見張る。",
+        "romaji": "",
+        "section": "ように"
+      },
+      {
+        "sentence": "鳥の巣のような髪の毛",
+        "romaji": "",
+        "section": "ような"
+      },
+      {
+        "sentence": "おじぎをたくさんするのは日本人だけ見たい。",
+        "romaji": "",
+        "section": "見たい"
+      },
+      {
+        "sentence": "天気予報によると明日は晴れらしい。",
+        "romaji": "",
+        "section": "らしい"
+      },
+      {
+        "sentence": "男はケンカするたびに友情が深まる。",
+        "romaji": "",
+        "section": "たびに"
+      },
+      {
+        "sentence": "たとえ雨が降っても会いましょう。",
+        "romaji": "",
+        "section": "たとえ、ても"
+      },
+      {
+        "sentence": "でもたくさん食べるんだって。",
+        "romaji": "",
+        "section": "って"
+      },
+      {
+        "sentence": "ベトナムから日本まで6時間くらいだ。",
+        "romaji": "",
+        "section": "くらい"
+      },
+      {
+        "sentence": "もう歩けないくらいつかれた。",
+        "romaji": "",
+        "section": "くらい"
+      },
+      {
+        "sentence": "これぐらいの問題はとけるでしょう？",
+        "romaji": "",
+        "section": "ぐらい"
+      },
+      {
+        "sentence": "40℃の外に行くくらいなら家にいたい。",
+        "romaji": "",
+        "section": "くらいなら"
+      },
+      {
+        "sentence": "きっぷを買っているうちに電車が行ってしまった。",
+        "romaji": "",
+        "section": "うちに"
+      },
+      {
+        "sentence": "文法を中心に日本語を勉強する。",
+        "romaji": "",
+        "section": "を中心に"
+      },
+      {
+        "sentence": "東京には原宿をはじめ多くの観光地がある。",
+        "romaji": "",
+        "section": "をはじめ"
+      },
+      {
+        "sentence": "2020年のオリンピックは東京において開かれる。",
+        "romaji": "",
+        "section": "において"
+      },
+      {
+        "sentence": "マイケル・ジャクソンのファンは三世代にわたっている。",
+        "romaji": "",
+        "section": "にわたって"
+      },
+      {
+        "sentence": "外国人にとって納豆は食べづらい。",
+        "romaji": "",
+        "section": "にとって"
+      },
+      {
+        "sentence": "これは辛いに違いない。",
+        "romaji": "",
+        "section": "に違いない"
+      },
+      {
+        "sentence": "あなたにとって人生とは何ですか？",
+        "romaji": "",
+        "section": "とは"
+      },
+      {
+        "sentence": "アラームが鳴ったとたん、目が覚めた。",
+        "romaji": "",
+        "section": "とたん"
+      },
+      {
+        "sentence": "夏になるにつれて、暑くなる。",
+        "romaji": "",
+        "section": "につれて"
+      },
+      {
+        "sentence": "車の増加にしたがって、空気が悪くなる。",
+        "romaji": "",
+        "section": "にしたがって"
+      },
+      {
+        "sentence": "先生の指示にしたがって、動いて下さい。",
+        "romaji": "",
+        "section": "にしたがって"
+      },
+      {
+        "sentence": "手を洗ってからでないと、ごはんを食べてはいけない。",
+        "romaji": "",
+        "section": "からでないと"
+      },
+      {
+        "sentence": "大学に入って以来、ずっと忙しい。",
+        "romaji": "",
+        "section": "以来"
+      },
+      {
+        "sentence": "おすしばかり食べるので、お金が減る一方だ。",
+        "romaji": "",
+        "section": "一方"
+      },
+      {
+        "sentence": "日本語をマスターしたいなら、漢字を覚えるほかない。",
+        "romaji": "",
+        "section": "ほかない"
+      },
+      {
+        "sentence": "かわま先生は日本語はもちろん、英語もできる。",
+        "romaji": "",
+        "section": "はもちろん"
+      },
+      {
+        "sentence": "出かけるついでにゴミを出して。",
+        "romaji": "",
+        "section": "ついでに"
+      },
+      {
+        "sentence": "ニュースで聞いたが、ベトナムから日本に来る人は多いということだ。",
+        "romaji": "",
+        "section": "ということだ"
+      },
+      {
+        "sentence": "彼が悪かったから、あなたが謝ることはない。",
+        "romaji": "",
+        "section": "ことはない"
+      },
+      {
+        "sentence": "レポートは時間どおりに提出すること。",
+        "romaji": "",
+        "section": "こと"
+      },
+      {
+        "sentence": "二位だった。嬉しくないことはないが、一位が良かった。",
+        "romaji": "",
+        "section": "ないことはないが"
+      },
+      {
+        "sentence": "子どもだから、わからないもん。",
+        "romaji": "",
+        "section": "もん"
+      },
+      {
+        "sentence": "上着をぬいでもいいですか？暑いものですから。",
+        "romaji": "",
+        "section": "ものですから"
+      },
+      {
+        "sentence": "毎日残業…こんな会社にいていいものか！",
+        "romaji": "",
+        "section": "ものか"
+      },
+      {
+        "sentence": "説明通り直して見たところ、うまくいった。",
+        "romaji": "",
+        "section": "ところ"
+      },
+      {
+        "sentence": "いいところで来たね、ちょっと手伝って。",
+        "romaji": "",
+        "section": "ところで"
+      },
+      {
+        "sentence": "ねむすぎて朝起きられないほどだった。",
+        "romaji": "",
+        "section": "ほど"
+      },
+      {
+        "sentence": "がんばる人ほど成功する。",
+        "romaji": "",
+        "section": "ほど"
+      },
+      {
+        "sentence": "お酒はほどほどに！",
+        "romaji": "",
+        "section": "ほどほど"
+      },
+      {
+        "sentence": "やると決めたからには、最後までやって下さい。",
+        "romaji": "",
+        "section": "からには"
+      },
+      {
+        "sentence": "顔色が悪いね。うん…最近かぜぎみなの。",
+        "romaji": "",
+        "section": "ぎみ"
+      },
+      {
+        "sentence": "この地域はくもりがちなので、せんたく物がかわきにくい。",
+        "romaji": "",
+        "section": "がち"
+      },
+      {
+        "sentence": "子供／大人向けのいす",
+        "romaji": "",
+        "section": "向け"
+      },
+      {
+        "sentence": "子供は本だけでなく、色々な経験を通して成長する。",
+        "romaji": "",
+        "section": "通して"
+      },
+      {
+        "sentence": "おれが勝つに決まっている。",
+        "romaji": "",
+        "section": "に決まっている"
+      },
+      {
+        "sentence": "力を出しきったので、疲れきった。",
+        "romaji": "",
+        "section": "きった"
+      },
+      {
+        "sentence": "あのTシャツ、もう売り切れたらしい。",
+        "romaji": "",
+        "section": "切れた"
+      },
+      {
+        "sentence": "車の増加とともに、空気も悪くなる。",
+        "romaji": "",
+        "section": "とともに"
+      },
+      {
+        "sentence": "化学の発達にともなって、生活が便利になる。",
+        "romaji": "",
+        "section": "にともなって"
       }
     ]
   }
