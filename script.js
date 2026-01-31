@@ -42,11 +42,16 @@ function addFromBank(bank) {
 		for (let i = 0; i < 2; i++) {
 			const randomSectionIndex = Math.floor(Math.random() * bank.length);
 			const randomSection = bank[randomSectionIndex];
-			const randomItemIndex = Math.floor(Math.random() * randomSection.bank.length);
 
-			$bankContents.append($('<p>').text(randomSection.section));
-			$bankContents.append($('<p>').text(randomSection.bank[randomItemIndex].romaji));
-			$bankContents.append($('<p>').text(randomSection.bank[randomItemIndex].sentence));
+			$bankContents.append($('<h3>').text(randomSection.section));
+			for (let j = 0; j < 2; j++) {
+				const randomItemIndex = Math.floor(Math.random() * randomSection.bank.length);
+				$bankContents.append($('<p>').text(randomSection.bank[randomItemIndex].romaji));
+				$bankContents.append($('<p>').text(randomSection.bank[randomItemIndex].sentence));
+				if (randomSection.bank.length == 1) {
+					break;
+				}
+			}
 		}
 	}
 	return $bankContents;
