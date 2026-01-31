@@ -3,234 +3,243 @@
     "category": "Basic Grammar / Advanced Topics",
     "bank": [
       {
-        "sentence": "今日は試験だ。ジョンは？ジョンは明日。",
-        "romaji": "KYOo wa SHIKEn da. JOn WA? JOn wa aSHITA.",
-        "section": "Introduction to Particles"
+        "section": "Introduction to Particles",
+        "bank": [
+          {
+            "sentence": "今日は試験だ。ジョンは？ジョンは明日。",
+            "romaji": "KYOo wa SHIKEn da. JOn WA? JOn wa aSHITA."
+          },
+          {
+            "sentence": "アリスは学生？ううん、トムも学生じゃない。",
+            "romaji": "Arisu wa gaKUSEE? Uun, TOmu mo gaKUSEE ja NAi."
+          }
+        ]
       },
       {
-        "sentence": "アリスは学生？ううん、トムも学生じゃない。",
-        "romaji": "Arisu wa gaKUSEE? Uun, TOmu mo gaKUSEE ja NAi.",
-        "section": "Introduction to Particles"
+        "section": "Adjectives",
+        "bank": [
+          {
+            "sentence": "魚が好きなタイプは、野菜も好きだ。",
+            "romaji": "saKANA GA suKI na TAipu wa, yaSAI mo suKI da."
+          },
+          {
+            "sentence": "値段が高いレストランはあまり好きじゃない。",
+            "romaji": "neDAN GA taKAi REsutoran wa aMARI SUKI ja NAi."
+          }
+        ]
       },
       {
-        "sentence": "魚が好きなタイプは、野菜も好きだ。",
-        "romaji": "saKANA GA suKI na TAipu wa, yaSAI mo suKI da.",
-        "section": "Adjectives"
+        "section": "Particles Used with Verbs",
+        "bank": [
+          {
+            "sentence": "メールアドレスを登録した。",
+            "romaji": "meERUAdoresu o tOOROku shita."
+          },
+          {
+            "sentence": "友達は、来年に日本に行く。",
+            "romaji": "toMODACHI WA, raINEN NI niHOn ni iku."
+          },
+          {
+            "sentence": "勝ちへ向かう。",
+            "romaji": "kaCHI e muKAU."
+          },
+          {
+            "sentence": "何できた？バスできた。",
+            "romaji": "NAni de KIta? BAsu de KIta."
+          },
+          {
+            "sentence": "どこで食べる？イタリアレストランではどう？",
+            "romaji": "DOko de taBEru? iTARIAREsutoran de wa DOo?"
+          }
+        ]
       },
       {
-        "sentence": "値段が高いレストランはあまり好きじゃない。",
-        "romaji": "neDAN GA taKAi REsutoran wa aMARI SUKI ja NAi.",
-        "section": "Adjectives"
+        "section": "Transitive and Intransitive Verbs",
+        "bank": [
+          {
+            "sentence": "誰が窓を開けた？",
+            "romaji": "DAre ga MAdo o aKETA?"
+          },
+          {
+            "sentence": "窓がどうして開いた？",
+            "romaji": "MAdo ga DOoshite aITA?"
+          },
+          {
+            "sentence": "部屋を出た。",
+            "romaji": "heYA o DEta."
+          }
+        ]
       },
       {
-        "sentence": "メールアドレスを登録した。",
-        "romaji": "meERUAdoresu o tOOROku shita.",
-        "section": "Particles Used with Verbs"
+        "section": "Descriptive Subordinate Clauses and Sentence Order",
+        "bank": [
+          {
+            "sentence": "先週に医者だったボブは、仕事を辞めた。",
+            "romaji": "seNSHUU NI iSHA DAtta BObu wa, shiGOTO O yaMEta."
+          },
+          {
+            "sentence": "赤いズボンを買う友達はボブだ。",
+            "romaji": "aKAI ZUbon o kaU toMODACHI WA BObu da."
+          }
+        ]
       },
       {
-        "sentence": "友達は、来年に日本に行く。",
-        "romaji": "toMODACHI WA, raINEN NI niHOn ni iku.",
-        "section": "Particles Used with Verbs"
+        "section": "Noun-related Particles",
+        "bank": [
+          {
+            "sentence": "本と雑誌と葉書を買った。",
+            "romaji": "HOn to zaSSHI TO haGAKI O katta."
+          },
+          {
+            "sentence": "先生と会った。",
+            "romaji": "seNSEe to Atta."
+          },
+          {
+            "sentence": "靴やシャツを買う。",
+            "romaji": "kuTSU ya SHAtsu o kau."
+          },
+          {
+            "sentence": "靴とかシャツを買う。",
+            "romaji": "kuTSU TOka SHAtsu o kau."
+          },
+          {
+            "sentence": "そのシャツは誰の？ボブのだ。",
+            "romaji": "soNO SHAtsu wa DAre no? BObu no da."
+          },
+          {
+            "sentence": "授業に行くのを忘れた。",
+            "romaji": "JUgyoo ni iKU NO o waSUREta."
+          },
+          {
+            "sentence": "授業に行くことを忘れた。",
+            "romaji": "JUgyoo ni iKU KOTO o waSUREta."
+          },
+          {
+            "sentence": "静かなのが、アリスの部屋だ。",
+            "romaji": "SHIzuka na no ga, Arisu no heYA da."
+          },
+          {
+            "sentence": "今は忙しいのだ。",
+            "romaji": "Ima wa iSOGASHIi no da."
+          },
+          {
+            "sentence": "ジムなのだ。",
+            "romaji": "JImu na no da."
+          },
+          {
+            "sentence": "その人が買うんじゃなかったの？ううん、先生が買うんだ。",
+            "romaji": "soNO HITO GA kaU N JANAkatta no? Uun, seNSEe ga kaU N da."
+          }
+        ]
       },
       {
-        "sentence": "勝ちへ向かう。",
-        "romaji": "kaCHI e muKAU.",
-        "section": "Particles Used with Verbs"
+        "section": "Adverbs and Sentence-ending Particles",
+        "bank": [
+          {
+            "sentence": "ボブの声は、結構大きい。",
+            "romaji": "BObu no KOe wa, KEkkoo oOKIi."
+          },
+          {
+            "sentence": "この町は、最近大きく変わった。",
+            "romaji": "koNO MACHI wa, saIKIN OOKIku kaWAtta."
+          },
+          {
+            "sentence": "図書館の中では、静かにする。",
+            "romaji": "toSHOkan no NAka de wa, SHIzuka ni suru."
+          },
+          {
+            "sentence": "おもしろい映画だったね。",
+            "romaji": "oMOSHIROi eEGA DAtta ne."
+          },
+          {
+            "sentence": "時間がないよ。",
+            "romaji": "jiKAN GA NAi yo."
+          },
+          {
+            "sentence": "ボブは、魚が好きなんだよね。",
+            "romaji": "BObu wa, saKANA GA suKI na n da yo ne."
+          }
+        ]
       },
       {
-        "sentence": "何できた？バスできた。",
-        "romaji": "NAni de KIta? BAsu de KIta.",
-        "section": "Particles Used with Verbs"
+        "section": "Formal Expressions",
+        "bank": [
+          {
+            "sentence": "火を付け、",
+            "romaji": "HI o TSUke,"
+          },
+          {
+            "sentence": "写真が数枚入っており、",
+            "romaji": "shaSHIN GA SUUMAi HAitteori,"
+          }
+        ]
       },
       {
-        "sentence": "どこで食べる？イタリアレストランではどう？",
-        "romaji": "DOko de taBEru? iTARIAREsutoran de wa DOo?",
-        "section": "Particles Used with Verbs"
+        "section": "Things that Should be a Certain Way",
+        "bank": [
+          {
+            "sentence": "彼は漫画マニアだから、これらをもう全部読んだはずだよ。",
+            "romaji": "KAre wa maNGA MAnia dakara, koREra o MOo ZEnbu YOnda haZU da yo."
+          },
+          {
+            "sentence": "そう簡単に直せるはずがないよ。",
+            "romaji": "soO KANTAN NI naOSEru haZU GA NAi yo."
+          },
+          {
+            "sentence": "何かを買う前に本当に必要かどうかをよく考えるべきだ。",
+            "romaji": "NAnika o kaU MAe ni hoNTOO NI hiTSUYOO KA DOo ka o YOku kaNGAEru BEki da."
+          }
+        ]
       },
       {
-        "sentence": "誰が窓を開けた？",
-        "romaji": "DAre ga MAdo o aKETA?",
-        "section": "Transitive and Intransitive Verbs"
+        "section": "The Minimum Expectation",
+        "bank": [
+          {
+            "sentence": "宿題が多すぎて、トイレに行く時間さえなかった。",
+            "romaji": "shuKUDAI GA OOSUgite, TOire ni iku jiKAN SAE NAkatta."
+          },
+          {
+            "sentence": "お金さえあれば、何でも出来るよ。",
+            "romaji": "oKANE SAE Areba, naN DE mo deKIru yo."
+          },
+          {
+            "sentence": "ビタミンを食べさえすれば、健康が保証されますよ。",
+            "romaji": "biTAmin o TAbe sae suREba, keNKOO GA hoSHOO SAREMAsu yo."
+          },
+          {
+            "sentence": "漢字はおろか、ひらがなさえ読めないよ！",
+            "romaji": "kaNJI WA Oroka, hiRAGAna sae yoMEnai yo!"
+          }
+        ]
       },
       {
-        "sentence": "窓がどうして開いた？",
-        "romaji": "MAdo ga DOoshite aITA?",
-        "section": "Transitive and Intransitive Verbs"
-      },
-      {
-        "sentence": "部屋を出た。",
-        "romaji": "heYA o DEta.",
-        "section": "Transitive and Intransitive Verbs"
-      },
-      {
-        "sentence": "先週に医者だったボブは、仕事を辞めた。",
-        "romaji": "seNSHUU NI iSHA DAtta BObu wa, shiGOTO O yaMEta.",
-        "section": "Descriptive Subordinate Clauses and Sentence Order"
-      },
-      {
-        "sentence": "赤いズボンを買う友達はボブだ。",
-        "romaji": "aKAI ZUbon o kaU toMODACHI WA BObu da.",
-        "section": "Descriptive Subordinate Clauses and Sentence Order"
-      },
-      {
-        "sentence": "本と雑誌と葉書を買った。",
-        "romaji": "HOn to zaSSHI TO haGAKI O katta.",
-        "section": "Noun-related Particles"
-      },
-      {
-        "sentence": "先生と会った。",
-        "romaji": "seNSEe to Atta.",
-        "section": "Noun-related Particles"
-      },
-      {
-        "sentence": "靴やシャツを買う。",
-        "romaji": "kuTSU ya SHAtsu o kau.",
-        "section": "Noun-related Particles"
-      },
-      {
-        "sentence": "靴とかシャツを買う。",
-        "romaji": "kuTSU TOka SHAtsu o kau.",
-        "section": "Noun-related Particles"
-      },
-      {
-        "sentence": "そのシャツは誰の？ボブのだ。",
-        "romaji": "soNO SHAtsu wa DAre no? BObu no da.",
-        "section": "Noun-related Particles"
-      },
-      {
-        "sentence": "授業に行くのを忘れた。",
-        "romaji": "JUgyoo ni iKU NO o waSUREta.",
-        "section": "Noun-related Particles"
-      },
-      {
-        "sentence": "授業に行くことを忘れた。",
-        "romaji": "JUgyoo ni iKU KOTO o waSUREta.",
-        "section": "Noun-related Particles"
-      },
-      {
-        "sentence": "静かなのが、アリスの部屋だ。",
-        "romaji": "SHIzuka na no ga, Arisu no heYA da.",
-        "section": "Noun-related Particles"
-      },
-      {
-        "sentence": "今は忙しいのだ。",
-        "romaji": "Ima wa iSOGASHIi no da.",
-        "section": "Noun-related Particles"
-      },
-      {
-        "sentence": "ジムなのだ。",
-        "romaji": "JImu na no da.",
-        "section": "Noun-related Particles"
-      },
-      {
-        "sentence": "その人が買うんじゃなかったの？ううん、先生が買うんだ。",
-        "romaji": "soNO HITO GA kaU N JANAkatta no? Uun, seNSEe ga kaU N da.",
-        "section": "Noun-related Particles"
-      },
-      {
-        "sentence": "ボブの声は、結構大きい。",
-        "romaji": "BObu no KOe wa, KEkkoo oOKIi.",
-        "section": "Adverbs and Sentence-ending Particles"
-      },
-      {
-        "sentence": "この町は、最近大きく変わった。",
-        "romaji": "koNO MACHI wa, saIKIN OOKIku kaWAtta.",
-        "section": "Adverbs and Sentence-ending Particles"
-      },
-      {
-        "sentence": "図書館の中では、静かにする。",
-        "romaji": "toSHOkan no NAka de wa, SHIzuka ni suru.",
-        "section": "Adverbs and Sentence-ending Particles"
-      },
-      {
-        "sentence": "おもしろい映画だったね。",
-        "romaji": "oMOSHIROi eEGA DAtta ne.",
-        "section": "Adverbs and Sentence-ending Particles"
-      },
-      {
-        "sentence": "時間がないよ。",
-        "romaji": "jiKAN GA NAi yo.",
-        "section": "Adverbs and Sentence-ending Particles"
-      },
-      {
-        "sentence": "ボブは、魚が好きなんだよね。",
-        "romaji": "BObu wa, saKANA GA suKI na n da yo ne.",
-        "section": "Adverbs and Sentence-ending Particles"
-      },
-      {
-        "sentence": "火を付け、",
-        "romaji": "HI o TSUke,",
-        "section": "Formal Expressions"
-      },
-      {
-        "sentence": "写真が数枚入っており、",
-        "romaji": "shaSHIN GA SUUMAi HAitteori,",
-        "section": "Formal Expressions"
-      },
-      {
-        "sentence": "彼は漫画マニアだから、これらをもう全部読んだはずだよ。",
-        "romaji": "KAre wa maNGA MAnia dakara, koREra o MOo ZEnbu YOnda haZU da yo.",
-        "section": "Things that Should be a Certain Way"
-      },
-      {
-        "sentence": "そう簡単に直せるはずがないよ。",
-        "romaji": "soO KANTAN NI naOSEru haZU GA NAi yo.",
-        "section": "Things that Should be a Certain Way"
-      },
-      {
-        "sentence": "何かを買う前に本当に必要かどうかをよく考えるべきだ。",
-        "romaji": "NAnika o kaU MAe ni hoNTOO NI hiTSUYOO KA DOo ka o YOku kaNGAEru BEki da.",
-        "section": "Things that Should be a Certain Way"
-      },
-      {
-        "sentence": "宿題が多すぎて、トイレに行く時間さえなかった。",
-        "romaji": "shuKUDAI GA OOSUgite, TOire ni iku jiKAN SAE NAkatta.",
-        "section": "The Minimum Expectation"
-      },
-      {
-        "sentence": "お金さえあれば、何でも出来るよ。",
-        "romaji": "oKANE SAE Areba, naN DE mo deKIru yo.",
-        "section": "The Minimum Expectation"
-      },
-      {
-        "sentence": "ビタミンを食べさえすれば、健康が保証されますよ。",
-        "romaji": "biTAmin o TAbe sae suREba, keNKOO GA hoSHOO SAREMAsu yo.",
-        "section": "The Minimum Expectation"
-      },
-      {
-        "sentence": "漢字はおろか、ひらがなさえ読めないよ！",
-        "romaji": "kaNJI WA Oroka, hiRAGAna sae yoMEnai yo!",
-        "section": "The Minimum Expectation"
-      },
-      {
-        "sentence": "うちの子供はプールに入るのを理由もなく怖がる。",
-        "romaji": "uCHI NO koDOMO WA PUuru ni HAiru no o riYUU MO NAku koWAGAru.",
-        "section": "Showing Signs of Something"
-      },
-      {
-        "sentence": "家に帰ったら、すぐパソコンを使いたがる。",
-        "romaji": "iE ni KAettara, SUgu paSOKON O tsuKAITAGAru.",
-        "section": "Showing Signs of Something"
-      },
-      {
-        "sentence": "妻はルイヴィトンのバッグを欲しがっているんだけど、そんなもん、買えるわけないでしょう！",
-        "romaji": "TSUma wa ruIVIton no BAggu o hoSHIGAtte iRU N da kedo, sonNA mon, kaERU WAke NAi deshoo!",
-        "section": "Showing Signs of Something"
-      },
-      {
-        "sentence": "私は寒がり屋だから、ミネソタで暮らすのは辛かった。",
-        "romaji": "waTASHI WA saMUGARIYA DAkara, miNESOTA DE kuRASU NO wa tsuRAkatta.",
-        "section": "Showing Signs of Something"
-      },
-      {
-        "sentence": "「あんたと関係ない」と言わんばかりに彼女は彼を無視していた。",
-        "romaji": "Anta to kaNKEE NAi to iWAN BAkari ni KAnojo wa KAre o MUshi shiteita.",
-        "section": "Showing Signs of Something"
-      },
-      {
-        "sentence": "紅葉が始まり、すっかり秋めいた空気になってきた。",
-        "romaji": "MOmiji ga haJIMARI, suKKAri AKIMEeta KUuki ni NAtte kita.",
-        "section": "Showing Signs of Something"
+        "section": "Showing Signs of Something",
+        "bank": [
+          {
+            "sentence": "うちの子供はプールに入るのを理由もなく怖がる。",
+            "romaji": "uCHI NO koDOMO WA PUuru ni HAiru no o riYUU MO NAku koWAGAru."
+          },
+          {
+            "sentence": "家に帰ったら、すぐパソコンを使いたがる。",
+            "romaji": "iE ni KAettara, SUgu paSOKON O tsuKAITAGAru."
+          },
+          {
+            "sentence": "妻はルイヴィトンのバッグを欲しがっているんだけど、そんなもん、買えるわけないでしょう！",
+            "romaji": "TSUma wa ruIVIton no BAggu o hoSHIGAtte iRU N da kedo, sonNA mon, kaERU WAke NAi deshoo!"
+          },
+          {
+            "sentence": "私は寒がり屋だから、ミネソタで暮らすのは辛かった。",
+            "romaji": "waTASHI WA saMUGARIYA DAkara, miNESOTA DE kuRASU NO wa tsuRAkatta."
+          },
+          {
+            "sentence": "「あんたと関係ない」と言わんばかりに彼女は彼を無視していた。",
+            "romaji": "Anta to kaNKEE NAi to iWAN BAkari ni KAnojo wa KAre o MUshi shiteita."
+          },
+          {
+            "sentence": "紅葉が始まり、すっかり秋めいた空気になってきた。",
+            "romaji": "MOmiji ga haJIMARI, suKKAri AKIMEeta KUuki ni NAtte kita."
+          }
+        ]
       }
     ]
   },
@@ -238,554 +247,519 @@
     "category": "Essential Grammar",
     "bank": [
       {
-        "sentence": "昨日、友達が遊びにきた。",
-        "romaji": "kiNOO, toMODACHI GA aSOBI NI KIta.",
-        "section": "Polite Form and Verb Stems"
-      },
-      {
-        "sentence": "先週に見た映画は、とても面白かったです。",
-        "romaji": "seNSHUU NI MIta eEGA WA, toTEMO oMOSHIROkatta desu.",
-        "section": "Polite Form and Verb Stems"
-      },
-      {
-        "sentence": "そうだと思います",
-        "romaji": "SOo da to oMOIMAsu.",
-        "section": "Polite Form and Verb Stems"
-      },
-      {
-        "sentence": "イタリア料理を食べに行きませんか。",
-        "romaji": "iTARIARYOori o TAbe ni iKIMASEn ka.",
-        "section": "The Question Marker"
-      },
-      {
-        "sentence": "こんなのを本当に食べる？",
-        "romaji": "koNNA NO o hoNTOO NI taBEru?",
-        "section": "The Question Marker"
-      },
-      {
-        "sentence": "先生が学校に行ったか教えない？",
-        "romaji": "seNSEe ga gaKKOO NI iTTA ka oSHIENAI?",
-        "section": "The Question Marker"
-      },
-      {
-        "sentence": "この中からどれかを選ぶの。",
-        "romaji": "koNO NAka kara DOre ka o eRAbu no.",
-        "section": "The Question Marker"
-      },
-      {
-        "sentence": "あの人は、本当に何でも食べる。",
-        "romaji": "koNO NAka kara DOre ka o eRAbu no.",
-        "section": "The Question Marker"
-      },
-      {
-        "sentence": "田中さんは、お金持ちで、かっこよくて、魅力的ですね。",
-        "romaji": "taNAKASAN WA, oKANEMOchi de, kaKKOYOkute, miRYOKUTEKI DEsu ne.",
-        "section": "Compound Sentences"
-      },
-      {
-        "sentence": "時間がありまして、映画を見ました。",
-        "romaji": "jiKAN GA aRIMAshite, eEGA O miMAshita.",
-        "section": "Compound Sentences"
-      },
-      {
-        "sentence": "時間がなかったからパーティーに行きませんでした。",
-        "romaji": "jiKAN GA NAkatta kara PAatii ni iKIMASEn deshita.",
-        "section": "Compound Sentences"
-      },
-      {
-        "sentence": "時間がなかったのでパーティーに行かなかった。",
-        "romaji": "jiKAN GA NAkatta node PAatii ni iKANAkatta.",
-        "section": "Compound Sentences"
-      },
-      {
-        "sentence": "ここは静かなので、とても穏やかです。",
-        "romaji": "koKO WA SHIzuka nano de, toTEMO ODAyaka desu.",
-        "section": "Compound Sentences"
-      },
-      {
-        "sentence": "なんで、友達に会う時間がない。",
-        "romaji": "NAn de, toMODACHI NI Au jiKAN GA NAi.",
-        "section": "Compound Sentences"
-      },
-      {
-        "sentence": "学生なのに、彼女は勉強しない。",
-        "romaji": "gaKUSEE NA no ni, KAnojo wa beNKYOO SHINAI.",
-        "section": "Compound Sentences"
-      },
-      {
-        "sentence": "今日は暇だけど、明日は忙しい。",
-        "romaji": "KYOo wa hiMA DA kedo, aSHITA wa iSOGASHIi.",
-        "section": "Compound Sentences"
-      },
-      {
-        "sentence": "デパートに行きましたが、いい物がたくさんありました。",
-        "romaji": "dePAato ni iKIMAshita ga, Ii moNO ga taKUSAN ARIMAshita.",
-        "section": "Compound Sentences"
-      },
-      {
-        "sentence": "どうして彼が好きなの？優しいし、かっこいいし、面白いから。",
-        "romaji": "DOoshite KAre ga suKI na no? yaSASHIi shi, kaKKOIi shi, oMOSHIROi kara.",
-        "section": "Compound Sentences"
-      },
-      {
-        "sentence": "映画を見たり、本を読んだりしなかった。",
-        "romaji": "eEGA O MItari, HOn o YOndari shiNAkatta.",
-        "section": "Compound Sentences"
-      },
-      {
-        "sentence": "この歌を知っていますか？",
-        "romaji": "koNO UTA o shiTTEIMAsu ka?",
-        "section": "Other Uses of the -te Form"
-      },
-      {
-        "sentence": "美恵ちゃんは、もう来ているよ。",
-        "romaji": "MIechan wa,  MOu KIteiru yo.",
-        "section": "Other Uses of the -te Form"
-      },
-      {
-        "sentence": "準備は、もうしてあるよ。",
-        "romaji": "JUnbi wa, MOu shiTEAru yo",
-        "section": "Other Uses of the -te Form"
-      },
-      {
-        "sentence": "晩ご飯を作っとく。",
-        "romaji": "baNGOhan o tsuKUttoku.",
-        "section": "Other Uses of the -te Form"
-      },
-      {
-        "sentence": "冬に入って、コートを着ている人が増えていきます。",
-        "romaji": "fuYU ni HAitte, KOoto o kiTEIRU HITO GA FUeteiKIMAsu.",
-        "section": "Other Uses of the -te Form"
-      },
-      {
-        "sentence": "日本語をずっと前から勉強してきて、結局はやめた。",
-        "romaji": "niHONGO O zuTTO MAe kara beNKYOO SHITEKIte, keKKYOKU wa yaMETA.",
-        "section": "Other Uses of the -te Form"
-      },
-      {
-        "sentence": "残念だが、今週末は行けない。",
-        "romaji": "zaNNEn da ga, koNSHUUmatsu wa iKENAI.",
-        "section": "Potential Form"
-      },
-      {
-        "sentence": "もう信じられない。",
-        "romaji": "MOu shiNJIRAREnai.",
-        "section": "Potential Form"
-      },
-      {
-        "sentence": "重い荷物は持てます。",
-        "romaji": "oMOI NImotsu wa moTEMAsu.",
-        "section": "Potential Form"
-      },
-      {
-        "sentence": "友達のおかげで、映画はただで見られた。",
-        "romaji": "toMODACHI NO oKAGE DE eEGA WA TAda de miRAREta.",
-        "section": "Potential Form"
-      },
-      {
-        "sentence": "そんなことはありえる。",
-        "romaji": "sonNA KOTO wa aRIEru.",
-        "section": "Potential Form"
-      },
-      {
-        "sentence": "私は有名な人になる。",
-        "romaji": "waTASHI WA yuUMEI NA HITO ni NAru.",
-        "section": "Using する and なる with the に Particle"
-      },
-      {
-        "sentence": "私は、ハンバーガーとサラダにします。",
-        "romaji": "waTASHI WA haNBAagaa TO SArada ni shiMAsu.",
-        "section": "Using する and なる with the に Particle"
-      },
-      {
-        "sentence": "勉強をたくさんしたから、頭がよくなった。",
-        "romaji": "beNKYOO O taKUSAN SHITA kara, aTAMA ga YOku NAtta.",
-        "section": "Using する and なる with the に Particle"
-      },
-      {
-        "sentence": "海外に行くことになった。",
-        "romaji": "KAigai ni iKU KOTO ni NAtta.",
-        "section": "Using する and なる with the に Particle"
-      },
-      {
-        "sentence": "毎日、肉を食べるようにする。",
-        "romaji": "MAinichi, niKU o taBEru you ni suRU.",
-        "section": "Using する and なる with the に Particle"
-      },
-      {
-        "sentence": "一年間練習したから、ピアノが弾けるようになった。",
-        "romaji": "iCHINEn kan reNSHUU SHITA kara, piANO GA hiKERU YOu ni NAtta.",
-        "section": "Using する and なる with the に Particle"
-      },
-      {
-        "sentence": "先生だと、きっと年上なんじゃないですか？",
-        "romaji": "seNSEe da to, kiTTO toSHIUE NAn jaNAi desu ka?",
-        "section": "Conditionals"
-      },
-      {
-        "sentence": "みんなが行くなら私も行く。",
-        "romaji": "miNNA ga iKU NAra waTASHI MO iKU.",
-        "section": "Conditionals"
-      },
-      {
-        "sentence": "食べなければ病気になるよ。",
-        "romaji": "taBENAkereba byoOKI NI NAru yo.",
-        "section": "Conditionals"
-      },
-      {
-        "sentence": "学生だったら、学生割引で買えます。",
-        "romaji": "gaKUSEE DAttara, gaKUSEEWAribiki de kaEMAsu.",
-        "section": "Conditionals"
-      },
-      {
-        "sentence": "家に帰ったら、誰もいなかった。",
-        "romaji": "iE ni KAettara, DAre mo iNAkatta.",
-        "section": "Conditionals"
-      },
-      {
-        "sentence": "もし時間がないなら、明日でもいいよ。",
-        "romaji": "MOshi jiKAN GA NAi nara, aSHITA DEmo Ii yo.",
-        "section": "Conditionals"
-      },
-      {
-        "sentence": "ここに入ってはいけません。",
-        "romaji": "koKO NI HAitte wa iKEMASEn.",
-        "section": "Expressing \"Must\" or \"Have to\""
-      },
-      {
-        "sentence": "それを食べてはだめ！",
-        "romaji": "soRE O TAbete wa daME!",
-        "section": "Expressing \"Must\" or \"Have to\""
-      },
-      {
-        "sentence": "夜、遅くまで電話してはならない。",
-        "romaji": "YOru, oSOKU made deNWA SHITE wa naRAnai.",
-        "section": "Expressing \"Must\" or \"Have to\""
-      },
-      {
-        "sentence": "宿題をしなくてはいけなかった。",
-        "romaji": "shuKUDAI O shiNAkute wa iKENAkatta.",
-        "section": "Expressing \"Must\" or \"Have to\""
-      },
-      {
-        "sentence": "毎日学校に行かないとだめです。",
-        "romaji": "MAinichi gaKKOO NI iKANAI to daME desu.",
-        "section": "Expressing \"Must\" or \"Have to\""
-      },
-      {
-        "sentence": "宿題をしなければだめだった。",
-        "romaji": "shuKUDAI O SHINAkereba daME datta.",
-        "section": "Expressing \"Must\" or \"Have to\""
-      },
-      {
-        "sentence": "勉強しなくちゃ。",
-        "romaji": "beNKYOO SHINAkucha.",
-        "section": "Expressing \"Must\" or \"Have to\""
-      },
-      {
-        "sentence": "ご飯を食べなきゃ。",
-        "romaji": "GOhan o taBEnakya.",
-        "section": "Expressing \"Must\" or \"Have to\""
-      },
-      {
-        "sentence": "学校に行かないと。",
-        "romaji": "gaKKOU NI iKANAI to.",
-        "section": "Expressing \"Must\" or \"Have to\""
-      },
-      {
-        "sentence": "ここに入っちゃだめだよ。",
-        "romaji": "koKO NI HAiccha daME da yo.",
-        "section": "Expressing \"Must\" or \"Have to\""
-      },
-      {
-        "sentence": "全部食べなくてもいいよ。",
-        "romaji": "ZEnbu taBEnakute mo Ii yo.",
-        "section": "Expressing \"Must\" or \"Have to\""
-      },
-      {
-        "sentence": "全部飲んでも大丈夫だよ。",
-        "romaji": "ZEnbu NOnde mo daIJOobu da yo.",
-        "section": "Expressing \"Must\" or \"Have to\""
-      },
-      {
-        "sentence": "もう帰っていい？",
-        "romaji": "MOo KAette Ii?",
-        "section": "Expressing \"Must\" or \"Have to\""
-      },
-      {
-        "sentence": "ずっと一緒にいたい。",
-        "romaji": "zuTTO ISSHO NI ITAI.",
-        "section": "Desire and Suggestions"
-      },
-      {
-        "sentence": "犬と遊びたいですか。",
-        "romaji": "iNU to aSOBITAI desu ka.",
-        "section": "Desire and Suggestions"
-      },
-      {
-        "sentence": "部屋をきれいにしてほしいのよ。",
-        "romaji": "heYA o KIree ni shiTE HOSHIi no yo.",
-        "section": "Desire and Suggestions"
-      },
-      {
-        "sentence": "明日は何を食べようか？",
-        "romaji": "aSHITA wa NAni o taBEYOo ka?",
-        "section": "Desire and Suggestions"
-      },
-      {
-        "sentence": "カレーを食べましょう。",
-        "romaji": "kaREE O taBEMASHOo.",
-        "section": "Desire and Suggestions"
-      },
-      {
-        "sentence": "たまにご両親と話せばどう？",
-        "romaji": "taMA NI goRYOoshin to haNAseba DOo?",
-        "section": "Desire and Suggestions"
-      },
-      {
-        "sentence": "「今日は授業がない」と先生から聞いたんだけど。",
-        "romaji": "KYOo wa JUgyoo ga NAi to seNSEe kara kiITAN da kedo.",
-        "section": "Acting on Subordinate Clauses"
-      },
-      {
-        "sentence": "「寒い」とアリスが田中に言った。",
-        "romaji": "saMUi to Arisu ga taNAKA NI iTTA.",
-        "section": "Acting on Subordinate Clauses"
-      },
-      {
-        "sentence": "これは、日本語で何と言いますか。",
-        "romaji": "koRE WA, niHOngo de NAn to iIMAsu ka.",
-        "section": "Acting on Subordinate Clauses"
-      },
-      {
-        "sentence": "今、どこに行こうかと考えている。",
-        "romaji": "Ima, DOko ni iKOo ka to kaNGAeteiru.",
-        "section": "Acting on Subordinate Clauses"
-      },
-      {
-        "sentence": "彼は、これは何だと言いましたか。",
-        "romaji": "KAre wa, koRE WA NAn da to iIMAshita ka.",
-        "section": "Acting on Subordinate Clauses"
-      },
-      {
-        "sentence": "何と言いましたか。",
-        "romaji": "NAn to iIMAshita ka.",
-        "section": "Acting on Subordinate Clauses"
-      },
-      {
-        "sentence": "今、時間がないって、本当？",
-        "romaji": "Ima, jiKAN GA NAi tte, hoNTOO?",
-        "section": "Acting on Subordinate Clauses"
-      },
-      {
-        "sentence": "アリスって、すごくいい人でしょ？",
-        "romaji": "Arisu tte, suGOku Ii hiTO desho?",
-        "section": "Acting on Subordinate Clauses"
-      },
-      {
-        "sentence": "「友達」は、英語で「friend」という意味です。",
-        "romaji": "toMODACHI WA, eIGO DE FUREndo toIU Imi desu.",
-        "section": "Acting on Subordinate Clauses"
-      },
-      {
-        "sentence": "独身だというのは、嘘だったの？",
-        "romaji": "doKUSHIN DA toIU no wa, Uso datta no?",
-        "section": "Defining and Describing"
-      },
-      {
-        "sentence": "そういう人と一緒に仕事をするのは、嫌だよね。",
-        "romaji": "sOOIU HITO to iSSHO NI shiGOTO O SURU no wa, iYA da yo ne.",
-        "section": "Defining and Describing"
-      },
-      {
-        "sentence": "というか、もう帰らないとだめですけど。",
-        "romaji": "toIU KA, MOo KAERANAI to daME desu kedo.",
-        "section": "Defining and Describing"
-      },
-      {
-        "sentence": "来年留学するというのは、智子のこと？",
-        "romaji": "raINEN ryuUGAKU SURU toIU no wa, TOmoko no koTO?",
-        "section": "Defining and Describing"
-      },
-      {
-        "sentence": "来年留学するって智子のこと？",
-        "romaji": "raINEN ryuUGAKU SURU tte TOmoko no koTO?",
-        "section": "Defining and Describing"
-      },
-      {
-        "sentence": "そうゆうことじゃないって！",
-        "romaji": "soUYUU KOTO ja NAi tte!",
-        "section": "Defining and Describing"
-      },
-      {
-        "sentence": "広島のお好み焼きを食べてみたい！",
-        "romaji": "hiROSHIMA NO oKONOMIYAKI O TAbetemiTAi!",
-        "section": "Trying or Attempting Something"
-      },
-      {
-        "sentence": "早く寝ようとしたけど、結局は徹夜した。",
-        "romaji": "HAyaku  neYOo to shiTA kedo, keKKYOKU wa teTSUYA SHITA",
-        "section": "Trying or Attempting Something"
-      },
-      {
-        "sentence": "毎日ジムに行こうと決めた。",
-        "romaji": "MAinichi JImu ni iKOo to kiMETA.",
-        "section": "Trying or Attempting Something"
-      },
-      {
-        "sentence": "これは先生にあげる。",
-        "romaji": "koRE WA seNSEe ni aGERU.",
-        "section": "Giving and Receiving"
-      },
-      {
-        "sentence": "車を買ってあげるよ。",
-        "romaji": "kuRUMA O kaTTE AGERU YO.",
-        "section": "Giving and Receiving"
-      },
-      {
-        "sentence": "学生がこれを先生にあげる。",
-        "romaji": "gaKUSEE GA koRE O seNSEe ni aGERU.",
-        "section": "Giving and Receiving"
-      },
-      {
-        "sentence": "犬に餌をやった？",
-        "romaji": "iNU ni eSA o yaTTA?",
-        "section": "Giving and Receiving"
-      },
-      {
-        "sentence": "これは、先生がくれた。",
-        "romaji": "koRE WA, seNSEe GA kuRETA.",
-        "section": "Giving and Receiving"
-      },
-      {
-        "sentence": "先生がこれを学生にくれる。",
-        "romaji": "seNSEe ga koRE O gaKUSEE NI kuRERU.",
-        "section": "Giving and Receiving"
-      },
-      {
-        "sentence": "私が友達にプレゼントをもらった。",
-        "romaji": "waTASHI GA toMODACHI NI puREzento o moRATTA.",
-        "section": "Giving and Receiving"
-      },
-      {
-        "sentence": "これは友達に買ってもらった。",
-        "romaji": "koRE WA toMODACHI NI kaTTE MORATTA.",
-        "section": "Giving and Receiving"
-      },
-      {
-        "sentence": "千円を貸してくれる？",
-        "romaji": "SEn en o kaSHITE KURERU?",
-        "section": "Giving and Receiving"
-      },
-      {
-        "sentence": "千円を貸してもらえる？",
-        "romaji": "SEn en o kaSHITE MORAERU?",
-        "section": "Giving and Receiving"
-      },
-      {
-        "sentence": "ちょっと静かにしてくれない？",
-        "romaji": "CHOtto SHIzuka ni shiTE KURENAI?",
-        "section": "Giving and Receiving"
-      },
-      {
-        "sentence": "漢字で書いてもらえませんか。",
-        "romaji": "kaNJI DE KAite moRAEMASEn ka.",
-        "section": "Giving and Receiving"
-      },
-      {
-        "sentence": "高い物を買わないでくれる？",
-        "romaji": "taKAi moNO o kaWANAI de kuRERU?",
-        "section": "Giving and Receiving"
-      },
-      {
-        "sentence": "それをください。",
-        "romaji": "soRE O kuDASAi.",
-        "section": "Making Requests"
-      },
-      {
-        "sentence": "漢字で書いてください。",
-        "romaji": "kaNJI DE KAite kuDASAi.",
-        "section": "Making Requests"
-      },
-      {
-        "sentence": "ここにこないでください。",
-        "romaji": "koKO NI KOnaide kuDASAi.",
-        "section": "Making Requests"
-      },
-      {
-        "sentence": "消しゴムを貸して。",
-        "romaji": "keSHIGOMU O kaSHITE",
-        "section": "Making Requests"
-      },
-      {
-        "sentence": "遠い所に行かないでくれ。",
-        "romaji": "toOI toKORO ni iKANAI de kuRE.",
-        "section": "Making Requests"
-      },
-      {
-        "sentence": "ここに名前を書いてちょうだい。",
-        "romaji": "koKO NI naMAE O KAite choODAI",
-        "section": "Making Requests"
-      },
-      {
-        "sentence": "よく聞きなさい！",
-        "romaji": "YOku kiKINASAi!",
-        "section": "Making Requests"
-      },
-      {
-        "sentence": "それでいいと思うなら、そうしなよ。",
-        "romaji": "soRE DE Ii to oMOo nara, soO SHINA yo.",
-        "section": "Making Requests"
-      },
-      {
-        "sentence": "好きにしろ。",
-        "romaji": "suKI ni shiRO.",
-        "section": "Making Requests"
-      },
-      {
-        "sentence": "変なことを言うな！",
-        "romaji": "HEn na koTO o iU na!",
-        "section": "Making Requests"
-      },
-      {
-        "sentence": "それは何？",
-        "romaji": "soRE WA NAni?",
-        "section": "Casual Patterns and Slang"
-      },
-      {
-        "sentence": "何それ？",
-        "romaji": "NAni soRE?",
-        "section": "Casual Patterns and Slang"
-      },
-      {
-        "sentence": "もう食べた？昨日買ったアイス。",
-        "romaji": "MOo TAbeta? kiNOO kaTTA Aisu.",
-        "section": "Casual Patterns and Slang"
-      },
-      {
-        "sentence": "ほら、やっぱりレポートを書かないとだめじゃん。",
-        "romaji": "HOra, yaPPAri rePOoto o kaKAnai to daME jan.",
-        "section": "Casual Patterns and Slang"
-      },
-      {
-        "sentence": "もう行くってば！",
-        "romaji": "MOo iKU tteBA!",
-        "section": "Casual Patterns and Slang"
-      },
-      {
-        "sentence": "あなたったら、いつも忘れるんだから。",
-        "romaji": "aNAta ttara, Itsumo waSURERUn da kara.",
-        "section": "Casual Patterns and Slang"
-      },
-      {
-        "sentence": "なんか食べる？",
-        "romaji": "NAn ka taBEru?",
-        "section": "Casual Patterns and Slang"
-      },
-      {
-        "sentence": "今日は、なんか忙しいみたいよ。",
-        "romaji": "KYOo wa, NAn ka iSOGASHIi MItai yo.",
-        "section": "Casual Patterns and Slang"
+        "section": "Polite Form and Verb Stems",
+        "bank": [
+          {
+            "sentence": "昨日、友達が遊びにきた。",
+            "romaji": "kiNOO, toMODACHI GA aSOBI NI KIta."
+          },
+          {
+            "sentence": "先週に見た映画は、とても面白かったです。",
+            "romaji": "seNSHUU NI MIta Eega wa, toTEMO oMOSHIROkatta desu."
+          },
+          {
+            "sentence": "そうだと思います。",
+            "romaji": "SOo da to oMOIMAsu."
+          }
+        ]
+      },
+      {
+        "section": "The Question Marker",
+        "bank": [
+          {
+            "sentence": "イタリア料理を食べに行きませんか。",
+            "romaji": "iTARIARYOori o taBE NI IKIMASEn ka."
+          },
+          {
+            "sentence": "こんなのを本当に食べる？",
+            "romaji": "koNNA NO O hoNTOO NI taBEru?"
+          },
+          {
+            "sentence": "先生が学校に行ったか教えない？",
+            "romaji": "seNSEe ga gaKKOO NI iTTA ka oSHIENAI?"
+          },
+          {
+            "sentence": "この中からどれかを選ぶの。",
+            "romaji": "koNO NAka kara DOre ka o eRAbu no."
+          },
+          {
+            "sentence": "あの人は、本当に何でも食べる。",
+            "romaji": "aNO HITO wa, hoNTOO NI NAnde mo taBEru."
+          }
+        ]
+      },
+      {
+        "section": "Compound Sentences",
+        "bank": [
+          {
+            "sentence": "田中さんは、お金持ちで、かっこよくて、魅力的ですね。",
+            "romaji": "taNAKASAN WA, oKANEMOchi de, kaKKOYOkute, miRYOKUTEKI DEsu ne."
+          },
+          {
+            "sentence": "時間がありまして、映画を見ました。",
+            "romaji": "jiKAN GA aRIMAshite, Eega o miMAshita."
+          },
+          {
+            "sentence": "時間がなかったからパーティーに行きませんでした。",
+            "romaji": "jiKAN GA NAkatta kara PAatii ni iKIMASEn deshita."
+          },
+          {
+            "sentence": "時間がなかったのでパーティーに行かなかった。",
+            "romaji": "jiKAN GA NAkatta node PAatii ni iKANAkatta."
+          },
+          {
+            "sentence": "ここは静かなので、とても穏やかです。",
+            "romaji": "koKO WA SHIzuka nano de, toTEMO ODAyaka desu."
+          },
+          {
+            "sentence": "なんで、友達に会う時間がない。",
+            "romaji": "NAn de, toMODACHI NI Au jiKAN GA NAi."
+          },
+          {
+            "sentence": "学生なのに、彼女は勉強しない。",
+            "romaji": "gaKUSEE NA no ni, KAnojo wa beNKYOO SHINAi."
+          },
+          {
+            "sentence": "今日は暇だけど、明日は忙しい。",
+            "romaji": "KYOo wa hiMA DA KEDO, aSHITA wa iSOGASHIi."
+          },
+          {
+            "sentence": "デパートに行きましたが、いい物がたくさんありました。",
+            "romaji": "dePAato ni iKIMAshita ga, Ii mono ga taKUSAN ARIMAshita."
+          },
+          {
+            "sentence": "どうして彼が好きなの？優しいし、かっこいいし、面白いから。",
+            "romaji": "DOoshite KAre ga suKI na no? yaSASHIi shi, kaKKOIi shi, oMOSHIROi kara."
+          },
+          {
+            "sentence": "映画を見たり、本を読んだりしなかった。",
+            "romaji": "Eega o MItari, HOn o YOndari shiNAkatta."
+          }
+        ]
+      },
+      {
+        "section": "Other Uses of the -te Form",
+        "bank": [
+          {
+            "sentence": "この歌を知っていますか？",
+            "romaji": "koNO UTA o shiTTEIMAsu ka?"
+          },
+          {
+            "sentence": "美恵ちゃんは、もう来ているよ。",
+            "romaji": "MIechan wa,  MOu KIteiru yo."
+          },
+          {
+            "sentence": "準備は、もうしてあるよ。",
+            "romaji": "JUnbi wa, MOo shitearu yo."
+          },
+          {
+            "sentence": "晩ご飯を作っとく。",
+            "romaji": "baNGOhan o tsuKUttoku."
+          },
+          {
+            "sentence": "冬に入って、コートを着ている人が増えていきます。",
+            "romaji": "fuYU ni HAitte, KOoto o kiTEIRU HITO ga FUeteiKIMAsu."
+          },
+          {
+            "sentence": "日本語をずっと前から勉強してきて、結局はやめた。",
+            "romaji": "niHONGO O zuTTO MAe kara beNKYOO SHITEKIte, keKKYOKU wa yaMEta."
+          }
+        ]
+      },
+      {
+        "section": "Potential Form",
+        "bank": [
+          {
+            "sentence": "残念だが、今週末は行けない。",
+            "romaji": "zaNNEn da ga, koNSHUUmatsu wa iKENAi."
+          },
+          {
+            "sentence": "もう信じられない。",
+            "romaji": "MOo shiNJIRAREnai."
+          },
+          {
+            "sentence": "重い荷物は持てます。",
+            "romaji": "oMOI NImotsu wa moTEMAsu."
+          },
+          {
+            "sentence": "友達のおかげで、映画はただで見られた。",
+            "romaji": "toMODACHI NO oKAGE DE Eega wa TAda de miRAREta."
+          },
+          {
+            "sentence": "そんなことはありえる。",
+            "romaji": "soNNA KOTO wa aRIEru."
+          }
+        ]
+      },
+      {
+        "section": "Using する and なる with the に Particle",
+        "bank": [
+          {
+            "sentence": "私は有名な人になる。",
+            "romaji": "waTASHI WA yuUMEI NA HITO NI NAru."
+          },
+          {
+            "sentence": "私は、ハンバーガーとサラダにします。",
+            "romaji": "waTASHI WA haNBAagaa TO SArada ni shiMAsu."
+          },
+          {
+            "sentence": "勉強をたくさんしたから、頭がよくなった。",
+            "romaji": "beNKYOO O taKUSAN SHITA kara, aTAMA ga YOku natta."
+          },
+          {
+            "sentence": "海外に行くことになった。",
+            "romaji": "KAigai ni iKU KOTO ni NAtta."
+          },
+          {
+            "sentence": "毎日、肉を食べるようにする。",
+            "romaji": "MAinichi, niKU o taBEru you ni suru."
+          },
+          {
+            "sentence": "一年間練習したから、ピアノが弾けるようになった。",
+            "romaji": "iCHINEnkan reNSHUU SHITA kara, piANO GA hiKEru you ni natta."
+          }
+        ]
+      },
+      {
+        "section": "Conditionals",
+        "bank": [
+          {
+            "sentence": "先生だと、きっと年上なんじゃないですか？",
+            "romaji": "seNSEe da to, kiTTO toSHIUE NAn jaNAi desu ka?"
+          },
+          {
+            "sentence": "みんなが行くなら私も行く。",
+            "romaji": "miNNA ga iKU NAra waTASHI mo iku."
+          },
+          {
+            "sentence": "食べなければ病気になるよ。",
+            "romaji": "taBENAkereba byoOKI NI NAru yo."
+          },
+          {
+            "sentence": "学生だったら、学生割引で買えます。",
+            "romaji": "gaKUSEE DAttara, gaKUSEEWAribiki de kaEMAsu."
+          },
+          {
+            "sentence": "家に帰ったら、誰もいなかった。",
+            "romaji": "iE ni KAettara, daRE mo iNAkatta."
+          },
+          {
+            "sentence": "もし時間がないなら、明日でもいいよ。",
+            "romaji": "MOshi jiKAN GA NAi nara, aSHITA DEmo Ii yo."
+          }
+        ]
+      },
+      {
+        "section": "Expressing \"Must\" or \"Have to\"",
+        "bank": [
+          {
+            "sentence": "ここに入ってはいけません。",
+            "romaji": "koKO NI HAitte wa iKEMASEn."
+          },
+          {
+            "sentence": "それを食べてはだめ！",
+            "romaji": "soRE O TAbete wa daME!"
+          },
+          {
+            "sentence": "夜、遅くまで電話してはならない。",
+            "romaji": "YOru, oSOKU made deNWA SHITE wa naRAnai."
+          },
+          {
+            "sentence": "宿題をしなくてはいけなかった。",
+            "romaji": "shuKUDAI O shiNAkute wa iKENAkatta."
+          },
+          {
+            "sentence": "毎日学校に行かないとだめです。",
+            "romaji": "MAinichi gaKKOO NI iKANAI to daME desu."
+          },
+          {
+            "sentence": "宿題をしなければだめだった。",
+            "romaji": "shuKUDAI O SHINAkereba daME datta."
+          },
+          {
+            "sentence": "勉強しなくちゃ。",
+            "romaji": "beNKYOO SHINAkucha."
+          },
+          {
+            "sentence": "ご飯を食べなきゃ。",
+            "romaji": "GOhan o taBENAkya."
+          },
+          {
+            "sentence": "学校に行かないと。",
+            "romaji": "gaKKOO NI iKANAi to."
+          },
+          {
+            "sentence": "ここに入っちゃだめだよ。",
+            "romaji": "koKO NI HAiccha daME da yo."
+          },
+          {
+            "sentence": "全部食べなくてもいいよ。",
+            "romaji": "ZEnbu taBEnakute mo Ii yo."
+          },
+          {
+            "sentence": "全部飲んでも大丈夫だよ。",
+            "romaji": "ZEnbu NOnde mo daIJOobu da yo."
+          },
+          {
+            "sentence": "もう帰っていい？",
+            "romaji": "MOo KAette ii?"
+          }
+        ]
+      },
+      {
+        "section": "Desire and Suggestions",
+        "bank": [
+          {
+            "sentence": "ずっと一緒にいたい。",
+            "romaji": "zuTTO ISSHO NI ITAi."
+          },
+          {
+            "sentence": "犬と遊びたいですか。",
+            "romaji": "iNU to aSOBITAi desu ka."
+          },
+          {
+            "sentence": "部屋をきれいにしてほしいのよ。",
+            "romaji": "heYA o KIree ni shiTE hoSHIi no yo."
+          },
+          {
+            "sentence": "明日は何を食べようか？",
+            "romaji": "aSHITA wa NAni o taBEYOo ka?"
+          },
+          {
+            "sentence": "カレーを食べましょう。",
+            "romaji": "kaREE O taBEMASHOo."
+          },
+          {
+            "sentence": "たまにご両親と話せばどう？",
+            "romaji": "taMA NI goRYOoshin to haNAseba doo?"
+          }
+        ]
+      },
+      {
+        "section": "Acting on Subordinate Clauses",
+        "bank": [
+          {
+            "sentence": "「今日は授業がない」と先生から聞いたんだけど。",
+            "romaji": "KYOo wa JUgyoo ga NAi to seNSEe kara kiITAN da kedo."
+          },
+          {
+            "sentence": "「寒い」とアリスが田中に言った。",
+            "romaji": "saMUi to Arisu ga taNAKA NI itta."
+          },
+          {
+            "sentence": "これは、日本語で何と言いますか。",
+            "romaji": "koRE WA, niHONGO de NAn to iIMAsu ka."
+          },
+          {
+            "sentence": "今、どこに行こうかと考えている。",
+            "romaji": "Ima, DOko ni iKOo ka to kaNGAeteiru."
+          },
+          {
+            "sentence": "彼は、これは何だと言いましたか。",
+            "romaji": "KAre wa, koRE WA NAn da to iIMAshita ka."
+          },
+          {
+            "sentence": "何と言いましたか。",
+            "romaji": "NAn to iIMAshita ka."
+          },
+          {
+            "sentence": "今、時間がないって、本当？",
+            "romaji": "Ima, jiKAN GA NAi tte, hoNTOO?"
+          },
+          {
+            "sentence": "アリスって、すごくいい人でしょ？",
+            "romaji": "Arisu tte, suGOKU Ii hiTO desho?"
+          },
+          {
+            "sentence": "「友達」は、英語で「friend」という意味です。",
+            "romaji": "toMODACHI WA, eIGO DE FUREndo TOIU Imi desu."
+          }
+        ]
+      },
+      {
+        "section": "Defining and Describing",
+        "bank": [
+          {
+            "sentence": "独身だというのは、嘘だったの？",
+            "romaji": "doKUSHIN DA toIU no wa, Uso datta no?"
+          },
+          {
+            "sentence": "そういう人と一緒に仕事をするのは、嫌だよね。",
+            "romaji": "sOOIU HITO to iSSHO NI shiGOTO O SUru no wa, iYA da yo ne."
+          },
+          {
+            "sentence": "というか、もう帰らないとだめですけど。",
+            "romaji": "TOIU ka, MOo kaERAnai to daME desu kedo."
+          },
+          {
+            "sentence": "来年留学するというのは、智子のこと？",
+            "romaji": "raINEN ryuUGAKU SURU toIU no wa, TOmoko no koTO?"
+          },
+          {
+            "sentence": "来年留学するって智子のこと？",
+            "romaji": "raINEN ryuUGAKU SURU tte TOmoko no koTO?"
+          },
+          {
+            "sentence": "そうゆうことじゃないって！",
+            "romaji": "soUYUU KOTO ja NAi tte!"
+          }
+        ]
+      },
+      {
+        "section": "Trying or Attempting Something",
+        "bank": [
+          {
+            "sentence": "広島のお好み焼きを食べてみたい！",
+            "romaji": "hiROSHIMA NO oKONOMIYAKI O taBETEMITAi!"
+          },
+          {
+            "sentence": "早く寝ようとしたけど、結局は徹夜した。",
+            "romaji": "HAyaku neYOO TO SHITA kedo, keKKYOKU wa teTSUYA SHIta"
+          },
+          {
+            "sentence": "毎日ジムに行こうと決めた。",
+            "romaji": "MAinichi JImu ni iKOo to kimeta."
+          }
+        ]
+      },
+      {
+        "section": "Giving and Receiving",
+        "bank": [
+          {
+            "sentence": "これは先生にあげる。",
+            "romaji": "koRE WA seNSEe ni aGEru."
+          },
+          {
+            "sentence": "車を買ってあげるよ。",
+            "romaji": "kuRUMA O kaTTE aGEru yo."
+          },
+          {
+            "sentence": "学生がこれを先生にあげる。",
+            "romaji": "gaKUSEE GA koRE O seNSEe ni aGEru."
+          },
+          {
+            "sentence": "犬に餌をやった？",
+            "romaji": "iNU ni eSA o yaTTA?"
+          },
+          {
+            "sentence": "これは、先生がくれた。",
+            "romaji": "koRE WA, seNSEe ga kuREta."
+          },
+          {
+            "sentence": "先生がこれを学生にくれる。",
+            "romaji": "seNSEe ga koRE O gaKUSEE NI kuREru."
+          },
+          {
+            "sentence": "私が友達にプレゼントをもらった。",
+            "romaji": "waTASHI GA toMODACHI NI puREzento o moRAtta."
+          },
+          {
+            "sentence": "これは友達に買ってもらった。",
+            "romaji": "koRE WA toMODACHI NI kaTTE MORAtta."
+          },
+          {
+            "sentence": "千円を貸してくれる？",
+            "romaji": "SEn en o kaSHITE KURERU?"
+          },
+          {
+            "sentence": "千円を貸してもらえる？",
+            "romaji": "SEn en o kaSHITE moraeru?"
+          },
+          {
+            "sentence": "ちょっと静かにしてくれない？",
+            "romaji": "CHOtto SHIzuka ni shiTE KURENAI?"
+          },
+          {
+            "sentence": "漢字で書いてもらえませんか。",
+            "romaji": "kaNJI DE KAite moRAEMASEn ka."
+          },
+          {
+            "sentence": "高い物を買わないでくれる？",
+            "romaji": "taKAi moNO o kaWANAI de kuRERU?"
+          }
+        ]
+      },
+      {
+        "section": "Making Requests",
+        "bank": [
+          {
+            "sentence": "それをください。",
+            "romaji": "soRE O kuDASAi."
+          },
+          {
+            "sentence": "漢字で書いてください。",
+            "romaji": "kaNJI DE KAite kuDASAi."
+          },
+          {
+            "sentence": "ここにこないでください。",
+            "romaji": "koKO NI KOnaide kuDASAi."
+          },
+          {
+            "sentence": "消しゴムを貸して。",
+            "romaji": "keSHIGOmu o kaSHITE."
+          },
+          {
+            "sentence": "遠い所に行かないでくれ。",
+            "romaji": "toOI toKORO ni iKANAI de kure."
+          },
+          {
+            "sentence": "ここに名前を書いてちょうだい。",
+            "romaji": "koKO NI naMAE O KAite choODAi."
+          },
+          {
+            "sentence": "よく聞きなさい！",
+            "romaji": "YOku kiKINASAi!"
+          },
+          {
+            "sentence": "それでいいと思うなら、そうしなよ。",
+            "romaji": "soRE DE Ii to oMOo nara, soO SHINA yo."
+          },
+          {
+            "sentence": "好きにしろ。",
+            "romaji": "suKI ni shiro."
+          },
+          {
+            "sentence": "変なことを言うな！",
+            "romaji": "HEn na koTO o iU na!"
+          }
+        ]
+      },
+      {
+        "section": "Casual Patterns and Slang",
+        "bank": [
+          {
+            "sentence": "それは何？",
+            "romaji": "soRE WA NAni?"
+          },
+          {
+            "sentence": "何それ？",
+            "romaji": "NAni sore?"
+          },
+          {
+            "sentence": "もう食べた？昨日買ったアイス。",
+            "romaji": "MOo TAbeta? kiNOO KATTA Aisu."
+          },
+          {
+            "sentence": "ほら、やっぱりレポートを書かないとだめじゃん。",
+            "romaji": "HOra, yaPPAri rePOoto o kaKAnai to daME jan."
+          },
+          {
+            "sentence": "もう行くってば！",
+            "romaji": "MOo iKU tteba!"
+          },
+          {
+            "sentence": "あなたったら、いつも忘れるんだから。",
+            "romaji": "aNAta ttara, Itsumo waSURERUn da kara."
+          },
+          {
+            "sentence": "なんか食べる？",
+            "romaji": "NAn ka taBEru?"
+          },
+          {
+            "sentence": "今日は、なんか忙しいみたいよ。",
+            "romaji": "KYOo wa, NAn ka iSOGASHIi mitai yo."
+          }
+        ]
       }
     ]
   },
@@ -793,474 +767,445 @@
     "category": "Special Expressions",
     "bank": [
       {
-        "sentence": "全部食べさせた。",
-        "romaji": "ZEnbu taBESASEta.",
-        "section": "Causative and Passive Verbs"
-      },
-      {
-        "sentence": "先生が学生に宿題をたくさんさせた。",
-        "romaji": "seNSEe ga gaKUSEE NI shuKUDAI O taKUSAN SASETA.",
-        "section": "Causative and Passive Verbs"
-      },
-      {
-        "sentence": "みんなに変だと言われます。",
-        "romaji": "miNNA ni HEn da to iWAREMAsu.",
-        "section": "Causative and Passive Verbs"
-      },
-      {
-        "sentence": "明日の会議に行かれるんですか？",
-        "romaji": "aSHITA no KAigi ni iKARERUn desu ka?",
-        "section": "Causative and Passive Verbs"
-      },
-      {
-        "sentence": "あいつに二時間も待たせられた。",
-        "romaji": "aITSU NI niJIkan mo maTASERARETA.",
-        "section": "Causative and Passive Verbs"
-      },
-      {
-        "sentence": "推薦状を書いてくださるんですか。",
-        "romaji": "suISENJOO O KAite kuDASArun desu ka.",
-        "section": "Honorific and Humble Forms"
-      },
-      {
-        "sentence": "私が書いたレポートを見ていただけますか。",
-        "romaji": "waTASHI GA KAita rePOoto o MIte iTADAKEMAsu ka.",
-        "section": "Honorific and Humble Forms"
-      },
-      {
-        "sentence": "こちらは、私の部屋でございます。",
-        "romaji": "koCHIRA WA, waTASHI NO heYA de goZAIMAsu.",
-        "section": "Honorific and Humble Forms"
-      },
-      {
-        "sentence": "先生はお見えになりますか。",
-        "romaji": "seNSEe wa oMIE NI naRIMAsu ka?",
-        "section": "Honorific and Humble Forms"
-      },
-      {
-        "sentence": "もうお帰りですか。",
-        "romaji": "MOo oKAERI DEsu ka.",
-        "section": "Honorific and Humble Forms"
-      },
-      {
-        "sentence": "店内でお召し上がりですか。",
-        "romaji": "TEnnai de oMESHIAGARI DEsu ka.",
-        "section": "Honorific and Humble Forms"
-      },
-      {
-        "sentence": "少々お待ちください。",
-        "romaji": "SHOoshoo oMACHIKUDASAi.",
-        "section": "Honorific and Humble Forms"
-      },
-      {
-        "sentence": "こちらにご覧下さい。",
-        "romaji": "koCHIRA NI goRAN KUDASAi.",
-        "section": "Honorific and Humble Forms"
-      },
-      {
-        "sentence": "よろしくお願いします。",
-        "romaji": "yoROSHIKU ONEGAISHIMAsu.",
-        "section": "Honorific and Humble Forms"
-      },
-      {
-        "sentence": "すみません、お待たせしました。",
-        "romaji": "suMIMASEn, oMATASE SHIMAshita",
-        "section": "Honorific and Humble Forms"
-      },
-      {
-        "sentence": "いらっしゃいませ",
-        "romaji": "iRASSHAIMAse",
-        "section": "Honorific and Humble Forms"
-      },
-      {
-        "sentence": "そのケーキを全部食べてしまった。",
-        "romaji": "soNO KEeki o ZEnbu TAbete shimatta.",
-        "section": "Unintended Actions"
-      },
-      {
-        "sentence": "もう帰っちゃっていい？",
-        "romaji": "MOo KAecchatte Ii?",
-        "section": "Unintended Actions"
-      },
-      {
-        "sentence": "ごめん、ついお前を呼んじまった。",
-        "romaji": "goMEN, TSUI oMAE O yoNJIMATTA.",
-        "section": "Unintended Actions"
-      },
-      {
-        "sentence": "宿題をやってしまいなさい。",
-        "romaji": "shuKUDAI O yaTTE SHIMAINASAi.",
-        "section": "Unintended Actions"
-      },
-      {
-        "sentence": "徹夜して、宿題することはある。",
-        "romaji": "teTSUYA SHITE, shuKUDAI SURU KOTO wa Aru.",
-        "section": "Special Expressions with Generic Nouns"
-      },
-      {
-        "sentence": "日本の映画を観たことないの？",
-        "romaji": "niHOn no eIGA O MIta koto NAi no?",
-        "section": "Special Expressions with Generic Nouns"
-      },
-      {
-        "sentence": "今は授業が終ったところです。",
-        "romaji": "Ima wa JUgyoo ga oWATTA TOKORO desu.",
-        "section": "Special Expressions with Generic Nouns"
-      },
-      {
-        "sentence": "どうしてこなかったの？授業があったもん。",
-        "romaji": "DOoshite KOnakatta no? JUgyoo ga Atta mon.",
-        "section": "Special Expressions with Generic Nouns"
-      },
-      {
-        "sentence": "スミスさんは食堂に行ったかもしれません。",
-        "romaji": "suMIsusan wa shoKUDOO NI iTTA kamoshiREMASEn.",
-        "section": "Various Degrees of Certainty"
-      },
-      {
-        "sentence": "あなたは、学生さんでしょうか。",
-        "romaji": "aNAta wa, gaKUSEESAN DESHOO ka.",
-        "section": "Various Degrees of Certainty"
-      },
-      {
-        "sentence": "あっ！遅刻しちゃう！だから、時間がないって言ったでしょう！",
-        "romaji": "A! chiKOKU shiCHAU! DAkara, jiKAN GA NAi tte iTTA DESHOO!",
-        "section": "Various Degrees of Certainty"
-      },
-      {
-        "sentence": "もう家に帰るんだろう。そうよ。",
-        "romaji": "MOo iE ni KAerun daROO. SOo yo.",
-        "section": "Various Degrees of Certainty"
-      },
-      {
-        "sentence": "それだけは、食べないでください。",
-        "romaji": "soRE DAKE wa, taBEnaide kuDASAi.",
-        "section": "Expressing Amounts"
-      },
-      {
-        "sentence": "この乗車券は発売当日のみ有効です。",
-        "romaji": "koNO JOOSHAken wa haTSUBAI TOOjitsu NOmi yuUKOO DEsu.",
-        "section": "Expressing Amounts"
-      },
-      {
-        "sentence": "今日は忙しくて、朝ご飯しか食べられなかった。",
-        "romaji": "KYOo wa iSOGASHIkute, aSAGOhan shika taBERAREnakatta.",
-        "section": "Expressing Amounts"
-      },
-      {
-        "sentence": "こうなったら、逃げるしかない。",
-        "romaji": "koO NAttara, niGEru shika NAi.",
-        "section": "Expressing Amounts"
-      },
-      {
-        "sentence": "崇君は漫画ばっかり読んでてさ。かっこ悪い。",
-        "romaji": "taKASHIKUN WA maNGA baKKAri YOndete sa. kaKKOWARUi.",
-        "section": "Expressing Amounts"
-      },
-      {
-        "sentence": "直美ちゃんと遊ぶばっかりでしょう！",
-        "romaji": "naOMICHAN TO aSOBU baKKAri deSHOO!",
-        "section": "Expressing Amounts"
-      },
-      {
-        "sentence": "佐藤さんは料理が上手で、また食べ過ぎました。",
-        "romaji": "SAtoosan wa RYOori ga joOZU de, maTA taBESUGIMAshita.",
-        "section": "Expressing Amounts"
-      },
-      {
-        "sentence": "時間が足りなさすぎて、何もできなかった。",
-        "romaji": "jiKAN GA taRInaSASUgite, naNI MO deKInakatta.",
-        "section": "Expressing Amounts"
-      },
-      {
-        "sentence": "昨日、電話三回もしたよ！",
-        "romaji": "kiNOO, deNWA SANKAI MO SHITA YO!",
-        "section": "Expressing Amounts"
-      },
-      {
-        "sentence": "寝る時間がないほど忙しい。",
-        "romaji": "NERU JIKAN GA NAi hoDO iSOGASHIi.",
-        "section": "Expressing Amounts"
-      },
-      {
-        "sentence": "このビルの高さは何ですか？",
-        "romaji": "koNO BIru no TAkasa wa NAn desu ka?",
-        "section": "Expressing Amounts"
-      },
-      {
-        "sentence": "ここには、誰もいないようだ。",
-        "romaji": "koKO NI wa, DAre mo iNAI YOo da.",
-        "section": "Similarity or Hearsay"
-      },
-      {
-        "sentence": "学生のようだ。",
-        "romaji": "gaKUSEE NO YOo da.",
-        "section": "Similarity or Hearsay"
-      },
-      {
-        "sentence": "ここは静かなようだ。",
-        "romaji": "koKO WA SHIzuka na YOo da.",
-        "section": "Similarity or Hearsay"
-      },
-      {
-        "sentence": "彼は学生のような雰囲気ですね。",
-        "romaji": "KAre wa gaKUSEE NO YOo na fuNIki desu ne.",
-        "section": "Similarity or Hearsay"
-      },
-      {
-        "sentence": "何も起こらなかったように言った。",
-        "romaji": "naNI MO oKORAnakatta yoo ni iTTA.",
-        "section": "Similarity or Hearsay"
-      },
-      {
-        "sentence": "制服を着ている姿をみると、学生みたいです。",
-        "romaji": "seEFUKU O kiTEIRU SUgata o MIru to, gaKUSEE MItai desu.",
-        "section": "Similarity or Hearsay"
-      },
-      {
-        "sentence": "このピザはお好み焼きみたいじゃない？",
-        "romaji": "koNO PIza wa oKONOMIYAKI MItai janai?",
-        "section": "Similarity or Hearsay"
-      },
-      {
-        "sentence": "このピザはお好み焼きのように見える。",
-        "romaji": "koNO PIza wa oKONOMIYAKI NO YOo ni miEru.",
-        "section": "Similarity or Hearsay"
-      },
-      {
-        "sentence": "この辺りにありそうだけどな。",
-        "romaji": "koNO Atari ni aRISOo da kedo na.",
-        "section": "Similarity or Hearsay"
-      },
-      {
-        "sentence": "この漬物はおいしそう！",
-        "romaji": "koNO TSUKEMONO WA oISHISOo!",
-        "section": "Similarity or Hearsay"
-      },
-      {
-        "sentence": "これはただの試合じゃなさそうだ。",
-        "romaji": "koRE WA TAda no shiAI JA naSASOo da.",
-        "section": "Similarity or Hearsay"
-      },
-      {
-        "sentence": "毎日会いに行ったそうです。",
-        "romaji": "MAinichi Ai ni iTTA SOo desu.",
-        "section": "Similarity or Hearsay"
-      },
-      {
-        "sentence": "今日、田中さんはこないの？だそうです。",
-        "romaji": "KYOo, taNAKASAN WA KOnai no? daSOo desu.",
-        "section": "Similarity or Hearsay"
-      },
-      {
-        "sentence": "あの人は何なの？美由紀さんの友達らしいですよ。",
-        "romaji": "aNO HITO wa NAn nano? miYUKISAN NO toMODACHI RASHIi desu yo.",
-        "section": "Similarity or Hearsay"
-      },
-      {
-        "sentence": "あの子は子供らしくない。",
-        "romaji": "aNO KO WA koDOMO RASHIkunai.",
-        "section": "Similarity or Hearsay"
-      },
-      {
-        "sentence": "みんなで、もう全部食べてしまったっぽいよ。",
-        "romaji": "miNNA de, MOo ZEnbu TAbete shimatta PPOi yo.",
-        "section": "Similarity or Hearsay"
-      },
-      {
-        "sentence": "鈴木さんの方が若い。",
-        "romaji": "suZUKISAN NO HOo ga waKAi.",
-        "section": "Using 方 and よる"
-      },
-      {
-        "sentence": "赤ちゃんは、静かな方が好き。",
-        "romaji": "Akachan wa, SHIzuka na HOo ga suKI.",
-        "section": "Using 方 and よる"
-      },
-      {
-        "sentence": "ゆっくり食べた方が健康にいいよ。",
-        "romaji": "yuKKUri TAbeta HOo ga kenKOO NI Ii yo.",
-        "section": "Using 方 and よる"
-      },
-      {
-        "sentence": "マトリックス・レボリューションを見ない方がいいよ。",
-        "romaji": "maTORIKKUSU REBORYUUshon o MInai hoo ga Ii yo.",
-        "section": "Using 方 and よる"
-      },
-      {
-        "sentence": "花より団子。",
-        "romaji": "haNA yori daNGO.",
-        "section": "Using 方 and よる"
-      },
-      {
-        "sentence": "ご飯の方が、パンよりおいしい。",
-        "romaji": "GOhan no HOo ga, PAn yori oISHIi.",
-        "section": "Using 方 and よる"
-      },
-      {
-        "sentence": "この仕事は誰よりも早くできます。",
-        "romaji": "koNO SHIGOTO WA DAre yori mo HAyaku deKIMAsu.",
-        "section": "Using 方 and よる"
-      },
-      {
-        "sentence": "漢字の書き方を教えてくれますか？",
-        "romaji": "kaNJI NO kaKIKAta o oSHIETE KUREMAsu ka?",
-        "section": "Using 方 and よる"
-      },
-      {
-        "sentence": "人によって話が違う。",
-        "romaji": "hiTO NI YOTTE haNASHI ga chiGAU.",
-        "section": "Using 方 and よる"
-      },
-      {
-        "sentence": "今日は飲みに行こうか？それは、裕子によるね。",
-        "romaji": "KYOo wa NOmi ni iKOo ka? soRE WA, YUuko ni yoru ne.",
-        "section": "Using 方 and よる"
-      },
-      {
-        "sentence": "天気予報によると、今日は雨だそうだ。",
-        "romaji": "teNKIYOhoo ni yoru to, KYOo wa Ame da SOo da.",
-        "section": "Using 方 and よる"
-      },
-      {
-        "sentence": "この字は読みにくい",
-        "romaji": "koNO JI wa yoMINIKUi",
-        "section": "Actions that are Easy or Hard"
-      },
-      {
-        "sentence": "カクテルはビールより飲みやすい。",
-        "romaji": "KAkuteru wa BIiru yori noMIYASUi.",
-        "section": "Actions that are Easy or Hard"
-      },
-      {
-        "sentence": "部屋が暗かったので、見にくかった。",
-        "romaji": "heYA ga kuRAkatta node, miniKUkatta.",
-        "section": "Actions that are Easy or Hard"
-      },
-      {
-        "sentence": "とても信じがたい話だが、本当に起こったらしい。",
-        "romaji": "toTEMO SHINJIGATAi haNASHI da ga, hoNTOO NI oKOtta raSHIi.",
-        "section": "Actions that are Easy or Hard"
-      },
-      {
-        "sentence": "待ち合わせは、分かりづらい場所にしないでね。",
-        "romaji": "maCHIAWASE WA, waKARIZURAi baSHO NI shiNAI de ne.",
-        "section": "Actions that are Easy or Hard"
-      },
-      {
-        "sentence": "何も食べないで寝ました。",
-        "romaji": "naNI MO taBEnai de deMAshita.",
-        "section": "More Negative Verbs"
-      },
-      {
-        "sentence": "先生と相談しないで、この授業を取ることは出来ない。",
-        "romaji": "seNSEe to soUDAN SHINAI de, koNO JUgyoo o TOru koto wa deKInai.",
-        "section": "More Negative Verbs"
-      },
-      {
-        "sentence": "彼は何も言わず、帰ってしまった。",
-        "romaji": "KAre wa naNI MO iWAZU, KAette shimatta.",
-        "section": "More Negative Verbs"
-      },
-      {
-        "sentence": "勉強せずに東大に入れると思わないな。",
-        "romaji": "beNKYOO SEzu ni toODAI NI haIREru to oMOWAnai na.",
-        "section": "More Negative Verbs"
-      },
-      {
-        "sentence": "そんなことはさせん！",
-        "romaji": "soNNA KOTO wa saSEN!",
-        "section": "More Negative Verbs"
-      },
-      {
-        "sentence": "皆、今日行くって、知らんかったよ。",
-        "romaji": "miNNA, KYOo ikU tte, shiRANkatta yo.",
-        "section": "More Negative Verbs"
-      },
-      {
-        "sentence": "いくら英語を勉強しても、うまくならないの。つまり、語学には、能力がないという訳か。失礼ね。",
-        "romaji": "Ikura eEGO O beNKYOO SHITE MO, Umaku naRAnai no. TSUmari, GOgaku ni wa, NOoryoku ga NAi to iU WAke ka. shiTSUree ne.",
-        "section": "Hypothesizing and Concluding"
-      },
-      {
-        "sentence": "広子の家に行ったことある？あるわけないでしょう。",
-        "romaji": "Hiroko no iE ni iTTA KOTO Aru? Aru wake NAi deSHOO.",
-        "section": "Hypothesizing and Concluding"
-      },
-      {
-        "sentence": "ここの試験に合格するのはわけない。",
-        "romaji": "koKO NO shiKEn ni goOKAKU SURU no wa WAke NAi.",
-        "section": "Hypothesizing and Concluding"
-      },
-      {
-        "sentence": "ここまできて、あきらめるわけにはいかない。",
-        "romaji": "koKO MAde KIte, aKIRAMEru WAke ni wa iKANAI.",
-        "section": "Hypothesizing and Concluding"
-      },
-      {
-        "sentence": "今から行くとしたら、９時に着くと思います。",
-        "romaji": "Ima kara iKU TO shiTAra, KUji ni TSUku to oMOIMAsu.",
-        "section": "Hypothesizing and Concluding"
-      },
-      {
-        "sentence": "観客として参加させてもらった。",
-        "romaji": "kaNKYAKU TO shiTE saNKA SASETE moRATTA.",
-        "section": "Hypothesizing and Concluding"
-      },
-      {
-        "sentence": "朝ご飯を食べたとしても、もう昼だからお腹が空いたでしょう。",
-        "romaji": "aSAGOhan o TAbeta to shiTE mo, MOo hiRU dakara oNAKA GA suITA DESHOO.",
-        "section": "Hypothesizing and Concluding"
-      },
-      {
-        "sentence": "すみません、今食べたばかりなので、お腹がいっぱいです。",
-        "romaji": "suMIMASEn, Ima TAbeta BAkari na node, oNAKA GA iPPAI DEsu.",
-        "section": "Time-specific Actions"
-      },
-      {
-        "sentence": "10キロを走ったばかりで、凄く疲れた。",
-        "romaji": "JUkkiro o haSHItta BAkari de, suGOku tsuKAreta.",
-        "section": "Time-specific Actions"
-      },
-      {
-        "sentence": "窓を開けたとたんに、猫が跳んでいった。",
-        "romaji": "MAdo o aKETA TOTAN NI, NEko ga toNDE ITTA.",
-        "section": "Time-specific Actions"
-      },
-      {
-        "sentence": "テレビを観ながら、宿題をする。",
-        "romaji": "TErebi o miNAgara, shuKUDAI O suRU.",
-        "section": "Time-specific Actions"
-      },
-      {
-        "sentence": "彼は、初心者ながらも、実力はプロと同じだ。",
-        "romaji": "KAre wa, shoSHINSHA NAgara mo, jiTSURYOKU WA PUro to oNAJI DA.",
-        "section": "Time-specific Actions"
-      },
-      {
-        "sentence": "アメリカにいた時はコーラを飲みまくっていた。",
-        "romaji": "aMERIKA NI iTA TOki wa KOora o noMI MAKUtteita.",
-        "section": "Time-specific Actions"
-      },
-      {
-        "sentence": "このままで宜しいですか？",
-        "romaji": "koNO MAMA de yoROSHIi desu ka?",
-        "section": "Expressing a Lack of Change"
-      },
-      {
-        "sentence": "半分しか食べてないままで捨てちゃダメ！",
-        "romaji": "haNBUN SHIka TAbetenai maMA de suTECHA daME!",
-        "section": "Expressing a Lack of Change"
-      },
-      {
-        "sentence": "テレビを付けっぱなしにしなければ眠れない人は、結構いる。",
-        "romaji": "TErebi o tsuKEPPANASHI NI shiNAkereba neMURENAI HITO wa, KEkkou iRU.",
-        "section": "Expressing a Lack of Change"
-      },
-      {
-        "sentence": "窓が開けっ放しだったので、蚊がいっぱい入った。",
-        "romaji": "MAdo ga aKEPPANASHI DAtta node, ka GA iPPAI HAitta.",
-        "section": "Expressing a Lack of Change"
+        "section": "Causative and Passive Verbs",
+        "bank": [
+          {
+            "sentence": "全部食べさせた。",
+            "romaji": "ZEnbu taBESASEta."
+          },
+          {
+            "sentence": "先生が学生に宿題をたくさんさせた。",
+            "romaji": "seNSEe ga gaKUSEE NI shuKUDAI O taKUSAN SASETA."
+          },
+          {
+            "sentence": "みんなに変だと言われます。",
+            "romaji": "miNNA ni HEn da to iWAREMAsu."
+          },
+          {
+            "sentence": "明日の会議に行かれるんですか？",
+            "romaji": "aSHITA no KAigi ni iKARERUn desu ka?"
+          },
+          {
+            "sentence": "あいつに二時間も待たせられた。",
+            "romaji": "aITSU NI niJIkan mo maTASERARETA."
+          }
+        ]
+      },
+      {
+        "section": "Honorific and Humble Forms",
+        "bank": [
+          {
+            "sentence": "推薦状を書いてくださるんですか。",
+            "romaji": "suISENJOO O KAite kuDASArun desu ka."
+          },
+          {
+            "sentence": "私が書いたレポートを見ていただけますか。",
+            "romaji": "waTASHI GA KAita rePOoto o MIte iTADAKEMAsu ka."
+          },
+          {
+            "sentence": "こちらは、私の部屋でございます。",
+            "romaji": "koCHIRA WA, waTASHI NO heYA de goZAIMAsu."
+          },
+          {
+            "sentence": "先生はお見えになりますか。",
+            "romaji": "seNSEe wa oMIE NI naRIMAsu ka?"
+          },
+          {
+            "sentence": "もうお帰りですか。",
+            "romaji": "MOo oKAERI DEsu ka."
+          },
+          {
+            "sentence": "店内でお召し上がりですか。",
+            "romaji": "TEnnai de oMESHIAGARI DEsu ka."
+          },
+          {
+            "sentence": "少々お待ちください。",
+            "romaji": "SHOoshoo oMACHIKUDASAi."
+          },
+          {
+            "sentence": "こちらにご覧下さい。",
+            "romaji": "koCHIRA NI goRAN KUDASAi."
+          },
+          {
+            "sentence": "よろしくお願いします。",
+            "romaji": "yoROSHIKU ONEGAISHIMAsu."
+          },
+          {
+            "sentence": "すみません、お待たせしました。",
+            "romaji": "suMIMASEn, oMATASE SHIMAshita"
+          },
+          {
+            "sentence": "いらっしゃいませ",
+            "romaji": "iRASSHAIMAse"
+          }
+        ]
+      },
+      {
+        "section": "Unintended Actions",
+        "bank": [
+          {
+            "sentence": "そのケーキを全部食べてしまった。",
+            "romaji": "soNO KEeki o ZEnbu TAbete shimatta."
+          },
+          {
+            "sentence": "もう帰っちゃっていい？",
+            "romaji": "MOo KAecchatte Ii?"
+          },
+          {
+            "sentence": "ごめん、ついお前を呼んじまった。",
+            "romaji": "goMEN, TSUI oMAE O yoNJIMATTA."
+          },
+          {
+            "sentence": "宿題をやってしまいなさい。",
+            "romaji": "shuKUDAI O yaTTE SHIMAINASAi."
+          }
+        ]
+      },
+      {
+        "section": "Special Expressions with Generic Nouns",
+        "bank": [
+          {
+            "sentence": "徹夜して、宿題することはある。",
+            "romaji": "teTSUYA SHITE, shuKUDAI SURU KOTO wa Aru."
+          },
+          {
+            "sentence": "日本の映画を観たことないの？",
+            "romaji": "niHOn no eIGA O MIta koto NAi no?"
+          },
+          {
+            "sentence": "今は授業が終ったところです。",
+            "romaji": "Ima wa JUgyoo ga oWATTA TOKORO desu."
+          },
+          {
+            "sentence": "どうしてこなかったの？授業があったもん。",
+            "romaji": "DOoshite KOnakatta no? JUgyoo ga Atta mon."
+          }
+        ]
+      },
+      {
+        "section": "Various Degrees of Certainty",
+        "bank": [
+          {
+            "sentence": "スミスさんは食堂に行ったかもしれません。",
+            "romaji": "suMIsusan wa shoKUDOO NI iTTA kamoshiREMASEn."
+          },
+          {
+            "sentence": "あなたは、学生さんでしょうか。",
+            "romaji": "aNAta wa, gaKUSEESAN DESHOO ka."
+          },
+          {
+            "sentence": "あっ！遅刻しちゃう！だから、時間がないって言ったでしょう！",
+            "romaji": "A! chiKOKU shiCHAU! DAkara, jiKAN GA NAi tte iTTA DESHOO!"
+          },
+          {
+            "sentence": "もう家に帰るんだろう。そうよ。",
+            "romaji": "MOo iE ni KAerun daROO. SOo yo."
+          }
+        ]
+      },
+      {
+        "section": "Expressing Amounts",
+        "bank": [
+          {
+            "sentence": "それだけは、食べないでください。",
+            "romaji": "soRE DAKE wa, taBEnaide kuDASAi."
+          },
+          {
+            "sentence": "この乗車券は発売当日のみ有効です。",
+            "romaji": "koNO JOOSHAken wa haTSUBAI TOOjitsu NOmi yuUKOO DEsu."
+          },
+          {
+            "sentence": "今日は忙しくて、朝ご飯しか食べられなかった。",
+            "romaji": "KYOo wa iSOGASHIkute, aSAGOhan shika taBERAREnakatta."
+          },
+          {
+            "sentence": "こうなったら、逃げるしかない。",
+            "romaji": "koO NAttara, niGEru shika NAi."
+          },
+          {
+            "sentence": "崇君は漫画ばっかり読んでてさ。かっこ悪い。",
+            "romaji": "taKASHIKUN WA maNGA baKKAri YOndete sa. kaKKOWARUi."
+          },
+          {
+            "sentence": "直美ちゃんと遊ぶばっかりでしょう！",
+            "romaji": "naOMICHAN TO aSOBU baKKAri deSHOO!"
+          },
+          {
+            "sentence": "佐藤さんは料理が上手で、また食べ過ぎました。",
+            "romaji": "SAtoosan wa RYOori ga joOZU de, maTA taBESUGIMAshita."
+          },
+          {
+            "sentence": "時間が足りなさすぎて、何もできなかった。",
+            "romaji": "jiKAN GA taRInaSASUgite, naNI MO deKInakatta."
+          },
+          {
+            "sentence": "昨日、電話三回もしたよ！",
+            "romaji": "kiNOO, deNWA SANKAI MO SHITA YO!"
+          },
+          {
+            "sentence": "寝る時間がないほど忙しい。",
+            "romaji": "NERU JIKAN GA NAi hoDO iSOGASHIi."
+          },
+          {
+            "sentence": "このビルの高さは何ですか？",
+            "romaji": "koNO BIru no TAkasa wa NAn desu ka?"
+          }
+        ]
+      },
+      {
+        "section": "Similarity or Hearsay",
+        "bank": [
+          {
+            "sentence": "ここには、誰もいないようだ。",
+            "romaji": "koKO NI wa, DAre mo iNAI YOo da."
+          },
+          {
+            "sentence": "学生のようだ。",
+            "romaji": "gaKUSEE NO YOo da."
+          },
+          {
+            "sentence": "ここは静かなようだ。",
+            "romaji": "koKO WA SHIzuka na YOo da."
+          },
+          {
+            "sentence": "彼は学生のような雰囲気ですね。",
+            "romaji": "KAre wa gaKUSEE NO YOo na fuNIki desu ne."
+          },
+          {
+            "sentence": "何も起こらなかったように言った。",
+            "romaji": "naNI MO oKORAnakatta yoo ni iTTA."
+          },
+          {
+            "sentence": "制服を着ている姿をみると、学生みたいです。",
+            "romaji": "seEFUKU O kiTEIRU SUgata o MIru to, gaKUSEE MItai desu."
+          },
+          {
+            "sentence": "このピザはお好み焼きみたいじゃない？",
+            "romaji": "koNO PIza wa oKONOMIYAKI MItai janai?"
+          },
+          {
+            "sentence": "このピザはお好み焼きのように見える。",
+            "romaji": "koNO PIza wa oKONOMIYAKI NO YOo ni miEru."
+          },
+          {
+            "sentence": "この辺りにありそうだけどな。",
+            "romaji": "koNO Atari ni aRISOo da kedo na."
+          },
+          {
+            "sentence": "この漬物はおいしそう！",
+            "romaji": "koNO TSUKEMONO WA oISHISOo!"
+          },
+          {
+            "sentence": "これはただの試合じゃなさそうだ。",
+            "romaji": "koRE WA TAda no shiAI JA naSASOo da."
+          },
+          {
+            "sentence": "毎日会いに行ったそうです。",
+            "romaji": "MAinichi Ai ni iTTA SOo desu."
+          },
+          {
+            "sentence": "今日、田中さんはこないの？だそうです。",
+            "romaji": "KYOo, taNAKASAN WA KOnai no? daSOo desu."
+          },
+          {
+            "sentence": "あの人は何なの？美由紀さんの友達らしいですよ。",
+            "romaji": "aNO HITO wa NAn nano? miYUKISAN NO toMODACHI RASHIi desu yo."
+          },
+          {
+            "sentence": "あの子は子供らしくない。",
+            "romaji": "aNO KO WA koDOMO RASHIkunai."
+          },
+          {
+            "sentence": "みんなで、もう全部食べてしまったっぽいよ。",
+            "romaji": "miNNA de, MOo ZEnbu TAbete shimatta PPOi yo."
+          }
+        ]
+      },
+      {
+        "section": "Using 方 and よる",
+        "bank": [
+          {
+            "sentence": "鈴木さんの方が若い。",
+            "romaji": "suZUKISAN NO HOo ga waKAi."
+          },
+          {
+            "sentence": "赤ちゃんは、静かな方が好き。",
+            "romaji": "Akachan wa, SHIzuka na HOo ga suKI."
+          },
+          {
+            "sentence": "ゆっくり食べた方が健康にいいよ。",
+            "romaji": "yuKKUri TAbeta HOo ga kenKOO NI Ii yo."
+          },
+          {
+            "sentence": "マトリックス・レボリューションを見ない方がいいよ。",
+            "romaji": "maTORIKKUSU REBORYUUshon o MInai hoo ga Ii yo."
+          },
+          {
+            "sentence": "花より団子。",
+            "romaji": "haNA yori daNGO."
+          },
+          {
+            "sentence": "ご飯の方が、パンよりおいしい。",
+            "romaji": "GOhan no HOo ga, PAn yori oISHIi."
+          },
+          {
+            "sentence": "この仕事は誰よりも早くできます。",
+            "romaji": "koNO SHIGOTO WA DAre yori mo HAyaku deKIMAsu."
+          },
+          {
+            "sentence": "漢字の書き方を教えてくれますか？",
+            "romaji": "kaNJI NO kaKIKAta o oSHIETE KUREMAsu ka?"
+          },
+          {
+            "sentence": "人によって話が違う。",
+            "romaji": "hiTO NI YOTTE haNASHI ga chiGAU."
+          },
+          {
+            "sentence": "今日は飲みに行こうか？それは、裕子によるね。",
+            "romaji": "KYOo wa NOmi ni iKOo ka? soRE WA, YUuko ni yoru ne."
+          },
+          {
+            "sentence": "天気予報によると、今日は雨だそうだ。",
+            "romaji": "teNKIYOhoo ni yoru to, KYOo wa Ame da SOo da."
+          }
+        ]
+      },
+      {
+        "section": "Actions that are Easy or Hard",
+        "bank": [
+          {
+            "sentence": "この字は読みにくい",
+            "romaji": "koNO JI wa yoMINIKUi"
+          },
+          {
+            "sentence": "カクテルはビールより飲みやすい。",
+            "romaji": "KAkuteru wa BIiru yori noMIYASUi."
+          },
+          {
+            "sentence": "部屋が暗かったので、見にくかった。",
+            "romaji": "heYA ga kuRAkatta node, miniKUkatta."
+          },
+          {
+            "sentence": "とても信じがたい話だが、本当に起こったらしい。",
+            "romaji": "toTEMO SHINJIGATAi haNASHI da ga, hoNTOO NI oKOtta raSHIi."
+          },
+          {
+            "sentence": "待ち合わせは、分かりづらい場所にしないでね。",
+            "romaji": "maCHIAWASE WA, waKARIZURAi baSHO NI shiNAI de ne."
+          }
+        ]
+      },
+      {
+        "section": "More Negative Verbs",
+        "bank": [
+          {
+            "sentence": "何も食べないで寝ました。",
+            "romaji": "naNI MO taBEnai de deMAshita."
+          },
+          {
+            "sentence": "先生と相談しないで、この授業を取ることは出来ない。",
+            "romaji": "seNSEe to soUDAN SHINAI de, koNO JUgyoo o TOru koto wa deKInai."
+          },
+          {
+            "sentence": "彼は何も言わず、帰ってしまった。",
+            "romaji": "KAre wa naNI MO iWAZU, KAette shimatta."
+          },
+          {
+            "sentence": "勉強せずに東大に入れると思わないな。",
+            "romaji": "beNKYOO SEzu ni toODAI NI haIREru to oMOWAnai na."
+          },
+          {
+            "sentence": "そんなことはさせん！",
+            "romaji": "soNNA KOTO wa saSEN!"
+          },
+          {
+            "sentence": "皆、今日行くって、知らんかったよ。",
+            "romaji": "miNNA, KYOo ikU tte, shiRANkatta yo."
+          }
+        ]
+      },
+      {
+        "section": "Hypothesizing and Concluding",
+        "bank": [
+          {
+            "sentence": "いくら英語を勉強しても、うまくならないの。つまり、語学には、能力がないという訳か。失礼ね。",
+            "romaji": "Ikura eEGO O beNKYOO SHITE MO, Umaku naRAnai no. TSUmari, GOgaku ni wa, NOoryoku ga NAi to iU WAke ka. shiTSUree ne."
+          },
+          {
+            "sentence": "広子の家に行ったことある？あるわけないでしょう。",
+            "romaji": "Hiroko no iE ni iTTA KOTO Aru? Aru wake NAi deSHOO."
+          },
+          {
+            "sentence": "ここの試験に合格するのはわけない。",
+            "romaji": "koKO NO shiKEn ni goOKAKU SURU no wa WAke NAi."
+          },
+          {
+            "sentence": "ここまできて、あきらめるわけにはいかない。",
+            "romaji": "koKO MAde KIte, aKIRAMEru WAke ni wa iKANAI."
+          },
+          {
+            "sentence": "今から行くとしたら、９時に着くと思います。",
+            "romaji": "Ima kara iKU TO shiTAra, KUji ni TSUku to oMOIMAsu."
+          },
+          {
+            "sentence": "観客として参加させてもらった。",
+            "romaji": "kaNKYAKU TO shiTE saNKA SASETE moRATTA."
+          },
+          {
+            "sentence": "朝ご飯を食べたとしても、もう昼だからお腹が空いたでしょう。",
+            "romaji": "aSAGOhan o TAbeta to shiTE mo, MOo hiRU dakara oNAKA GA suITA DESHOO."
+          }
+        ]
+      },
+      {
+        "section": "Time-specific Actions",
+        "bank": [
+          {
+            "sentence": "すみません、今食べたばかりなので、お腹がいっぱいです。",
+            "romaji": "suMIMASEn, Ima TAbeta BAkari na node, oNAKA GA iPPAI DEsu."
+          },
+          {
+            "sentence": "10キロを走ったばかりで、凄く疲れた。",
+            "romaji": "JUkkiro o haSHItta BAkari de, suGOku tsuKAreta."
+          },
+          {
+            "sentence": "窓を開けたとたんに、猫が跳んでいった。",
+            "romaji": "MAdo o aKETA TOTAN NI, NEko ga toNDE ITTA."
+          },
+          {
+            "sentence": "テレビを観ながら、宿題をする。",
+            "romaji": "TErebi o miNAgara, shuKUDAI O suRU."
+          },
+          {
+            "sentence": "彼は、初心者ながらも、実力はプロと同じだ。",
+            "romaji": "KAre wa, shoSHINSHA NAgara mo, jiTSURYOKU WA PUro to oNAJI DA."
+          },
+          {
+            "sentence": "アメリカにいた時はコーラを飲みまくっていた。",
+            "romaji": "aMERIKA NI iTA TOki wa KOora o noMI MAKUtteita."
+          }
+        ]
+      },
+      {
+        "section": "Expressing a Lack of Change",
+        "bank": [
+          {
+            "sentence": "このままで宜しいですか？",
+            "romaji": "koNO MAMA de yoROSHIi desu ka?"
+          },
+          {
+            "sentence": "半分しか食べてないままで捨てちゃダメ！",
+            "romaji": "haNBUN SHIka TAbetenai maMA de suTECHA daME!"
+          },
+          {
+            "sentence": "テレビを付けっぱなしにしなければ眠れない人は、結構いる。",
+            "romaji": "TErebi o tsuKEPPANASHI NI shiNAkereba neMURENAI HITO wa, KEkkou iRU."
+          },
+          {
+            "sentence": "窓が開けっ放しだったので、蚊がいっぱい入った。",
+            "romaji": "MAdo ga aKEPPANASHI DAtta node, ka GA iPPAI HAitta."
+          }
+        ]
       }
     ]
   },
@@ -1268,299 +1213,510 @@
     "category": "JLPT Grammar",
     "bank": [
       {
-        "sentence": "彼の家はゴミだらけだ。",
-        "romaji": "KAre no iE WA goMI DArake da.",
-        "section": "だらけ"
+        "section": "だらけ",
+        "bank": [
+          {
+            "sentence": "彼の家はゴミだらけだ。",
+            "romaji": "KAre no iE WA goMI DArake da."
+          }
+        ]
       },
       {
-        "sentence": "お医者さんのおかげで病気が治った。",
-        "romaji": "oISHASAN NO oKAGE DE byoOKI GA naOtta.",
-        "section": "おかげ"
+        "section": "おかげ",
+        "bank": [
+          {
+            "sentence": "お医者さんのおかげで病気が治った。",
+            "romaji": "oISHASAN NO oKAGE DE byoOKI GA naOtta."
+          },
+          {
+            "sentence": "昨晩よく寝たおかげで授業中に寝なかった。",
+            "romaji": ""
+          }
+        ]
       },
       {
-        "sentence": "昨晩よく寝たおかげで授業中に寝なかった。",
-        "romaji": "",
-        "section": "おかげ"
+        "section": "せいで",
+        "bank": [
+          {
+            "sentence": "あなたがエラーしたせいで、試合に負けてしまった。",
+            "romaji": ""
+          },
+          {
+            "sentence": "歳のせいで腰が痛い。",
+            "romaji": ""
+          }
+        ]
       },
       {
-        "sentence": "あなたがエラーしたせいで、試合に負けてしまった。",
-        "romaji": "",
-        "section": "せいで"
+        "section": "について",
+        "bank": [
+          {
+            "sentence": "オタクはアニメについてとても興味がある。",
+            "romaji": ""
+          }
+        ]
       },
       {
-        "sentence": "歳のせいで腰が痛い。",
-        "romaji": "",
-        "section": "せいで"
+        "section": "に関して",
+        "bank": [
+          {
+            "sentence": "ハリーポッターに関してよく知っている。",
+            "romaji": ""
+          }
+        ]
       },
       {
-        "sentence": "オタクはアニメについてとても興味がある。",
-        "romaji": "",
-        "section": "について"
+        "section": "っぽい",
+        "bank": [
+          {
+            "sentence": "いつもゲームばかりやっていて、子どもっぽいね。",
+            "romaji": ""
+          }
+        ]
       },
       {
-        "sentence": "ハリーポッターに関してよく知っている。",
-        "romaji": "",
-        "section": "に関して"
+        "section": "ように",
+        "bank": [
+          {
+            "sentence": "犯人が逃げないように、ちゃんと見張る。",
+            "romaji": ""
+          }
+        ]
       },
       {
-        "sentence": "いつもゲームばかりやっていて、子どもっぽいね。",
-        "romaji": "",
-        "section": "っぽい"
+        "section": "ような",
+        "bank": [
+          {
+            "sentence": "鳥の巣のような髪の毛",
+            "romaji": ""
+          }
+        ]
       },
       {
-        "sentence": "犯人が逃げないように、ちゃんと見張る。",
-        "romaji": "",
-        "section": "ように"
+        "section": "見たい",
+        "bank": [
+          {
+            "sentence": "おじぎをたくさんするのは日本人だけ見たい。",
+            "romaji": ""
+          }
+        ]
       },
       {
-        "sentence": "鳥の巣のような髪の毛",
-        "romaji": "",
-        "section": "ような"
+        "section": "らしい",
+        "bank": [
+          {
+            "sentence": "天気予報によると明日は晴れらしい。",
+            "romaji": ""
+          }
+        ]
       },
       {
-        "sentence": "おじぎをたくさんするのは日本人だけ見たい。",
-        "romaji": "",
-        "section": "見たい"
+        "section": "たびに",
+        "bank": [
+          {
+            "sentence": "男はケンカするたびに友情が深まる。",
+            "romaji": ""
+          }
+        ]
       },
       {
-        "sentence": "天気予報によると明日は晴れらしい。",
-        "romaji": "",
-        "section": "らしい"
+        "section": "たとえ、ても",
+        "bank": [
+          {
+            "sentence": "たとえ雨が降っても会いましょう。",
+            "romaji": ""
+          }
+        ]
       },
       {
-        "sentence": "男はケンカするたびに友情が深まる。",
-        "romaji": "",
-        "section": "たびに"
+        "section": "って",
+        "bank": [
+          {
+            "sentence": "でもたくさん食べるんだって。",
+            "romaji": ""
+          }
+        ]
       },
       {
-        "sentence": "たとえ雨が降っても会いましょう。",
-        "romaji": "",
-        "section": "たとえ、ても"
+        "section": "くらい",
+        "bank": [
+          {
+            "sentence": "ベトナムから日本まで6時間くらいだ。",
+            "romaji": ""
+          },
+          {
+            "sentence": "もう歩けないくらいつかれた。",
+            "romaji": ""
+          }
+        ]
       },
       {
-        "sentence": "でもたくさん食べるんだって。",
-        "romaji": "",
-        "section": "って"
+        "section": "ぐらい",
+        "bank": [
+          {
+            "sentence": "これぐらいの問題はとけるでしょう？",
+            "romaji": ""
+          }
+        ]
       },
       {
-        "sentence": "ベトナムから日本まで6時間くらいだ。",
-        "romaji": "",
-        "section": "くらい"
+        "section": "くらいなら",
+        "bank": [
+          {
+            "sentence": "40℃の外に行くくらいなら家にいたい。",
+            "romaji": ""
+          }
+        ]
       },
       {
-        "sentence": "もう歩けないくらいつかれた。",
-        "romaji": "",
-        "section": "くらい"
+        "section": "うちに",
+        "bank": [
+          {
+            "sentence": "きっぷを買っているうちに電車が行ってしまった。",
+            "romaji": ""
+          }
+        ]
       },
       {
-        "sentence": "これぐらいの問題はとけるでしょう？",
-        "romaji": "",
-        "section": "ぐらい"
+        "section": "を中心に",
+        "bank": [
+          {
+            "sentence": "文法を中心に日本語を勉強する。",
+            "romaji": ""
+          }
+        ]
       },
       {
-        "sentence": "40℃の外に行くくらいなら家にいたい。",
-        "romaji": "",
-        "section": "くらいなら"
+        "section": "をはじめ",
+        "bank": [
+          {
+            "sentence": "東京には原宿をはじめ多くの観光地がある。",
+            "romaji": ""
+          }
+        ]
       },
       {
-        "sentence": "きっぷを買っているうちに電車が行ってしまった。",
-        "romaji": "",
-        "section": "うちに"
+        "section": "において",
+        "bank": [
+          {
+            "sentence": "2020年のオリンピックは東京において開かれる。",
+            "romaji": ""
+          }
+        ]
       },
       {
-        "sentence": "文法を中心に日本語を勉強する。",
-        "romaji": "",
-        "section": "を中心に"
+        "section": "にわたって",
+        "bank": [
+          {
+            "sentence": "マイケル・ジャクソンのファンは三世代にわたっている。",
+            "romaji": ""
+          }
+        ]
       },
       {
-        "sentence": "東京には原宿をはじめ多くの観光地がある。",
-        "romaji": "",
-        "section": "をはじめ"
+        "section": "にとって",
+        "bank": [
+          {
+            "sentence": "外国人にとって納豆は食べづらい。",
+            "romaji": ""
+          }
+        ]
       },
       {
-        "sentence": "2020年のオリンピックは東京において開かれる。",
-        "romaji": "",
-        "section": "において"
+        "section": "に違いない",
+        "bank": [
+          {
+            "sentence": "これは辛いに違いない。",
+            "romaji": ""
+          }
+        ]
       },
       {
-        "sentence": "マイケル・ジャクソンのファンは三世代にわたっている。",
-        "romaji": "",
-        "section": "にわたって"
+        "section": "とは",
+        "bank": [
+          {
+            "sentence": "あなたにとって人生とは何ですか？",
+            "romaji": ""
+          }
+        ]
       },
       {
-        "sentence": "外国人にとって納豆は食べづらい。",
-        "romaji": "",
-        "section": "にとって"
+        "section": "とたん",
+        "bank": [
+          {
+            "sentence": "アラームが鳴ったとたん、目が覚めた。",
+            "romaji": ""
+          }
+        ]
       },
       {
-        "sentence": "これは辛いに違いない。",
-        "romaji": "",
-        "section": "に違いない"
+        "section": "につれて",
+        "bank": [
+          {
+            "sentence": "夏になるにつれて、暑くなる。",
+            "romaji": ""
+          }
+        ]
       },
       {
-        "sentence": "あなたにとって人生とは何ですか？",
-        "romaji": "",
-        "section": "とは"
+        "section": "にしたがって",
+        "bank": [
+          {
+            "sentence": "車の増加にしたがって、空気が悪くなる。",
+            "romaji": ""
+          },
+          {
+            "sentence": "先生の指示にしたがって、動いて下さい。",
+            "romaji": ""
+          }
+        ]
       },
       {
-        "sentence": "アラームが鳴ったとたん、目が覚めた。",
-        "romaji": "",
-        "section": "とたん"
+        "section": "からでないと",
+        "bank": [
+          {
+            "sentence": "手を洗ってからでないと、ごはんを食べてはいけない。",
+            "romaji": ""
+          }
+        ]
       },
       {
-        "sentence": "夏になるにつれて、暑くなる。",
-        "romaji": "",
-        "section": "につれて"
+        "section": "以来",
+        "bank": [
+          {
+            "sentence": "大学に入って以来、ずっと忙しい。",
+            "romaji": ""
+          }
+        ]
       },
       {
-        "sentence": "車の増加にしたがって、空気が悪くなる。",
-        "romaji": "",
-        "section": "にしたがって"
+        "section": "一方",
+        "bank": [
+          {
+            "sentence": "おすしばかり食べるので、お金が減る一方だ。",
+            "romaji": ""
+          }
+        ]
       },
       {
-        "sentence": "先生の指示にしたがって、動いて下さい。",
-        "romaji": "",
-        "section": "にしたがって"
+        "section": "ほかない",
+        "bank": [
+          {
+            "sentence": "日本語をマスターしたいなら、漢字を覚えるほかない。",
+            "romaji": ""
+          }
+        ]
       },
       {
-        "sentence": "手を洗ってからでないと、ごはんを食べてはいけない。",
-        "romaji": "",
-        "section": "からでないと"
+        "section": "はもちろん",
+        "bank": [
+          {
+            "sentence": "かわま先生は日本語はもちろん、英語もできる。",
+            "romaji": ""
+          }
+        ]
       },
       {
-        "sentence": "大学に入って以来、ずっと忙しい。",
-        "romaji": "",
-        "section": "以来"
+        "section": "ついでに",
+        "bank": [
+          {
+            "sentence": "出かけるついでにゴミを出して。",
+            "romaji": ""
+          }
+        ]
       },
       {
-        "sentence": "おすしばかり食べるので、お金が減る一方だ。",
-        "romaji": "",
-        "section": "一方"
+        "section": "ということだ",
+        "bank": [
+          {
+            "sentence": "ニュースで聞いたが、ベトナムから日本に来る人は多いということだ。",
+            "romaji": ""
+          }
+        ]
       },
       {
-        "sentence": "日本語をマスターしたいなら、漢字を覚えるほかない。",
-        "romaji": "",
-        "section": "ほかない"
+        "section": "ことはない",
+        "bank": [
+          {
+            "sentence": "彼が悪かったから、あなたが謝ることはない。",
+            "romaji": ""
+          }
+        ]
       },
       {
-        "sentence": "かわま先生は日本語はもちろん、英語もできる。",
-        "romaji": "",
-        "section": "はもちろん"
+        "section": "こと",
+        "bank": [
+          {
+            "sentence": "レポートは時間どおりに提出すること。",
+            "romaji": ""
+          }
+        ]
       },
       {
-        "sentence": "出かけるついでにゴミを出して。",
-        "romaji": "",
-        "section": "ついでに"
+        "section": "ないことはないが",
+        "bank": [
+          {
+            "sentence": "二位だった。嬉しくないことはないが、一位が良かった。",
+            "romaji": ""
+          }
+        ]
       },
       {
-        "sentence": "ニュースで聞いたが、ベトナムから日本に来る人は多いということだ。",
-        "romaji": "",
-        "section": "ということだ"
+        "section": "もん",
+        "bank": [
+          {
+            "sentence": "子どもだから、わからないもん。",
+            "romaji": ""
+          }
+        ]
       },
       {
-        "sentence": "彼が悪かったから、あなたが謝ることはない。",
-        "romaji": "",
-        "section": "ことはない"
+        "section": "ものですから",
+        "bank": [
+          {
+            "sentence": "上着をぬいでもいいですか？暑いものですから。",
+            "romaji": ""
+          }
+        ]
       },
       {
-        "sentence": "レポートは時間どおりに提出すること。",
-        "romaji": "",
-        "section": "こと"
+        "section": "ものか",
+        "bank": [
+          {
+            "sentence": "毎日残業…こんな会社にいていいものか！",
+            "romaji": ""
+          }
+        ]
       },
       {
-        "sentence": "二位だった。嬉しくないことはないが、一位が良かった。",
-        "romaji": "",
-        "section": "ないことはないが"
+        "section": "ところ",
+        "bank": [
+          {
+            "sentence": "説明通り直して見たところ、うまくいった。",
+            "romaji": ""
+          }
+        ]
       },
       {
-        "sentence": "子どもだから、わからないもん。",
-        "romaji": "",
-        "section": "もん"
+        "section": "ところで",
+        "bank": [
+          {
+            "sentence": "いいところで来たね、ちょっと手伝って。",
+            "romaji": ""
+          }
+        ]
       },
       {
-        "sentence": "上着をぬいでもいいですか？暑いものですから。",
-        "romaji": "",
-        "section": "ものですから"
+        "section": "ほど",
+        "bank": [
+          {
+            "sentence": "ねむすぎて朝起きられないほどだった。",
+            "romaji": ""
+          },
+          {
+            "sentence": "がんばる人ほど成功する。",
+            "romaji": ""
+          }
+        ]
       },
       {
-        "sentence": "毎日残業…こんな会社にいていいものか！",
-        "romaji": "",
-        "section": "ものか"
+        "section": "ほどほど",
+        "bank": [
+          {
+            "sentence": "お酒はほどほどに！",
+            "romaji": ""
+          }
+        ]
       },
       {
-        "sentence": "説明通り直して見たところ、うまくいった。",
-        "romaji": "",
-        "section": "ところ"
+        "section": "からには",
+        "bank": [
+          {
+            "sentence": "やると決めたからには、最後までやって下さい。",
+            "romaji": ""
+          }
+        ]
       },
       {
-        "sentence": "いいところで来たね、ちょっと手伝って。",
-        "romaji": "",
-        "section": "ところで"
+        "section": "ぎみ",
+        "bank": [
+          {
+            "sentence": "顔色が悪いね。うん…最近かぜぎみなの。",
+            "romaji": ""
+          }
+        ]
       },
       {
-        "sentence": "ねむすぎて朝起きられないほどだった。",
-        "romaji": "",
-        "section": "ほど"
+        "section": "がち",
+        "bank": [
+          {
+            "sentence": "この地域はくもりがちなので、せんたく物がかわきにくい。",
+            "romaji": ""
+          }
+        ]
       },
       {
-        "sentence": "がんばる人ほど成功する。",
-        "romaji": "",
-        "section": "ほど"
+        "section": "向け",
+        "bank": [
+          {
+            "sentence": "子供／大人向けのいす",
+            "romaji": ""
+          }
+        ]
       },
       {
-        "sentence": "お酒はほどほどに！",
-        "romaji": "",
-        "section": "ほどほど"
+        "section": "通して",
+        "bank": [
+          {
+            "sentence": "子供は本だけでなく、色々な経験を通して成長する。",
+            "romaji": ""
+          }
+        ]
       },
       {
-        "sentence": "やると決めたからには、最後までやって下さい。",
-        "romaji": "",
-        "section": "からには"
+        "section": "に決まっている",
+        "bank": [
+          {
+            "sentence": "おれが勝つに決まっている。",
+            "romaji": ""
+          }
+        ]
       },
       {
-        "sentence": "顔色が悪いね。うん…最近かぜぎみなの。",
-        "romaji": "",
-        "section": "ぎみ"
+        "section": "きった",
+        "bank": [
+          {
+            "sentence": "力を出しきったので、疲れきった。",
+            "romaji": ""
+          }
+        ]
       },
       {
-        "sentence": "この地域はくもりがちなので、せんたく物がかわきにくい。",
-        "romaji": "",
-        "section": "がち"
+        "section": "切れた",
+        "bank": [
+          {
+            "sentence": "あのTシャツ、もう売り切れたらしい。",
+            "romaji": ""
+          }
+        ]
       },
       {
-        "sentence": "子供／大人向けのいす",
-        "romaji": "",
-        "section": "向け"
+        "section": "とともに",
+        "bank": [
+          {
+            "sentence": "車の増加とともに、空気も悪くなる。",
+            "romaji": ""
+          }
+        ]
       },
       {
-        "sentence": "子供は本だけでなく、色々な経験を通して成長する。",
-        "romaji": "",
-        "section": "通して"
-      },
-      {
-        "sentence": "おれが勝つに決まっている。",
-        "romaji": "",
-        "section": "に決まっている"
-      },
-      {
-        "sentence": "力を出しきったので、疲れきった。",
-        "romaji": "",
-        "section": "きった"
-      },
-      {
-        "sentence": "あのTシャツ、もう売り切れたらしい。",
-        "romaji": "",
-        "section": "切れた"
-      },
-      {
-        "sentence": "車の増加とともに、空気も悪くなる。",
-        "romaji": "",
-        "section": "とともに"
-      },
-      {
-        "sentence": "化学の発達にともなって、生活が便利になる。",
-        "romaji": "",
-        "section": "にともなって"
+        "section": "にともなって",
+        "bank": [
+          {
+            "sentence": "化学の発達にともなって、生活が便利になる。",
+            "romaji": ""
+          }
+        ]
       }
     ]
   }

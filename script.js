@@ -37,13 +37,17 @@ function processData(data) {
 
 function addFromBank(bank) {
 	let $bankContents = $('<div>');
-	// get a random element from the bank array.
+	// get two random sections from the bank array.
 	if (bank.length > 0) {
-		const randomIndex = Math.floor(Math.random() * bank.length);
-		const randomElement = bank[randomIndex];
-		$bankContents.append($('<p>').text(randomElement.romaji));
-		$bankContents.append($('<p>').text(randomElement.sentence));
-		$bankContents.append($('<p>').text(randomElement.section));
+		for (let i = 0; i < 2; i++) {
+			const randomSectionIndex = Math.floor(Math.random() * bank.length);
+			const randomSection = bank[randomSectionIndex];
+			const randomItemIndex = Math.floor(Math.random() * randomSection.bank.length);
+
+			$bankContents.append($('<p>').text(randomSection.section));
+			$bankContents.append($('<p>').text(randomSection.bank[randomItemIndex].romaji));
+			$bankContents.append($('<p>').text(randomSection.bank[randomItemIndex].sentence));
+		}
 	}
 	return $bankContents;
 }
