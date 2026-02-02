@@ -28,6 +28,7 @@ function processData(data) {
 	for (const entry of data) {
 		const $entryDiv = $('<div>');
 		result.push($entryDiv);
+		$entryDiv.append($('<hr>'))
 		$entryDiv.append($('<h2>').text(entry.category));
 		const $bankContents = addFromBank(entry.bank);
 		$entryDiv.append($bankContents);
@@ -43,11 +44,14 @@ function addFromBank(bank) {
 			const randomSectionIndex = Math.floor(Math.random() * bank.length);
 			const randomSection = bank[randomSectionIndex];
 
-			$bankContents.append($('<h3>').text(randomSection.section));
+			let $sectionContents = $('<div>');
+			$bankContents.append($sectionContents);
+
+			$sectionContents.append($('<h3>').text(randomSection.section));
 			for (let j = 0; j < 2; j++) {
 				const randomItemIndex = Math.floor(Math.random() * randomSection.bank.length);
-				$bankContents.append($('<p>').text(randomSection.bank[randomItemIndex].romaji));
-				$bankContents.append($('<p>').text(randomSection.bank[randomItemIndex].sentence));
+				$sectionContents.append($('<p>').text(randomSection.bank[randomItemIndex].romaji));
+				$sectionContents.append($('<p>').text(randomSection.bank[randomItemIndex].sentence));
 				if (randomSection.bank.length == 1) {
 					break;
 				}

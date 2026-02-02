@@ -771,11 +771,11 @@
         "bank": [
           {
             "sentence": "全部食べさせた。",
-            "romaji": "ZEnbu taBESASEta."
+            "romaji": "ZEnbu taBESAseta."
           },
           {
             "sentence": "先生が学生に宿題をたくさんさせた。",
-            "romaji": "seNSEe ga gaKUSEE NI shuKUDAI O taKUSAN SASETA."
+            "romaji": "seNSEe ga gaKUSEE NI shuKUDAI O taKUSAN saseta."
           },
           {
             "sentence": "みんなに変だと言われます。",
@@ -783,11 +783,11 @@
           },
           {
             "sentence": "明日の会議に行かれるんですか？",
-            "romaji": "aSHITA no KAigi ni iKARERUn desu ka?"
+            "romaji": "aSHITA NO KAigi ni iKARERUn desu ka?"
           },
           {
             "sentence": "あいつに二時間も待たせられた。",
-            "romaji": "aITSU NI niJIkan mo maTASERARETA."
+            "romaji": "aITSU NI niJIkan mo maTASErareta."
           }
         ]
       },
@@ -804,11 +804,11 @@
           },
           {
             "sentence": "こちらは、私の部屋でございます。",
-            "romaji": "koCHIRA WA, waTASHI NO heYA de goZAIMAsu."
+            "romaji": "koCHIRA WA, waTASHI NO HEYA de goZAIMAsu."
           },
           {
             "sentence": "先生はお見えになりますか。",
-            "romaji": "seNSEe wa oMIE NI naRIMAsu ka?"
+            "romaji": "seNSEe wa oMIE NI NARIMAsu ka?"
           },
           {
             "sentence": "もうお帰りですか。",
@@ -828,7 +828,7 @@
           },
           {
             "sentence": "よろしくお願いします。",
-            "romaji": "yoROSHIKU ONEGAISHIMAsu."
+            "romaji": "yoROSHIKU oNEGAISHIMAsu."
           },
           {
             "sentence": "すみません、お待たせしました。",
@@ -849,11 +849,11 @@
           },
           {
             "sentence": "もう帰っちゃっていい？",
-            "romaji": "MOo KAecchatte Ii?"
+            "romaji": "MOo KAecchatte ii?"
           },
           {
             "sentence": "ごめん、ついお前を呼んじまった。",
-            "romaji": "goMEN, TSUI oMAE O yoNJIMATTA."
+            "romaji": "goMEN, TSUI oMAE O yoNJIMAtta."
           },
           {
             "sentence": "宿題をやってしまいなさい。",
@@ -870,7 +870,7 @@
           },
           {
             "sentence": "日本の映画を観たことないの？",
-            "romaji": "niHOn no eIGA O MIta koto NAi no?"
+            "romaji": "niHON NO Eega o MIta koto NAi no?"
           },
           {
             "sentence": "今は授業が終ったところです。",
@@ -891,15 +891,15 @@
           },
           {
             "sentence": "あなたは、学生さんでしょうか。",
-            "romaji": "aNAta wa, gaKUSEESAN DESHOO ka."
+            "romaji": "aNAta wa, gaKUSEESAN DESHOo ka."
           },
           {
             "sentence": "あっ！遅刻しちゃう！だから、時間がないって言ったでしょう！",
-            "romaji": "A! chiKOKU shiCHAU! DAkara, jiKAN GA NAi tte iTTA DESHOO!"
+            "romaji": "A! chiKOKU shiCHAU! DAkara, jiKAN GA NAi tte iTTA deshoo!"
           },
           {
             "sentence": "もう家に帰るんだろう。そうよ。",
-            "romaji": "MOo iE ni KAerun daROO. SOo yo."
+            "romaji": "MOo iE ni kaErun daroo. soO YO."
           }
         ]
       },
@@ -908,11 +908,11 @@
         "bank": [
           {
             "sentence": "それだけは、食べないでください。",
-            "romaji": "soRE DAKE wa, taBEnaide kuDASAi."
+            "romaji": "soRE DAke wa, taBEnaide kuDASAi."
           },
           {
             "sentence": "この乗車券は発売当日のみ有効です。",
-            "romaji": "koNO JOOSHAken wa haTSUBAI TOOjitsu NOmi yuUKOO DEsu."
+            "romaji": "koNO JOOSHAken wa haTSUBAI toOJITSU NOmi yuUKOO desu."
           },
           {
             "sentence": "今日は忙しくて、朝ご飯しか食べられなかった。",
@@ -924,11 +924,11 @@
           },
           {
             "sentence": "崇君は漫画ばっかり読んでてさ。かっこ悪い。",
-            "romaji": "taKASHIKUN WA maNGA baKKAri YOndete sa. kaKKOWARUi."
+            "romaji": "TAkashikun wa maNGA baKKAri YOndete sa. kaKKOWARUi."
           },
           {
             "sentence": "直美ちゃんと遊ぶばっかりでしょう！",
-            "romaji": "naOMICHAN TO aSOBU baKKAri deSHOO!"
+            "romaji": "naOMICHAN TO aSOBU baKKAri deshoo!"
           },
           {
             "sentence": "佐藤さんは料理が上手で、また食べ過ぎました。",
@@ -936,19 +936,19 @@
           },
           {
             "sentence": "時間が足りなさすぎて、何もできなかった。",
-            "romaji": "jiKAN GA taRInaSASUgite, naNI MO deKInakatta."
+            "romaji": "jiKAN GA TARINASASUgite, naNI MO deKInakatta."
           },
           {
             "sentence": "昨日、電話三回もしたよ！",
-            "romaji": "kiNOO, deNWA SANKAI MO SHITA YO!"
+            "romaji": "kiNOO, deNWA saNKAI mo shita yo!"
           },
           {
             "sentence": "寝る時間がないほど忙しい。",
-            "romaji": "NERU JIKAN GA NAi hoDO iSOGASHIi."
+            "romaji": "neRU jiKAN GA NAi hodo iSOGASHIi."
           },
           {
             "sentence": "このビルの高さは何ですか？",
-            "romaji": "koNO BIru no TAkasa wa NAn desu ka?"
+            "romaji": "koNO BIru no taKAsa wa NAn desu ka?"
           }
         ]
       },
@@ -957,7 +957,7 @@
         "bank": [
           {
             "sentence": "ここには、誰もいないようだ。",
-            "romaji": "koKO NI wa, DAre mo iNAI YOo da."
+            "romaji": "koKO NI WA, daRE MO iNAI YOo da."
           },
           {
             "sentence": "学生のようだ。",
@@ -973,7 +973,7 @@
           },
           {
             "sentence": "何も起こらなかったように言った。",
-            "romaji": "naNI MO oKORAnakatta yoo ni iTTA."
+            "romaji": "naNI MO oKORAnakatta YOo ni iTTA."
           },
           {
             "sentence": "制服を着ている姿をみると、学生みたいです。",
@@ -997,7 +997,7 @@
           },
           {
             "sentence": "これはただの試合じゃなさそうだ。",
-            "romaji": "koRE WA TAda no shiAI JA naSASOo da."
+            "romaji": "koRE WA TAda no shiAI ja naSASOo da."
           },
           {
             "sentence": "毎日会いに行ったそうです。",
@@ -1034,11 +1034,11 @@
           },
           {
             "sentence": "ゆっくり食べた方が健康にいいよ。",
-            "romaji": "yuKKUri TAbeta HOo ga kenKOO NI Ii yo."
+            "romaji": "yuKKUri TAbeta hoo ga keNKOO NI Ii yo."
           },
           {
             "sentence": "マトリックス・レボリューションを見ない方がいいよ。",
-            "romaji": "maTORIKKUSU REBORYUUshon o MInai hoo ga Ii yo."
+            "romaji": "maTORIkkusu reBORYUUshon o MInai hoo ga Ii yo."
           },
           {
             "sentence": "花より団子。",
@@ -1058,7 +1058,7 @@
           },
           {
             "sentence": "人によって話が違う。",
-            "romaji": "hiTO NI YOTTE haNASHI ga chiGAU."
+            "romaji": "hiTO NI YOTTE haNASHI ga chiGAu."
           },
           {
             "sentence": "今日は飲みに行こうか？それは、裕子によるね。",
@@ -1066,7 +1066,7 @@
           },
           {
             "sentence": "天気予報によると、今日は雨だそうだ。",
-            "romaji": "teNKIYOhoo ni yoru to, KYOo wa Ame da SOo da."
+            "romaji": "teNKIYOhoo ni yoRU TO, KYOo wa Ame da SOo da."
           }
         ]
       },
@@ -1083,11 +1083,11 @@
           },
           {
             "sentence": "部屋が暗かったので、見にくかった。",
-            "romaji": "heYA ga kuRAkatta node, miniKUkatta."
+            "romaji": "heYA ga kuRAKATTA node, miNIKUkatta."
           },
           {
             "sentence": "とても信じがたい話だが、本当に起こったらしい。",
-            "romaji": "toTEMO SHINJIGATAi haNASHI da ga, hoNTOO NI oKOtta raSHIi."
+            "romaji": "toTEMO shiNJIGATAi haNASHI da ga, hoNTOO NI OKOtta raSHIi."
           },
           {
             "sentence": "待ち合わせは、分かりづらい場所にしないでね。",
@@ -1100,15 +1100,15 @@
         "bank": [
           {
             "sentence": "何も食べないで寝ました。",
-            "romaji": "naNI MO taBEnai de deMAshita."
+            "romaji": "naNI MO taBEnai de neMAshita."
           },
           {
             "sentence": "先生と相談しないで、この授業を取ることは出来ない。",
-            "romaji": "seNSEe to soUDAN SHINAI de, koNO JUgyoo o TOru koto wa deKInai."
+            "romaji": "seNSEe to soUDAN SHINAI de, koNO JUgyoo o TOru koTO wa deKInai."
           },
           {
             "sentence": "彼は何も言わず、帰ってしまった。",
-            "romaji": "KAre wa naNI MO iWAZU, KAette shimatta."
+            "romaji": "KAre wa naNI MO IWAzu, KAette shimatta."
           },
           {
             "sentence": "勉強せずに東大に入れると思わないな。",
@@ -1120,7 +1120,7 @@
           },
           {
             "sentence": "皆、今日行くって、知らんかったよ。",
-            "romaji": "miNNA, KYOo ikU tte, shiRANkatta yo."
+            "romaji": "miNNA, KYOo ikU tte, shiRANKAtta yo."
           }
         ]
       },
@@ -1129,19 +1129,19 @@
         "bank": [
           {
             "sentence": "いくら英語を勉強しても、うまくならないの。つまり、語学には、能力がないという訳か。失礼ね。",
-            "romaji": "Ikura eEGO O beNKYOO SHITE MO, Umaku naRAnai no. TSUmari, GOgaku ni wa, NOoryoku ga NAi to iU WAke ka. shiTSUree ne."
+            "romaji": "Ikura eEGO O beNKYOO SHITE mo, Umaku naRAnai no. TSUmari, goGAKU NI wa, NOoryoku ga NAi to iU WAke ka. shiTSUree ne."
           },
           {
             "sentence": "広子の家に行ったことある？あるわけないでしょう。",
-            "romaji": "Hiroko no iE ni iTTA KOTO Aru? Aru wake NAi deSHOO."
+            "romaji": "HIroko no iE ni iTTA KOTO Aru? Aru wake NAi deshoo."
           },
           {
             "sentence": "ここの試験に合格するのはわけない。",
-            "romaji": "koKO NO shiKEn ni goOKAKU SURU no wa WAke NAi."
+            "romaji": "koKO NO shiKEn ni goOKAKU SURU no wa waKENAi."
           },
           {
             "sentence": "ここまできて、あきらめるわけにはいかない。",
-            "romaji": "koKO MAde KIte, aKIRAMEru WAke ni wa iKANAI."
+            "romaji": "koKO MAde kite, aKIRAMEru WAke ni wa iKANAi."
           },
           {
             "sentence": "今から行くとしたら、９時に着くと思います。",
@@ -1149,11 +1149,11 @@
           },
           {
             "sentence": "観客として参加させてもらった。",
-            "romaji": "kaNKYAKU TO shiTE saNKA SASETE moRATTA."
+            "romaji": "kaNKYAKU TO SHITE saNKA SASETE moRAtta."
           },
           {
             "sentence": "朝ご飯を食べたとしても、もう昼だからお腹が空いたでしょう。",
-            "romaji": "aSAGOhan o TAbeta to shiTE mo, MOo hiRU dakara oNAKA GA suITA DESHOO."
+            "romaji": "aSAGOhan o TAbeta to shiTE mo, MOo hiRU dakara oNAKA GA suITA deshoo."
           }
         ]
       },
@@ -1170,11 +1170,11 @@
           },
           {
             "sentence": "窓を開けたとたんに、猫が跳んでいった。",
-            "romaji": "MAdo o aKETA TOTAN NI, NEko ga toNDE ITTA."
+            "romaji": "MAdo o aKETA toTAn ni, NEko ga toNDE Itta."
           },
           {
             "sentence": "テレビを観ながら、宿題をする。",
-            "romaji": "TErebi o miNAgara, shuKUDAI O suRU."
+            "romaji": "TErebi o miNAgara, shuKUDAI O suru."
           },
           {
             "sentence": "彼は、初心者ながらも、実力はプロと同じだ。",
@@ -1182,7 +1182,7 @@
           },
           {
             "sentence": "アメリカにいた時はコーラを飲みまくっていた。",
-            "romaji": "aMERIKA NI iTA TOki wa KOora o noMI MAKUtteita."
+            "romaji": "aMERIKA NI ITA TOki wa KOora o noMI MAKUtteita."
           }
         ]
       },
@@ -1199,7 +1199,7 @@
           },
           {
             "sentence": "テレビを付けっぱなしにしなければ眠れない人は、結構いる。",
-            "romaji": "TErebi o tsuKEPPANASHI NI shiNAkereba neMURENAI HITO wa, KEkkou iRU."
+            "romaji": "TErebi o tsuKEPPANASHI NI shiNAkereba neMURENAI HITO wa, KEkkoo iRU."
           },
           {
             "sentence": "窓が開けっ放しだったので、蚊がいっぱい入った。",
@@ -1217,7 +1217,7 @@
         "bank": [
           {
             "sentence": "彼の家はゴミだらけだ。",
-            "romaji": "KAre no iE WA goMI DArake da."
+            "romaji": "KAre no iE wa goMI DArake da."
           }
         ]
       },
@@ -1230,7 +1230,7 @@
           },
           {
             "sentence": "昨晩よく寝たおかげで授業中に寝なかった。",
-            "romaji": ""
+            "romaji": "saKUban YOku neTA oKAGE DE juGYOOCHUU NI neNAkatta."
           }
         ]
       },
